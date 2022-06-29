@@ -1,0 +1,201 @@
+= Draft Recommended Practice for Preparing an IEEE Standards Draft Amendment #
+:doctype: amendment
+:updates-document-type: international-standard
+:language: en
+:title-main-en: Draft Recommended Practice for Preparing an IEEE Standards Draft Amendment #
+:title-amendment-en: Draft Amendment #
+:docnumber: P987.6™/D2
+:amendment-number: #
+:technical-committee: Standards Staff Engineering Committee
+:affiliation: IEEE Template Society
+:issued-date: 2021-12-01
+:confirmed-date: <Date Approved>
+:subdivision: IEEE SA Standards Board
+:copyright-year: 2021
+:copyright-holder: The Institute of Electrical and Electronics Engineers, Inc., Three Park Avenue, New York, New York 10016-5997, USA
+:keywords: designation,document development,draft,equation,figure,guide,IEEE 987.6™,introduction,list,purpose,recommended practice,scope,standard
+:workgroup: <Working Group Name>
+:fullname: Arthur C. Clark
+:role: Chair
+:fullname_1: Alessandro Volta
+:role_1: Vice Chair
+:fullname_2: Participant1
+:fullname_3: Participant2
+:fullname_4: Participant3
+:fullname_5: Participant4
+:fullname_6: Participant5
+:fullname_7: Participant6
+:fullname_8: Participant7
+:fullname_9: Participant8
+:fullname_10: Participant9
+:mn-document-class: ieee
+:imagesdir: images
+:draft:
+
+[.preface,heading=abstract]
+== Abstract
+
+Key discussion points covered in the draft are stated here in a few complete
+sentences, using passive rather than active voice. The more specific the better since
+the abstract often populates search engines and catalog databases.
+
+[.preface]
+== Important Notices and Disclaimers Concerning IEEE Standards Documents
+
+*_[To be supplied by IEEE]_*
+
+[.preface]
+== Participants
+
+At the time this draft amendment was completed, the {workgroup} Working Group had the
+following membership:
+
+[align=center]
+*{fullname}*, _{role}_ +
+*{fullname_1}*, _{role_1}_
+
+[%unnumbered]
+|===
+a| {fullname_2} +
+{fullname_3} +
+{fullname_4} a| {fullname_5} +
+{fullname_6} +
+{fullname_7} a| {fullname_8} +
+{fullname_9} +
+{fullname_10}
+|===
+
+The following members of the <individual/entity> balloting committee voted on this
+amendment. Balloters may have voted for approval, disapproval, or abstention.
+
+*_[To be supplied by IEEE]_*
+
+When the IEEE SA Standards Board approved this amendment on {confirmed-date}, it had
+the following membership:
+
+*_[To be supplied by IEEE]_*
+
+[.preface]
+== Introduction
+
+// This introduction is not part of IEEE P987.6/D2, Draft Recommended Practice for Preparing an IEEE Standards Draft--Amendment {amendment-number}
+
+The introduction of the frontmatter is informative. It serves to give readers
+context, including background, key themes, history, etc.
+
+== {blank}
+
+NOTE: The editing instructions contained in this *amendment* define how to merge the
+material contained therein into the existing base standard and its amendments to form
+the comprehensive standard.
+
+The editing instructions are shown in *_bold italic_*. Four editing instructions are
+used: change, delete, insert, and replace. *_Change_* is used to make corrections in
+existing text or tables. The editing instruction specifies the location of the change
+and describes what is being changed by using [strike]#strikethrough# (to remove old
+material) and [underline]#underscore# (to add new material). *_Delete_* removes
+existing material. *_Insert_* adds new material without disturbing the existing
+material. Insertions may require renumbering. If so, renumbering instructions are
+given in the editing instruction. *_Replace_* is used to make changes in figures or
+equations by removing the existing figure or equation and replacing it with a new
+one. Editing instructions, change markings, and this NOTE will not be carried over
+into future editions because the changes will be incorporated into the base standard.
+
+[change=modify,locality="clause=2"]
+== Normative references
+
+*_Change the following reference in Clause 2:_*
+
+[quote]
+____
+IEEE Std [strike]#P#802.21&trade; [strike]#(Draft 14, 21 November 2003)#,
+[strike]#Draft# [underline]#IEEE# Standard for Local and Metropolitan Area Networks
+--[underline]#Part 21:# Media Independent Handover Services.
+____
+
+*_Insert the following references in Clause 2 in alphanumeric order:_*
+
+[quote]
+____
+IEEE P802.21a&trade; (D06, November 2011), Draft Standard for Local and Metropolitan
+Area Networks--Part 21: Media Independent Handover Services--Amendment 2: Security
+Extensions to Media Independent Handover Services and Protocol.
+
+IEEE P802.21b&trade; (D06, November 2011), Draft Standard for Local and Metropolitan
+Area Networks--Part 21: Media Independent Handover Services--Amendment 1: Extension
+for Supporting Handover with Downlink Only Technologies.
+____
+
+[change=modify,locality="clause=4"]
+== Important elements of IEEE standards drafts
+
+[change=modify,locality="clause=4.3"]
+=== Tables
+
+*_Change Table 1 as follows:_*
+
+[quote]
+____
+.Table formatting
+[headerrows=2]
+|===
+.2+^.^| Column heading .2+^.^| Column heading 2+^| Column heading{blank}footnote:[Table footnotes are considered to be a normative part of the document.]
+
+^| Column heading ^| Column heading
+
+a| Line heading +
+Subheading +
+Subheading
+
+a| Tabulated data (individual +
+positions within the body of +
+the table are called _cells_)
+
+.2+| .2+|
+
+| Line heading |
+
+4+a| NOTE: This table is provided as an example. The structure of actual tables may
+vary depending on the data being displayed.
+
+[strike]#NOTE: Use 0.75 Xd for hydrogenerators without amortisseur windings.#
+|===
+____
+
+[change=modify,locality="clause=4.4"]
+=== Figures
+
+*_Replace Figure 2 with the following:_*
+
+autonumber:figure[2]
+
+[quote]
+____
+.A sample of figure presentation
+image::img01.png[]
+
+NOTE: Notes to figures are placed between the graphic and the figure caption.
+Reprinted with permission from ABC Company, _Title of Publication_, © 20XX.
+____
+
+[change=add,locality="clause=B",path="."]
+[appendix,obligation=informative]
+== Glossary
+
+*_Insert Annex C after Annex B. Add the following terms in alphabetical order:_*
+
+[quote]
+____
+*circuit breaker*:: A device designed to open and close a circuit by non-automatic
+means, and to open the circuit automatically on a predetermined overload of current,
+without injury to itself when properly applied within its rating.
+
+*continuous current*:: The maximum constant rms power frequency current that can be
+carried continuously without causing further measurable increase in temperature rise
+under prescribed conditions of test, and within the limitations of established
+standards.
+
+*loading*:: The modification of a basic antenna such as a dipole or monopole caused
+by the addition of conductors or circuit elements that change the input impedance or
+current distribution or both.
+____
