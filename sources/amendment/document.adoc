@@ -1,36 +1,30 @@
-= Draft Recommended Practice for Preparing an IEEE Standards Draft Amendment #
+= Recommended Practice for Preparing an IEEE Standards
 :doctype: amendment
-:updates-document-type: international-standard
+:updates-document-type: recommended-practice
 :language: en
-:title-main-en: Draft Recommended Practice for Preparing an IEEE Standards Draft Amendment #
-:title-amendment-en: Draft Amendment #
-:docnumber: P987.6™/D2
+:doctitle: Recommended Practice for Preparing an IEEE Standards
+:amendment-title: Amendment
+:docnumber: 987.6
+:draft: 2
+:isbn-pdf: ISBN 978-0-XXXX-XXXX-X
+:isbn-print: ISBN 978-0-XXXX-XXXX-X
+:stdid-pdf: STDXXXXX
+:stdid-print: STDPDXXXXX
 :amendment-number: #
-:technical-committee: Standards Staff Engineering Committee
-:affiliation: IEEE Template Society
+:committee: Standards Staff Engineering Committee
+:society: Template Society
 :issued-date: 2021-12-01
 :confirmed-date: <Date Approved>
 :subdivision: IEEE SA Standards Board
 :copyright-year: 2021
 :copyright-holder: The Institute of Electrical and Electronics Engineers, Inc., Three Park Avenue, New York, New York 10016-5997, USA
 :keywords: designation,document development,draft,equation,figure,guide,IEEE 987.6™,introduction,list,purpose,recommended practice,scope,standard
-:workgroup: <Working Group Name>
-:fullname: Arthur C. Clark
-:role: Chair
-:fullname_1: Alessandro Volta
-:role_1: Vice Chair
-:fullname_2: Participant1
-:fullname_3: Participant2
-:fullname_4: Participant3
-:fullname_5: Participant4
-:fullname_6: Participant5
-:fullname_7: Participant6
-:fullname_8: Participant7
-:fullname_9: Participant8
-:fullname_10: Participant9
+:working-group: <Working Group Name>
+:wg-chair: Arthur C. Clark
+:wg-vicechair: Alessandro Volta
+:wg-members: Participant1;Participant2;Participant3;Participant4;Participant5; Participant6;Participant7;Participant8;Participant9
 :mn-document-class: ieee
 :imagesdir: images
-:draft:
 
 [.preface,heading=abstract]
 == Abstract
@@ -38,42 +32,6 @@
 Key discussion points covered in the draft are stated here in a few complete
 sentences, using passive rather than active voice. The more specific the better since
 the abstract often populates search engines and catalog databases.
-
-[.preface]
-== Important Notices and Disclaimers Concerning IEEE Standards Documents
-
-*_[To be supplied by IEEE]_*
-
-[.preface]
-== Participants
-
-At the time this draft amendment was completed, the {workgroup} Working Group had the
-following membership:
-
-[align=center]
-*{fullname}*, _{role}_ +
-*{fullname_1}*, _{role_1}_
-
-[%unnumbered]
-|===
-a| {fullname_2} +
-{fullname_3} +
-{fullname_4} a| {fullname_5} +
-{fullname_6} +
-{fullname_7} a| {fullname_8} +
-{fullname_9} +
-{fullname_10}
-|===
-
-The following members of the <individual/entity> balloting committee voted on this
-amendment. Balloters may have voted for approval, disapproval, or abstention.
-
-*_[To be supplied by IEEE]_*
-
-When the IEEE SA Standards Board approved this amendment on {confirmed-date}, it had
-the following membership:
-
-*_[To be supplied by IEEE]_*
 
 [.preface]
 == Introduction
@@ -108,7 +66,7 @@ into future editions because the changes will be incorporated into the base stan
 
 [quote]
 ____
-IEEE Std [strike]#P#802.21&trade; [strike]#(Draft 14, 21 November 2003)#,
+IEEE Std [strike]#P# 802.21&trade; [strike]#(Draft 14, 21 November 2003)#,
 [strike]#Draft# [underline]#IEEE# Standard for Local and Metropolitan Area Networks
 --[underline]#Part 21:# Media Independent Handover Services.
 ____
@@ -143,8 +101,8 @@ ____
 
 ^| Column heading ^| Column heading
 
-a| Line heading +
-Subheading +
+h| Line heading
+Subheading
 Subheading
 
 a| Tabulated data (individual +
