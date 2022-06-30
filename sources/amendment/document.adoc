@@ -6,8 +6,8 @@
 :amendment-title: Amendment
 :docnumber: 987.6
 :draft: 2
-:isbn-pdf: ISBN 978-0-XXXX-XXXX-X
-:isbn-print: ISBN 978-0-XXXX-XXXX-X
+:isbn-pdf: 978-0-XXXX-XXXX-X
+:isbn-print: 978-0-XXXX-XXXX-X
 :stdid-pdf: STDXXXXX
 :stdid-print: STDPDXXXXX
 :amendment-number: #
