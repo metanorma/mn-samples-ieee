@@ -1,0 +1,39 @@
+
+== Overview
+
+=== Scope
+
+The scope shall be within the technical boundaries, as determined
+by the balloting group, of the scope submitted on the PAR. If the
+standard incorporated Open Source, this should be noted in the Scpe
+along with a link to the Open Source of the URL.
+
+
+=== Purpose
+
+The purpose shall be within the technical boundaries, as determined
+by the balloting group, of the purpose
+submitted on the PAR.
+
+
+=== Word usage
+
+The word _shall_ indicates mandatory requirements strictly to be followed
+in order to conform to the standard and from which no deviation is
+permitted (_shall_ equals _is required to_). footnote:[The word _must_
+is deprecated and cannot be used when stating mandatory requirements;
+must is used only to describe unavoidable situations.] footnote:[The
+word will is deprecated and cannot be used when stating mandatory
+requirements; will is only used in
+statements of fact.]
+
+The word _should_ indicates that among several possibilities one is
+recommended as particularly suitable, without mentioning or excluding
+others; or that a certain course of action is preferred but not necessarily
+required (_should_ equals _is recommended that_).
+
+The word may is used to indicate a course of action permissible within
+the limits of the standard (_may_ equals _is permitted to_).
+
+The word _can_ is used for statements of possibility and capability,
+whether material, physical, or causal (_can_ equals _is able to_).
