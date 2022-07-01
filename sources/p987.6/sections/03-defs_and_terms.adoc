@@ -1,0 +1,67 @@
+
+== Terms and definitions
+
+=== Definitions
+
+For the purposes of this document, the following terms and definitions
+apply. The IEEE Standards _Dictionary Online_ should be consulted
+for terms not defined in this clause. footnote:[The _IEEE Standards
+Dictionary Online_ is available at: http://dictionary.ieee.org.]
+
+
+==== acceleration-insensitive drift rate
+related:seealso[drift rate]
+related:seealso[systematic drift rate]
+
+The component of...
+
+==== code set
+related:see[coded character set]
+
+==== coded character set
+related:equivalent[code set]
+
+A set of characters.
+
+==== drift rate
+
+The slope at a stated time of...
+
+[.source]
+<<iso-iec_9945-1>>
+
+==== input reference axis (IRA)
+// related:contrast[output reference axis]
+
+The direction of an axis.
+
+NOTE: See 6.7. footnote:[Notes in text, tables, and figures of a standard
+are given for information only and do not contain requirements needed
+to implement this standard.]
+
+==== output
+
+[.definition]
+--
+Data that ...
+--
+
+[.definition]
+--
+The process of ...
+--
+
+==== systematic drift rate
+
+That component of drift rate that...
+
+[.source]
+<<IEEE_Std_260.1>>
+
+=== Acronyms and abbreviations
+
+DER:: distributed emission regeneration
+DIS:: distributed interactive simulation
+ISDN:: integrated services digital network
+LAN:: local area network
+PDU:: protocol data unit
