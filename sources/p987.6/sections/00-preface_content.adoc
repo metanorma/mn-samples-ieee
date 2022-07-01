@@ -1,0 +1,18 @@
+
+[abstract]
+== Abstract
+
+Key discussion points covered in the draft are stated here in a few
+complete sentences, using passive rather than active voice. The more
+specific the better since the abstract often populates search engines
+and catalog databases.
+
+== Introduction
+
+The introduction of the frontmatter is informative. It serves to give
+readers context, including background, key themes, history, etc.
+
+[.preface]
+== Acknowledgments
+
+Permissions have been granted as follows:
