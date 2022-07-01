@@ -1,0 +1,15 @@
+
+[appendix,obligation="informative"]
+== Sample bibliography
+
+[bibliography]
+=== Bibliography
+
+* [[[B1,1]]], _Name of Book Title in Italics_. City of Publication,
+State: Name of Publisher, Year of Publication. First and Last Page
+of Reference.
+
+* [[[B2,2]]], IEEE Std XXX^(TM)^-YEAR, IEEE Standard for Something
+Industry Needs.
+
+* [[[iso-iec_9945-1,ISO/IEC 9945-1:2003]]]
