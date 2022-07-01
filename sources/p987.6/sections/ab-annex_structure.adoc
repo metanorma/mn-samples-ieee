@@ -1,0 +1,70 @@
+
+[appendix,obligation="normative"]
+== Structure of a sample annex
+
+=== Overview
+
+==== Title
+
+Every annex shall be given a title and shall be designated either
+a normative or an informative annex. Notice that the numbering now
+contains the annex letter. See <<eq_B-1>>:
+
+[[eq_B-1]]
+[stem]
+++++
+Y(x) = Y_0 exp[-(x - x_0)^2 // (2f^2) ]
+++++
+
+where
+
+stem:[Y(x)]:: is the amplitude of the Gaussian function at channel
+stem:[x]
+stem:[Y_0]:: is the height of the Gaussian at the centroid channel
+stem:[x]:: is the channel number
+stem:[x_0]:: is the centroid of the Gaussian
+stem:[f]:: is the width of the Gaussian
+
+
+==== Clause and subclause organization
+
+The material in an annex should be organized into clauses and subclauses
+just like the body text. There should be at least two subclauses in
+any subdivision so that if there is one second-level header, there
+should be at a minimum one other one.
+
+=== Material in annexes
+
+Tables, figures, equations, lists, etc., in an annex are formatted
+like they would be in the body of the text except that
+
+* Tables are numbered according to the annex letter (see <<table_B-1>>).
+* Figures are labeled according to the annex letter (see <<fig_B-1>>).
+
+
+[[table_B-1]]
+.Sample table in an annex
+[cols="a,a,a,a"]
+|===
+.2+^.^h| Column heading .2+^.^h| Column heading 2+^.^h| Column heading
+^.^h| Column heading ^.^h| Column heading
+
+| Line heading 
+
+Subheading
+
+Subheading
+| Tabulated data (individual
+positions within the body of
+the table are called _cells_)
+.2+|
+.2+|
+
+| Line heading
+|
+|===
+
+
+[[fig_B-1]]
+.Sample figure in an annex
+image::figb-1.png[]
