@@ -1,0 +1,171 @@
+
+== Important elements of IEEE standards drafts
+
+=== General
+
+IEEE drafts should be created using one of the approved IEEE SA templates.
+The templates have built-in macro features that allow for easy tagging
+of each of the draft elements.footnote:[IEEE SA approved templates
+can be found online at
+https://standards.ieee.org/develop/drafting-standard/resources.html.]
+
+Sources listed in the normative references clause shall also be cited
+in text. Explain the role and significance of each normative reference.
+Note that IEEE drafts may be included in the normative references
+clause as long as they are properly cited. See reference to IEEE P802.21
+(Draft 14, November 2003) in <<cls_2>> of this sample.
+
+NOTE: A normative reference is a document that users of the standard
+need to have on hand and understand in order to correctly implement
+the material contained in an IEEE draft.
+
+NOTE: Documents that serve as supplemental information that authors
+of the standard found useful when researching the material, but that
+do not carry the same weight as the normative references, are usually
+informative and therefore would belong in a bibliography (informative
+annex).
+
+All IEEE standards shall use metric units as the primary units of
+measure. Customary equivalents may be included in the text after the
+metric units in parentheses. In the case of tables, separate tables
+for metric and customary units may be included. See National Electrical
+Safety Code^(R)^ (NESC^(R)^) (Accredited Standards Committee C2-2012)
+and National Electrical Code^(R)^ (NEC^(R)^) (NFPA 70, 2011 Edition)
+for examples. For more information on the use of metric in IEEE standards,
+see IEEE/ANSI SI 10. For guidance on the use of letter symbols for
+units of measurement, refer to IEEE Std 260.1-2004.
+
+
+=== Lists
+
+Lists in a clause or subclause may be ordered or unordered.
+
+The following is an example of a properly formatted ordered list:
+
+. Name of the manufacturer
+. Connection chart showing
+.. Full winding development
+.. Taps
+. Self-impedance (for linear coupler transformers)
+.. Reactance
+.. Impedance
+... For volts
+... For amperes
+
+The following is an example of a properly formatted unordered list:
+
+* Begin with a capital letter.
+* Include final punctuation for all items in the list if one item
+in the list is a complete sentence.
+
+
+=== Tables
+
+Tables should be cited in text and the significance of the tables
+explained. Table titles are positioned above the tables. <<table_1>>
+shows the nomenclature of a properly formatted table.
+
+[[table_1]]
+.Table formatting
+[cols="a,a,a,a"]
+|===
+.2+^.^h| Column heading .2+^.^h| Column heading 2+^.^h| Column heading
+footnote:[Table footnotes are considered to be a normative part of
+the document.]
+^.^h| Column heading ^.^h| Column heading
+
+| Line heading
+
+Subheading
+
+Subheading
+| Tabulated data (individual
+positions within the body of
+the table are called _cells_)
+.2+|
+.2+|
+
+| Line heading
+|
+|===
+
+NOTE: This table is provided as an example. The structure of actual
+tables may vary depending on the data being
+displayed.
+
+NOTE: Use 0.75 Xd for hydrogenerators without amortisseur windings.
+
+
+Column headings are in bold and centered. If a table extends beyond
+one page, carry the title of the table over to each subsequent page
+with "`(_continued_)`" after the title. Table notes are informative;
+table footnotes are normative.
+
+The following is an example of an informal table. Note that there
+is no title or table number. Use these sparingly. It is preferred
+that all tables are numbered and titled.
+
+[cols="<,^",options="unnumbered"]
+|===
+^h| Cable type ^h| Rated voltage (kV)
+a| High pressure | 69&ndash;161
+a| Low pressure
+
+Gas-filled
+a| 10&ndash;29
+
+30&ndash;46
+a|Low and medium pressure
+
+Liquid-filled
+a| 15&ndash;161
+
+230
+|===
+
+
+=== Figures
+
+Figures should be cited in text and the significance of the figures
+explained. Figure titles are positioned below the figures themselves.
+Figures can be created using text or graphics software. <<fig1>> and
+<<fig2>> show properly formatted figures.
+
+[[fig1]]
+.Typographical specifications for figure title
+image::fig1.png[]
+
+
+[[fig2]]
+.A sample of figure presentation
+====
+[[fig1a]]
+.vibration test
+image::fig2-a.png[]
+
+[[fig1b]]
+.shock test
+image::fig2-b.png[]
+====
+NOTE: Notes to figures are formatted between the graphic and the figure
+caption.
+
+=== Equations
+
+Equations should be cited in text and the significance of each equation
+explained. The equation number should be right-aligned. See <<eq1>>.
+
+[[eq1]]
+[stem]
+++++
+Y(x) = Y_0 exp[-(x - x_0)^2 // (2f^2) ]
+++++
+
+where
+
+stem:[Y(x)]:: is the amplitude of the Gaussian function at channel
+stem:[x]
+stem:[Y_0]:: is the height of the Gaussian at the centroid channel
+stem:[x]:: is the channel number
+stem:[x_0]:: is the centroid of the Gaussian
+stem:[f]:: is the width of the Gaussian
