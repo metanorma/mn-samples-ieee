@@ -1,0 +1,35 @@
+
+[[cls_2]]
+[bibliography]
+== Normative references
+
+* [[[IEEE_ASTM,IEEE/ASTM SI]]], IEEE/ASTM SI 10^(TM)^, American National
+Standard for Metric Practice.
+
+* [[[accredited_standards,Accredited Standards]]], Accredited Standards
+Committee C2-2012, National Electrical Safety Code^(R)^ (NESC^(R)^).
+footnote:[National Electrical Safety Code and NESC are both registered
+trademarks and service marks of The Institute of Electrical and Electronics
+Engineers, Incorporated.] footnote:[The NESC is available from The
+Institute of Electrical and Electronics Engineers at http://standards.ieee.org/.]
+
+* [[[IEEE_P802,IEEE P802.21]]], IEEE P802.21^(TM)^ (Draft 14, November
+2003), Draft Standard for Local and Metropolitan Area Networks --
+Media Independent Handover Services.footnote:[Numbers preceded by
+P are IEEE authorized standards projects that were not approved by
+The IEEE SA Standards Board at the time this publication went to Sponsor
+ballot/press. For information about obtaining drafts, contact the
+IEEE.]
+
+* [[[IEEE_Std_91,IEEE Std 91]]]
+
+* [[[IEEE_Std_260.1,IEEE Std 260.1-2004]]]
+
+* [[[ISO-IEC_27002,ISO/IEC 27002:2013]]]
+
+* [[[NFPA_70,NFPA 70]]], NFPA 70, 2011 Edition, National Electrical
+Code^(R)^ (NEC^(R)^).footnote:[National Electrical Code and NEC are
+both registered trademarks of the National Fire Protection Association,
+Incorporated.] footnote:[The NEC is published by the National Fire
+Protection Association (http://www.nfpa.org/). Copies are also available
+from The Institute of Electrical and Electronics Engineers at http://shop.ieee.org/.]
