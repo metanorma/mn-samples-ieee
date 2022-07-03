@@ -79,9 +79,7 @@ the document.]
 Subheading
 
 Subheading
-| Tabulated data (individual
-positions within the body of
-the table are called _cells_)
+| Tabulated data (individual positions within the body of the table are called _cells_)
 .2+|
 .2+|
 
@@ -105,9 +103,9 @@ The following is an example of an informal table. Note that there
 is no title or table number. Use these sparingly. It is preferred
 that all tables are numbered and titled.
 
-[cols="<,^",options="unnumbered"]
+[cols="<,^",options="unnumbered,header"]
 |===
-^h| Cable type ^h| Rated voltage (kV)
+^| Cable type ^| Rated voltage (kV)
 a| High pressure | 69&ndash;161
 a| Low pressure
 
