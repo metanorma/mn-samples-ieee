@@ -1,5 +1,6 @@
 = Draft Recommended Practice for Preparing an IEEE Standards Draft
-:docnumber: P987.6/D3
+:docnumber: 987.6
+:draft: 3
 :doctype: standard
 :copyright-year: 2020
 :revdate: 2021-01-01
