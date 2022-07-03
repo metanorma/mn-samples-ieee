@@ -3,12 +3,6 @@
 
 === Definitions
 
-For the purposes of this document, the following terms and definitions
-apply. The IEEE Standards _Dictionary Online_ should be consulted
-for terms not defined in this clause. footnote:[The _IEEE Standards
-Dictionary Online_ is available at: http://dictionary.ieee.org.]
-
-
 ==== acceleration-insensitive drift rate
 related:seealso[drift rate]
 related:seealso[systematic drift rate]
