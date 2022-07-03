@@ -24,7 +24,8 @@ The slope at a stated time of...
 [.source]
 <<iso-iec_9945-1>>
 
-==== input reference axis (IRA)
+==== input reference axis
+alt:[IRA]
 // related:contrast[output reference axis]
 
 The direction of an axis.
