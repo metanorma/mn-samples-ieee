@@ -9,12 +9,12 @@
 :society: Template Society
 :committee: Standards Staff Engineering Committee
 :working-group: Working Group Name
-:wg_chair: Arthur C. Clark
-:wg_vicechair: Alessandro Volta
+:wg-chair: Arthur C. Clark
+:wg-vicechair: Alessandro Volta
 :balloting-group: Balloting Group Name
-:std_board_chair: Claude Elwood Shannon
-:std_board_vicechair: Charles-Augustin de Coulomb
-:std_board_members: Participant1; Participant2; Participant3; Participant4; Participant5; Participant6; Participant7; Participant8; Participant9
+:std-board-chair: Claude Elwood Shannon
+:std-board-vicechair: Charles-Augustin de Coulomb
+:std-board-members: Participant1; Participant2; Participant3; Participant4; Participant5; Participant6; Participant7; Participant8; Participant9
 :keywords: designation, document development, draft, equation, figure, guide, IEEE 987.6TM, introduction, list, purpose, recommended practice, scope, standard
 :title-main-en: Draft Recommended Practice for Preparing an IEEE Standards Draft
 :mn-document-class: ieee
