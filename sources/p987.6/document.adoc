@@ -1,5 +1,6 @@
 = Draft Recommended Practice for Preparing an IEEE Standards Draft
 :docnumber: 987.6
+:docstage: draft
 :draft: 3
 :doctype: standard
 :copyright-year: 2020
@@ -32,4 +33,3 @@ include::sections/04-important_elements.adoc[]
 include::sections/aa-bibliography.adoc[]
 
 include::sections/ab-annex_structure.adoc[]
-
