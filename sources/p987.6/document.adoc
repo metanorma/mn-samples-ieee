@@ -15,11 +15,10 @@
 :std-board-vicechair: Charles-Augustin de Coulomb
 :std-board-members: Participant1; Participant2; Participant3; Participant4; Participant5; Participant6; Participant7; Participant8; Participant9
 :keywords: designation, document development, draft, equation, figure, guide, IEEE 987.6TM, introduction, list, purpose, recommended practice, scope, standard
-:title-main-en: Draft Recommended Practice for Preparing an IEEE Standards Draft
 :mn-document-class: ieee
 :imagesdir: images
 
- 
+
 include::sections/00-preface_content.adoc[]
 
 include::sections/01-overview.adoc[]
