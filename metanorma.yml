@@ -1,0 +1,9 @@
+---
+metanorma:
+  source:
+    files:
+      - sources/p987.6/document.adoc
+
+  collection:
+    organization: "Metanorma : Standards for standards"
+    name: "IEEE sample documents in Metanorma (Metanorma AsciiDoc syntax)"
