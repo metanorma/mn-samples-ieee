@@ -18,8 +18,7 @@ Y(x) = Y_0 exp[-(x - x_0)^2 // (2f^2) ]
 
 where
 
-stem:[Y(x)]:: is the amplitude of the Gaussian function at channel
-stem:[x]
+stem:[Y(x)]:: is the amplitude of the Gaussian function at channel stem:[x]
 stem:[Y_0]:: is the height of the Gaussian at the centroid channel
 stem:[x]:: is the channel number
 stem:[x_0]:: is the centroid of the Gaussian
@@ -49,7 +48,7 @@ like they would be in the body of the text except that
 .2+^.^h| Column heading .2+^.^h| Column heading 2+^.^h| Column heading
 ^.^h| Column heading ^.^h| Column heading
 
-| Line heading 
+| Line heading
 
 Subheading
 
