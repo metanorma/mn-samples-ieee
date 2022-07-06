@@ -1,21 +1,28 @@
-= Draft Recommended Practice for Preparing an IEEE Standards Draft
+= Recommended Practice for Preparing an IEEE Standards Draft
+:doctype: standard
 :docnumber: 987.6
 :docstage: draft
 :draft: 3
-:doctype: standard
 :copyright-year: 2020
 :revdate: 2021-01-01
 :language: en
 :society: Template Society
 :committee: Standards Staff Engineering Committee
 :working-group: Working Group Name
+:confirmed-date: <Date Approved>
 :wg-chair: Arthur C. Clark
 :wg-vicechair: Alessandro Volta
+:wg-members: Participant1;Participant2;Participant3;Participant4;Participant5; Participant6;Participant7;Participant8;Participant9
 :balloting-group: Balloting Group Name
+:balloting-group-members: Participant1;Participant2;Participant3;Participant4;Participant5; Participant6;Participant7;Participant8;Participant9
 :std-board-chair: Claude Elwood Shannon
 :std-board-vicechair: Charles-Augustin de Coulomb
 :std-board-members: Participant1; Participant2; Participant3; Participant4; Participant5; Participant6; Participant7; Participant8; Participant9
-:keywords: designation, document development, draft, equation, figure, guide, IEEE 987.6TM, introduction, list, purpose, recommended practice, scope, standard
+:keywords: designation,document development,draft,equation,figure,guide,IEEE 987.6™,introduction,list,purpose,recommended practice,scope,standard
+:isbn-pdf: 978-0-XXXX-XXXX-X
+:isbn-print: 978-0-XXXX-XXXX-X
+:stdid-pdf: STDXXXXX
+:stdid-print: STDPDXXXXX
 :mn-document-class: ieee
 :imagesdir: images
 
