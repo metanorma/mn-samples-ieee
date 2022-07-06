@@ -1,63 +1,60 @@
-= Recommended Practice for Preparing an IEEE Standards
+= Recommended Practice for Preparing an IEEE Standard
 :doctype: amendment
-:updates-document-type: recommended-practice
-:language: en
-:doctitle: Recommended Practice for Preparing an IEEE Standards
-:amendment-title: Amendment
 :docnumber: 987.6
+:docstage: draft
 :draft: 2
-:isbn-pdf: 978-0-XXXX-XXXX-X
-:isbn-print: 978-0-XXXX-XXXX-X
-:stdid-pdf: STDXXXXX
-:stdid-print: STDPDXXXXX
-:amendment-number: #
-:committee: Standards Staff Engineering Committee
-:society: Template Society
-:issued-date: 2021-12-01
-:confirmed-date: <Date Approved>
-:subdivision: IEEE SA Standards Board
 :copyright-year: 2021
-:copyright-holder: The Institute of Electrical and Electronics Engineers, Inc., Three Park Avenue, New York, New York 10016-5997, USA
-:keywords: designation,document development,draft,equation,figure,guide,IEEE 987.6™,introduction,list,purpose,recommended practice,scope,standard
-:working-group: <Working Group Name>
+:revdate: 2021-01-01
+:language: en
+:society: Template Society
+:committee: Standards Staff Engineering Committee
+:working-group: Working Group Name
+:confirmed-date: <Date Approved>
 :wg-chair: Arthur C. Clark
 :wg-vicechair: Alessandro Volta
 :wg-members: Participant1;Participant2;Participant3;Participant4;Participant5; Participant6;Participant7;Participant8;Participant9
+:balloting-group: Balloting Group Name
+:balloting-group-members: Participant1;Participant2;Participant3;Participant4;Participant5; Participant6;Participant7;Participant8;Participant9
+:std-board-chair: Claude Elwood Shannon
+:std-board-vicechair: Charles-Augustin de Coulomb
+:std-board-members: Participant1; Participant2; Participant3; Participant4; Participant5; Participant6; Participant7; Participant8; Participant9
+:keywords: designation,document development,draft,equation,figure,guide,IEEE 987.6™,introduction,list,purpose,recommended practice,scope,standard
+:amendment-number: #
+:updates-document-type: recommended-practice
 :mn-document-class: ieee
 :imagesdir: images
+// :amendment-title: Amendment
 
-[.preface,heading=abstract]
+[abstract]
 == Abstract
 
 Key discussion points covered in the draft are stated here in a few complete
 sentences, using passive rather than active voice. The more specific the better since
 the abstract often populates search engines and catalog databases.
 
-[.preface]
 == Introduction
-
-// This introduction is not part of IEEE P987.6/D2, Draft Recommended Practice for Preparing an IEEE Standards Draft--Amendment {amendment-number}
 
 The introduction of the frontmatter is informative. It serves to give readers
 context, including background, key themes, history, etc.
 
-== {blank}
-
-NOTE: The editing instructions contained in this *amendment* define how to merge the
-material contained therein into the existing base standard and its amendments to form
-the comprehensive standard.
-
-The editing instructions are shown in *_bold italic_*. Four editing instructions are
-used: change, delete, insert, and replace. *_Change_* is used to make corrections in
-existing text or tables. The editing instruction specifies the location of the change
-and describes what is being changed by using [strike]#strikethrough# (to remove old
-material) and [underline]#underscore# (to add new material). *_Delete_* removes
-existing material. *_Insert_* adds new material without disturbing the existing
-material. Insertions may require renumbering. If so, renumbering instructions are
-given in the editing instruction. *_Replace_* is used to make changes in figures or
-equations by removing the existing figure or equation and replacing it with a new
-one. Editing instructions, change markings, and this NOTE will not be carried over
-into future editions because the changes will be incorporated into the base standard.
+NOTE: The editing instructions contained in this *amendment* define how to
+merge the material contained therein into the existing base standard and its
+amendments to form the comprehensive standard. +
++
+The editing instructions are shown in *_bold italic_*. Four editing
+instructions are used: change, delete, insert, and replace.
+*_Change_* is used to make corrections in existing text or tables. The editing
+instruction specifies the location of the change and describes what is being
+changed by using [strike]#strikethrough# (to remove old material) and
+[underline]#underscore# (to add new material).
+*_Delete_* removes existing material.
+*_Insert_* adds new material without disturbing the existing material.
+Insertions may require renumbering. If so, renumbering instructions are given in
+the editing instruction.
+*_Replace_* is used to make changes in figures or equations by removing the
+existing figure or equation and replacing it with a new one. Editing
+instructions, change markings, and this NOTE will not be carried over into
+future editions because the changes will be incorporated into the base standard.
 
 [change=modify,locality="clause=2"]
 == Normative references
@@ -66,7 +63,7 @@ into future editions because the changes will be incorporated into the base stan
 
 [quote]
 ____
-IEEE Std [strike]#P# 802.21&trade; [strike]#(Draft 14, 21 November 2003)#,
+IEEE Std [strike]#P# 802.21(TM) [strike]#(Draft 14, 21 November 2003)#,
 [strike]#Draft# [underline]#IEEE# Standard for Local and Metropolitan Area Networks
 --[underline]#Part 21:# Media Independent Handover Services.
 ____
@@ -75,11 +72,11 @@ ____
 
 [quote]
 ____
-IEEE P802.21a&trade; (D06, November 2011), Draft Standard for Local and Metropolitan
+IEEE P802.21a(TM) (D06, November 2011), Draft Standard for Local and Metropolitan
 Area Networks--Part 21: Media Independent Handover Services--Amendment 2: Security
 Extensions to Media Independent Handover Services and Protocol.
 
-IEEE P802.21b&trade; (D06, November 2011), Draft Standard for Local and Metropolitan
+IEEE P802.21b(TM) (D06, November 2011), Draft Standard for Local and Metropolitan
 Area Networks--Part 21: Media Independent Handover Services--Amendment 1: Extension
 for Supporting Handover with Downlink Only Technologies.
 ____
