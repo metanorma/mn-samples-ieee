@@ -9,11 +9,8 @@ related:seealso[systematic drift rate]
 
 The component of...
 
-==== code set
-related:see[coded character set]
-
 ==== coded character set
-related:equivalent[code set]
+alt:[code set]
 
 A set of characters.
 
@@ -25,7 +22,7 @@ The slope at a stated time of...
 <<iso-iec_9945-1>>
 
 ==== input reference axis
-// related:contrast[output reference axis]
+related:contrast[output reference axis]
 
 [%metadata]
 abbreviation-type:: initialism
