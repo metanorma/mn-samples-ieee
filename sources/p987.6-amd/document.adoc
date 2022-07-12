@@ -37,25 +37,6 @@ the abstract often populates search engines and catalog databases.
 The introduction of the frontmatter is informative. It serves to give readers
 context, including background, key themes, history, etc.
 
-NOTE: The editing instructions contained in this *amendment* define how to
-merge the material contained therein into the existing base standard and its
-amendments to form the comprehensive standard. +
-+
-The editing instructions are shown in *_bold italic_*. Four editing
-instructions are used: change, delete, insert, and replace.
-*_Change_* is used to make corrections in existing text or tables. The editing
-instruction specifies the location of the change and describes what is being
-changed by using [strike]#strikethrough# (to remove old material) and
-[underline]#underscore# (to add new material).
-*_Delete_* removes existing material.
-*_Insert_* adds new material without disturbing the existing material.
-Insertions may require renumbering. If so, renumbering instructions are given in
-the editing instruction.
-*_Replace_* is used to make changes in figures or equations by removing the
-existing figure or equation and replacing it with a new one. Editing
-instructions, change markings, and this NOTE will not be carried over into
-future editions because the changes will be incorporated into the base standard.
-
 [change=modify,locality="clause=2"]
 == Normative references
 
