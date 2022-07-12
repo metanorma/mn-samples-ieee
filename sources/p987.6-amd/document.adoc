@@ -9,7 +9,6 @@
 :society: Template Society
 :committee: Standards Staff Engineering Committee
 :working-group: Working Group Name
-:confirmed-date: <Date Approved>
 :wg-chair: Arthur C. Clark
 :wg-vicechair: Alessandro Volta
 :wg-members: Participant1;Participant2;Participant3;Participant4;Participant5; Participant6;Participant7;Participant8;Participant9
@@ -44,9 +43,9 @@ context, including background, key themes, history, etc.
 
 [quote]
 ____
-IEEE Std [strike]#P# 802.21(TM) [strike]#(Draft 14, 21 November 2003)#,
-[strike]#Draft# [underline]#IEEE# Standard for Local and Metropolitan Area Networks
---[underline]#Part 21:# Media Independent Handover Services.
+IEEE Std del:[P] 802.21(TM) del:[(Draft 14, 21 November 2003)],
+del:[Draft] add:[IEEE] Standard for Local and Metropolitan Area Networks
+--add:[Part 21:] Media Independent Handover Services.
 ____
 
 *_Insert the following references in Clause 2 in alphanumeric order:_*
@@ -94,7 +93,7 @@ the table are called _cells_)
 4+a| NOTE: This table is provided as an example. The structure of actual tables may
 vary depending on the data being displayed.
 
-[strike]#NOTE: Use 0.75 Xd for hydrogenerators without amortisseur windings.#
+del:[NOTE: Use 0.75 Xd for hydrogenerators without amortisseur windings.]
 |===
 ____
 
