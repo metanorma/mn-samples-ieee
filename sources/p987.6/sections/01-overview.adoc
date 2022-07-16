@@ -15,3 +15,53 @@ The purpose shall be within the technical boundaries, as determined
 by the balloting group, of the purpose
 submitted on the PAR.
 
+== Participants
+
+=== Working Group
+
+item::
+role::: Chair
+name::: Arthur C. Clark
+item::
+role::: Vice Chair
+name::: Alessandro Volta
+item:: Participant1
+item:: Participant2
+item:: Participant3
+item:: Participant4
+item:: Participant5
+item:: Participant6
+item:: Participant7
+item:: Participant8
+item:: Participant9
+
+=== Balloting Group
+
+* Participant1
+* Participant2
+* Participant3
+* Participant4
+* Participant5
+* Participant6
+* Participant7
+* Participant8
+* Participant9
+
+=== Standards Board
+
+item::
+role::: Chair
+name::: Claude Elwood Shannon
+item::
+role::: Vice Chair
+name::: Charles-Augustin de Coulomb
+item:: SBMember1
+item:: SBMember2
+item:: SBMember3
+item:: SBMember4
+item:: SBMember5
+item:: SBMember6
+item:: SBMember7
+item:: SBMember8
+item:: SBMember9
+
