@@ -1,0 +1,67 @@
+<relaton-collection xmlns="https://open.ribose.com/relaton-xml"><title>IEEE sample documents in Metanorma (Metanorma AsciiDoc syntax)</title><contributor><role type='author'/><organization><name>Metanorma : Standards for standards</name></organization></contributor><relation type='partOf'><bibdata type="standard">
+  <title format="text/plain" language="en">Recommended Practice for Preparing an IEEE Standards Draft</title>
+  <uri type="xml">documents/p987.6/document.xml</uri>
+  <uri type="pdf">documents/p987.6/document.pdf</uri>
+  <uri type="doc">documents/p987.6/document.doc</uri>
+  <uri type="html">documents/p987.6/document.html</uri>
+  <uri type="rxl">documents/p987.6/document.rxl</uri>
+  <docidentifier type="IEEE">987.6</docidentifier>
+  <docidentifier type="IEEE" scope="PDF">STDXXXXX</docidentifier>
+  <docidentifier type="IEEE" scope="print">STDPDXXXXX</docidentifier>
+  <docidentifier type="ISBN" scope="PDF">978-0-XXXX-XXXX-X</docidentifier>
+  <docidentifier type="ISBN" scope="print">978-0-XXXX-XXXX-X</docidentifier>
+  <docnumber>987.6</docnumber>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronic Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+    </organization>
+  </contributor>
+  <version>
+    <revision-date>2021-01-01</revision-date>
+    <draft>3</draft>
+  </version>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract>&lt;p&gt;Key discussion points covered in the draft are stated here in a few
+complete sentences, using passive rather than active voice. The more
+specific the better since the abstract often populates search engines
+and catalog databases.&lt;/p&gt;</abstract>
+  <status>
+    <stage>draft</stage>
+  </status>
+  <copyright>
+    <from>2020</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronic Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>designation</keyword>
+  <keyword>document development</keyword>
+  <keyword>draft</keyword>
+  <keyword>equation</keyword>
+  <keyword>figure</keyword>
+  <keyword>guide</keyword>
+  <keyword>IEEE 987.6™</keyword>
+  <keyword>introduction</keyword>
+  <keyword>list</keyword>
+  <keyword>purpose</keyword>
+  <keyword>recommended practice</keyword>
+  <keyword>scope</keyword>
+  <keyword>standard</keyword>
+  <ext>
+    <doctype>standard</doctype>
+    <subdoctype>document</subdoctype>
+    <editorialgroup>
+      <society>Template Society</society>
+      <balloting-group type="individual">Balloting Group Name</balloting-group>
+      <working-group>Working Group Name</working-group>
+      <committee>Standards Staff Engineering Committee</committee>
+    </editorialgroup>
+  </ext>
+</bibdata></relation>
+</relaton-collection>
