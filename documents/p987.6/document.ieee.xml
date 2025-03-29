@@ -286,11 +286,9 @@
 <p>
 <italic>IEEE prohibits discrimination, harassment, and bullying.</italic>
 </p>
-<p>
-<italic>For more information, visit <uri>https://www.ieee.org/about/corporate/governance/p9-26.html</uri>.</italic>
+<p> <italic>For more information, visit .</italic>
 </p>
-<p>
-<italic>No part of this publication may be reproduced in any form, in an electronic retrieval system or otherwise, without the prior written permission of the publisher.</italic>
+<p> <italic>No part of this publication may be reproduced in any form, in an electronic retrieval system or otherwise, without the prior written permission of the publisher.</italic>
 </p>
 </supplementary-material>
 <permissions>
@@ -302,10 +300,7 @@
 </license>
 </permissions>
 <abstract abstract-type="short" complex-abstract="no">
-<p>Key discussion points covered in the draft are stated here in a few
-complete sentences, using passive rather than active voice. The more
-specific the better since the abstract often populates search engines
-and catalog databases.</p>
+<p>Key discussion points covered in the draft are stated here in a few complete sentences, using passive rather than active voice. The more specific the better since the abstract often populates search engines and catalog databases.</p>
 </abstract>
 <kwd-group kwd-group-type="AuthorFree">
 <kwd>designation</kwd>
@@ -326,207 +321,118 @@ and catalog databases.</p>
 <fig-count count="5"/>
 <table-count count="4"/>
 <equation-count count="0"/>
-<ref-count count="11"/>
+<ref-count count="0"/>
 </counts>
 </std-meta>
 <notes>
 
 <sec>
 <title>Important Notices and Disclaimers Concerning IEEE Standards Documents</title>
-<p>IEEE Standards
-documents are made available for use subject to important notices and legal
-disclaimers. These notices and disclaimers, or a reference to this page (<uri>https://standards.ieee.org/ipr/disclaimers.html</uri>),
-appear in all standards and may be found under the heading “Important Notices
-and Disclaimers Concerning IEEE Standards Documents.”</p>
+<p>IEEE Standards documents are made available for use subject to important notices and legal disclaimers. These notices and disclaimers, or a reference to this page ( ), appear in all IEEE standards and may be found under the heading “Important Notices and Disclaimers Concerning IEEE Standards Documents.”</p>
 
 <sec>
 <title>Notice and Disclaimer of Liability Concerning the Use of IEEE Standards Documents</title>
-<p>IEEE Standards documents are
-developed within the IEEE Societies and the Standards Coordinating Committees
-of the IEEE Standards Association (IEEE SA) Standards Board. IEEE develops its
-standards through an accredited consensus development process, which brings
-together volunteers representing varied viewpoints and interests to achieve the
-final product. IEEE Standards are documents developed by volunteers with
-scientific, academic, and industry-based expertise in technical working groups.
-Volunteers are not necessarily members of IEEE or IEEE SA, and participate
-without compensation from IEEE. While IEEE administers the process and
-establishes rules to promote fairness in the consensus development process,
-IEEE does not independently evaluate, test, or verify the accuracy of any of
-the information or the soundness of any judgments contained in its standards.</p>
+<p>IEEE Standards documents are developed within IEEE Societies and subcommittees of IEEE Standards Association (IEEE SA) Board of Governors. IEEE develops its standards through an accredited consensus development process, which brings together volunteers representing varied viewpoints and interests to achieve the final product. IEEE standards are documents developed by volunteers with scientific, academic, and industry-based expertise in technical working groups. Volunteers involved in technical working groups are not necessarily members of IEEE or IEEE SA and participate without compensation from IEEE. While IEEE administers the process and establishes rules to promote fairness in the consensus development process, IEEE does not independently evaluate, test, or verify the accuracy of any of the information or the soundness of any judgments contained in its standards.</p>
 
-<p>IEEE makes no warranties or
-representations concerning its standards, and expressly disclaims all
-warranties, express or implied, concerning this standard, including but not
-limited to the warranties of merchantability, fitness for a particular purpose
-and non-infringement. In addition, IEEE
-does not warrant or represent that the use of the material contained in its
-standards is free from patent infringement. IEEE standards documents are
-supplied “AS IS” and “WITH ALL FAULTS.”</p>
+<p>IEEE makes no warranties or representations concerning its standards, and expressly disclaims all warranties, express or implied, concerning all standards, including but not limited to the warranties of merchantability, fitness for a particular purpose and non-infringement IEEE Standards documents do not guarantee safety, security, health, or environmental protection, or compliance with law, or guarantee against interference with or from other devices or networks. In addition, IEEE does not warrant or represent that the use of the material contained in its standards is free from patent infringement. IEEE Standards documents are supplied “AS IS” and “WITH ALL FAULTS.”</p>
 
-<p>Use of an IEEE standard is wholly
-voluntary. The existence of an IEEE Standard does not imply that there are no
-other ways to produce, test, measure, purchase, market, or provide other goods
-and services related to the scope of the IEEE standard. Furthermore, the
-viewpoint expressed at the time a standard is approved and issued is subject to
-change brought about through developments in the state of the art and comments
-received from users of the standard.</p>
+<p>Use of an IEEE standard is wholly voluntary. The existence of an IEEE standard does not imply that there are no other ways to produce, test, measure, purchase, market, or provide other goods and services related to the scope of the IEEE standard. Furthermore, the viewpoint expressed at the time a standard is approved and issued is subject to change brought about through developments in the state of the art and comments received from users of the standard.</p>
 
-<p>In publishing and
-making its standards available, IEEE is not suggesting or rendering
-professional or other services for, or on behalf of, any person or entity, nor
-is IEEE undertaking to perform any duty owed by any other person or entity to
-another. Any person utilizing any IEEE Standards document, should rely upon his
-or her own independent judgment in the exercise of reasonable care in any given
-circumstances or, as appropriate, seek the advice of a competent professional
-in determining the appropriateness of a given IEEE standard.</p>
+<p>In publishing and making its standards available, IEEE is not suggesting or rendering professional or other services for, or on behalf of, any person or entity, nor is IEEE undertaking to perform any duty owed by any other person or entity to another. Any person utilizing any IEEE Standards document should rely upon their own independent judgment in the exercise of reasonable care in any given circumstances or, as appropriate, seek the advice of a competent professional in determining the appropriateness of a given IEEE standard.</p>
 
-<p>IN NO EVENT SHALL IEEE
-BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
-CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO: THE NEED TO PROCURE
-SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS
-INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN
-CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING
-IN ANY WAY OUT OF THE PUBLICATION, USE OF, OR RELIANCE UPON ANY STANDARD, EVEN
-IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE AND REGARDLESS OF WHETHER SUCH
-DAMAGE WAS FORESEEABLE.</p>
+<p>IN NO EVENT SHALL IEEE BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO: THE NEED TO PROCURE SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE PUBLICATION, USE OF, OR RELIANCE UPON ANY STANDARD, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE AND REGARDLESS OF WHETHER SUCH DAMAGE WAS FORESEEABLE.</p>
 </sec>
 
 <sec>
 <title>Translations</title>
-<p>The IEEE consensus
-development process involves the review of documents in English only. In the
-event that an IEEE standard is translated, only the English version published
-by IEEE is the approved IEEE standard.</p>
+<p>The IEEE consensus balloting process involves the review of documents in English only. In the event that an IEEE standard is translated, only the English language version published by IEEE is the approved IEEE standard.</p>
+</sec>
+
+<sec>
+<title>Use by artificial intelligence systems</title>
+<p>In no event shall material in any IEEE Standards documents be used for the purpose of creating, training, enhancing, developing, maintaining, or contributing to any artificial intelligence systems without the express, written consent of IEEE SA in advance. “Artificial intelligence” refers to any software, application, or other system that uses artificial intelligence, machine learning, or similar technologies, to analyze, train, process, or generate content. Requests for consent can be submitted using the Contact Us form.</p>
 </sec>
 
 <sec>
 <title>Official statements</title>
-<p>A statement, written
-or oral, that is not processed in accordance with the IEEE SA Standards Board
-Operations Manual shall not be considered or inferred to be the official
-position of IEEE or any of its committees and shall not be considered to be,
-nor be relied upon as, a formal position of IEEE. At lectures, symposia,
-seminars, or educational courses, an individual presenting information on IEEE
-standards shall make it clear that the presenter’s views should be considered
-the personal views of that individual rather than the formal position of IEEE,
-IEEE SA, the Standards Committee, or the Working Group.</p>
+<p>A statement, written or oral, that is not processed in accordance with the IEEE SA Standards Board Operations Manual is not, and shall not be considered or inferred to be, the official position of IEEE or any of its committees and shall not be considered to be, or be relied upon as, a formal position of IEEE or IEEE SA. At lectures, symposia, seminars, or educational courses, an individual presenting information on IEEE standards shall make it clear that the presenter’s views should be considered the personal views of that individual rather than the formal position of IEEE, IEEE SA, the Standards Committee, or the Working Group. Statements made by volunteers may not represent the formal position of their employer(s) or affiliation(s). News releases about IEEE standards issued by entities other than IEEE SA should be considered the view of the entity issuing the release rather than the formal position of IEEE or IEEE SA.</p>
 </sec>
 
 <sec>
 <title>Comments on standards</title>
-<p>Comments for revision of IEEE
-Standards documents are welcome from any interested party, regardless of membership
-affiliation with IEEE or IEEE SA. However, <bold>IEEE does not provide interpretations, consulting information, or advice pertaining to IEEE Standards documents</bold>.</p>
+<p>Comments for revision of IEEE Standards documents are welcome from any interested party, regardless of membership affiliation with IEEE or IEEE SA. However,  <bold>IEEE does not provide interpretations, consulting information, or advice pertaining to IEEE Standards documents</bold>.</p>
 
 <p>Suggestions for changes in
 documents should be in the form of a proposed change of text, together with
 appropriate supporting comments. Since IEEE standards represent a consensus of
 concerned interests, it is important that any responses to comments and
-questions also receive the concurrence of a balance of interests. For this
-reason, IEEE and the members of its Societies and Standards Coordinating
-Committees are not able to provide an instant response to comments, or
-questions except in those cases where the matter has previously been addressed.
+questions also receive the concurrence of a balance of interests. For this reason, IEEE and the members of its Societies and subcommittees of the IEEE SA Board of Governors are not able to provide an instant response to comments or questions, except
+in those cases where the matter has previously been addressed.
 For the same reason, IEEE does not respond to interpretation requests. Any
 person who would like to participate in evaluating comments or in revisions to
-an IEEE standard is welcome to join the relevant IEEE working group. You can
+an IEEE standard is welcome to join the relevant IEEE SA working group. You can
 indicate interest in a working group using the Interests tab in the Manage
-Profile &amp; Interests area of the <ext-link xlink:type="simple" xlink:href="https://development.standards.ieee.org/myproject-web/public/view.html#landing">IEEE SA myProject system</ext-link>.<xref rid="fn__boilerplate_1_1" ref-type="fn">
+Profile &amp; Interests area of the .<xref rid="fn__boilerplate_1_1" ref-type="fn">
 <sup>_boilerplate_1</sup>
 </xref>
 <fn id="fn__boilerplate_1_1">
 <label>
 <sup>_boilerplate_1</sup>
 </label>
-<p>Available at: <uri>https://development.standards.ieee.org/myproject-web/public/view.html#landing</uri>.</p>
+<p>Available at: .</p>
 </fn>
 An IEEE Account is needed to access the application.</p>
 
-<p>Comments on standards should be submitted using the <ext-link xlink:type="simple" xlink:href="https://standards.ieee.org/content/ieee-standards/en/about/contact/index.html">Contact Us</ext-link> form.<xref rid="fn__boilerplate_2_2" ref-type="fn">
+<p>Comments on standards should be submitted using the  form.<xref rid="fn__boilerplate_2_2" ref-type="fn">
 <sup>_boilerplate_2</sup>
 </xref>
 <fn id="fn__boilerplate_2_2">
 <label>
 <sup>_boilerplate_2</sup>
 </label>
-<p>Available at: <uri>https://standards.ieee.org/content/ieee-standards/en/about/contact/index.html</uri>.</p>
+<p>Available at: .</p>
 </fn>
 </p>
 </sec>
 
 <sec>
 <title>Laws and regulations</title>
-<p>Users of IEEE
-Standards documents should consult all applicable laws and regulations.
-Compliance with the provisions of any IEEE Standards document does not
-constitute compliance to any applicable regulatory requirements. Implementers
-of the standard are responsible for observing or referring to the applicable
-regulatory requirements. IEEE does not, by the publication of its standards,
-intend to urge action that is not in compliance with applicable laws, and these
-documents may not be construed as doing so.</p>
+<p>Users of IEEE Standards documents should consult all applicable laws and regulations. Compliance with the provisions of any IEEE Standards document does not constitute compliance to any applicable regulatory requirements. Implementers of the standard are responsible for observing or referring to the applicable regulatory requirements. IEEE does not, by the publication of its standards, intend to urge action that is not in compliance with applicable laws, and these documents may not be construed as doing so.</p>
 </sec>
 
 <sec>
 <title>Data privacy</title>
-<p>Users of IEEE Standards documents
-should evaluate the standards for considerations of data privacy and data
-ownership in the context of assessing and using the standards in compliance
-with applicable laws and regulations.</p>
+<p>Users of IEEE Standards documents should evaluate the standards for considerations of data privacy and data ownership in the context of assessing and using the standards in compliance with applicable laws and regulations.</p>
 </sec>
 
 <sec>
 <title>Copyrights</title>
-<p>IEEE draft and approved
-standards are copyrighted by IEEE under US and international copyright
-laws. They are made available by IEEE and are adopted for a wide variety of
-both public and private uses. These include both use, by reference, in laws and
-regulations, and use in private self-regulation, standardization, and the
-promotion of engineering practices and methods. By making these documents
-available for use and adoption by public authorities and private users, IEEE
-does not waive any rights in copyright to the documents.</p>
+<p>IEEE draft and approved standards are copyrighted by IEEE under U.S. and international copyright laws. They are made available by IEEE and are adopted for a wide variety of both public and private uses. These include both use by reference, in laws and regulations, and use in private self-regulation, standardization, and the promotion of engineering practices and methods. By making these documents available for use and adoption by public authorities and private users, neither IEEE nor its licensors waive any rights in copyright to the documents.</p>
 </sec>
 
 <sec>
 <title>Photocopies</title>
-<p>Subject to payment of the
-appropriate licensing fees, IEEE will grant users a limited, non-exclusive
-license to photocopy portions of any individual standard for company or
-organizational internal use or individual, non-commercial use only. To arrange
-for payment of licensing fees, please contact Copyright Clearance Center,
-Customer Service, 222 Rosewood Drive, Danvers, MA 01923 USA; +1 978 750 8400;
-https://www.copyright.com/. Permission to photocopy portions of any individual
-standard for educational classroom use can also be obtained through the
-Copyright Clearance Center.</p>
+<p>Subject to payment of the appropriate licensing fees, IEEE will grant users a limited, non-exclusive license to photocopy portions of any individual standard for company or organizational internal use or individual, non-commercial use only. To arrange for payment of licensing fees, please contact Copyright Clearance Center, Customer Service, 222 Rosewood Drive, Danvers, MA 01923 USA; +1 978 750 8400; https://www.copyright.com/. Permission to photocopy portions of any individual standard for educational classroom use can also be obtained through the Copyright Clearance Center.</p>
 </sec>
 
 <sec>
 <title>Updating of IEEE Standards documents</title>
-<p>Users
-of IEEE Standards documents should be aware that these documents may be
-superseded at any time by the issuance of new editions or may be amended from
-time to time through the issuance of amendments, corrigenda, or errata. An
-official IEEE document at any point in time consists of the current edition of
-the document together with any amendments, corrigenda, or errata then in
-effect.</p>
+<p>Users of IEEE Standards documents should be aware that these documents may be superseded at any time by the issuance of new editions or may be amended from time to time through the issuance of amendments, corrigenda, or errata. An official IEEE document at any point in time consists of the current edition of the document together with any amendments, corrigenda, or errata then in effect.</p>
 
-<p>Every
-IEEE standard is subjected to review at least every 10 years. When a document
-is more than 10 years old and has not undergone a revision process, it is
-reasonable to conclude that its contents, although still of some value, do not
-wholly reflect the present state of the art. Users are cautioned to check to
-determine that they have the latest edition of any IEEE standard.</p>
+<p>Every IEEE standard is subjected to review at least every 10 years. When a document is more than 10 years old and has not undergone a revision process, it is reasonable to conclude that its contents, although still of some value, do not wholly reflect the present state of the art. Users are cautioned to check to determine that they have the latest edition of any IEEE standard.</p>
 
 <p>In
 order to determine whether a given document is the current edition and whether
 it has been amended through the issuance of amendments, corrigenda, or errata,
-visit <ext-link xlink:type="simple" xlink:href="https://ieeexplore.ieee.org/browse/standards/collection/ieee/">IEEE Xplore</ext-link>
-or <ext-link xlink:type="simple" xlink:href="https://standards.ieee.org/content/ieee-standards/en/about/contact/index.html">contact IEEE</ext-link>.<xref rid="fn__boilerplate_3_3" ref-type="fn">
+visit 
+or .<xref rid="fn__boilerplate_3_3" ref-type="fn">
 <sup>_boilerplate_3</sup>
 </xref>
 <fn id="fn__boilerplate_3_3">
 <label>
 <sup>_boilerplate_3</sup>
 </label>
-<p>Available at <uri>https://ieeexplore.ieee.org/browse/standards/collection/ieee</uri>.</p>
+<p>Available at .</p>
 </fn>
 For more information about the IEEE SA or IEEE’s standards development process,
 visit the IEEE SA Website.</p>
@@ -535,73 +441,42 @@ visit the IEEE SA Website.</p>
 <sec>
 <title>Errata</title>
 <p>Errata, if any, for all IEEE standards can be accessed on the
-<ext-link xlink:type="simple" xlink:href="https://standards.ieee.org/standard/index.html">IEEE SA Website</ext-link>.<xref rid="fn__boilerplate_4_4" ref-type="fn">
+.<xref rid="fn__boilerplate_4_4" ref-type="fn">
 <sup>_boilerplate_4</sup>
 </xref>
 <fn id="fn__boilerplate_4_4">
 <label>
 <sup>_boilerplate_4</sup>
 </label>
-<p>Available at: <uri>https://standards.ieee.org/standard/index.html</uri>.</p>
+<p>Available at: .</p>
 </fn>
 Search for standard number and year of approval to access the web page of the
 published standard. Errata links are located under the Additional Resources Details section.
-Errata are also available in <ext-link xlink:type="simple" xlink:href="https://ieeexplore.ieee.org/browse/standards/collection/ieee/">IEEE Xplore</ext-link>.
+Errata are also available in .
 Users are encouraged to periodically check for errata.</p>
 </sec>
 
 <sec>
 <title>Patents</title>
-<p>IEEE Standards are developed in compliance with the <ext-link xlink:type="simple" xlink:href="https://standards.ieee.org/about/sasb/patcom/materials.html">IEEE SA Patent Policy</ext-link>.<xref rid="fn__boilerplate_5_5" ref-type="fn">
+<p>IEEE standards are developed in compliance with the .<xref rid="fn__boilerplate_5_5" ref-type="fn">
 <sup>_boilerplate_5</sup>
 </xref>
 <fn id="fn__boilerplate_5_5">
 <label>
 <sup>_boilerplate_5</sup>
 </label>
-<p>Available at: <uri>https://standards.ieee.org/about/sasb/patcom/materials.html</uri>.</p>
+<p>Available at: .</p>
 </fn>
 </p>
 
-<p>Attention is called to
-the possibility that implementation of this standard may require use of subject
-matter covered by patent rights. By publication of this standard, no position
-is taken by the IEEE with respect to the existence or validity of any patent
-rights in connection therewith. If a patent holder or patent applicant has
-filed a statement of assurance via an Accepted Letter of Assurance, then the
-statement is listed on the IEEE SA Website at <uri>https://standards.ieee.org/about/sasb/patcom/patents.html</uri>.
-Letters of Assurance may
-indicate whether the Submitter is willing or unwilling to grant licenses under
-patent rights without compensation or under reasonable rates, with reasonable
-terms and conditions that are demonstrably free of any unfair discrimination to
-applicants desiring to obtain such licenses.</p>
+<p>Attention is called to the possibility that implementation of this standard may require use of subject matter covered by patent rights. By publication of this standard, no position is taken by the IEEE with respect to the existence or validity of any patent rights in connection therewith. If a patent holder or patent applicant has filed a statement of assurance via an Accepted Letter of Assurance, then the statement is listed on the IEEE SA Website at  . Letters of Assurance may indicate whether the Submitter is willing or unwilling to grant licenses under patent rights without compensation or under reasonable rates, with reasonable terms and conditions that are demonstrably free of any unfair discrimination to applicants desiring to obtain such licenses.</p>
 
-<p>Essential Patent
-Claims may exist for which a Letter of Assurance has not been received. The
-IEEE is not responsible for identifying Essential Patent Claims for which a
-license may be required, for conducting inquiries into the legal validity or
-scope of Patents Claims, or determining whether any licensing terms or
-conditions provided in connection with submission of a Letter of Assurance, if
-any, or in any licensing agreements are reasonable or non-discriminatory. Users
-of this standard are expressly advised that determination of the validity of
-any patent rights, and the risk of infringement of such rights, is entirely
-their own responsibility. Further information may be obtained from the IEEE
-Standards Association.</p>
+<p>Essential Patent Claims may exist for which a Letter of Assurance has not been received. The IEEE is not responsible for identifying Essential Patent Claims for which a license may be required, for conducting inquiries into the legal validity or scope of Patents Claims, or determining whether any licensing terms or conditions provided in connection with submission of a Letter of Assurance, if any, or in any licensing agreements are reasonable or non-discriminatory. Users of this standard are expressly advised that determination of the validity of any patent rights, and the risk of infringement of such rights, is entirely their own responsibility. Further information may be obtained from the IEEE Standards Association.</p>
 </sec>
 
 <sec>
 <title>IMPORTANT NOTICE</title>
-<p>IEEE Standards do not
-guarantee or ensure safety, security, health, or environmental protection, or
-ensure against interference with or from other devices or networks. IEEE
-Standards development activities consider research and information presented to
-the standards development group in developing any safety recommendations. Other
-information about safety practices, changes in technology or technology implementation,
-or impact by peripheral systems also may be pertinent to safety considerations
-during implementation of the standard. Implementers and users of IEEE Standards
-documents are responsible for determining and complying with all appropriate
-safety, security, environmental, health, and interference protection practices
-and all applicable laws and regulations.</p>
+<p>Technologies, application of technologies, and recommended procedures in various industries evolve over time. The IEEE standards development process allows participants to review developments in industries, technologies, and practices, and to determine what, if any, updates should be made to the IEEE standard. During this evolution, the technologies and recommendations in IEEE standards may be implemented in ways not foreseen during the standard’s development. IEEE standards development activities consider research and information presented to the standards development group in developing any safety recommendations. Other information about safety practices, changes in technology or technology implementation, or impact by peripheral systems also may be pertinent to safety considerations during implementation of the standard. Implementers and users of IEEE Standards documents are responsible for determining and complying with all appropriate safety, security, environmental, health, data privacy, and interference protection practices and all applicable laws and regulations.</p>
 </sec>
 </sec>
 
@@ -813,11 +688,9 @@ and all applicable laws and regulations.</p>
 <sec id="_introduction">
 <title>Introduction</title>
 <boxed-text position="anchor">
-<p>This introduction is not part of P987.6/D3, Draft Standard for Recommended Practice for Preparing an IEEE Standards Draft
-</p>
+<p>This introduction is not part of P987.6/D3, Draft Standard for Recommended Practice for Preparing an IEEE Standards Draft</p>
 </boxed-text>
-<p>The introduction of the frontmatter is informative. It serves to give
-readers context, including background, key themes, history, etc.</p>
+<p>The introduction of the frontmatter is informative. It serves to give readers context, including background, key themes, history, etc.</p>
 </sec>
 </front>
 <body>
@@ -829,19 +702,14 @@ readers context, including background, key themes, history, etc.</p>
 <label>1.1</label>
 <title>Scope</title>
 
-<p>The scope shall be within the technical boundaries, as determined
-by the balloting group, of the scope submitted on the PAR. If the
-standard incorporated Open Source, this should be noted in the Scpe
-along with a link to the Open Source of the URL.</p>
+<p>The scope shall be within the technical boundaries, as determined by the balloting group, of the scope submitted on the PAR. If the standard incorporated Open Source, this should be noted in the Scpe along with a link to the Open Source of the URL.</p>
 </sec>
 
 <sec id="_purpose">
 <label>1.2</label>
 <title>Purpose</title>
 
-<p>The purpose shall be within the technical boundaries, as determined
-by the balloting group, of the purpose
-submitted on the PAR.</p>
+<p>The purpose shall be within the technical boundaries, as determined by the balloting group, of the purpose submitted on the PAR.</p>
 </sec>
 <sec id="boilerplate_word_usage">
 <label>1.3</label>
@@ -900,7 +768,7 @@ submitted on the PAR.</p>
 <label>
 <sup>5</sup>
 </label>
-<p>The NESC is available from The Institute of Electrical and Electronics Engineers at <uri>http://standards.ieee.org/</uri>.</p>
+<p>The NESC is available from The Institute of Electrical and Electronics Engineers at .</p>
 </fn>
 </p>
 </list-item>
@@ -908,7 +776,8 @@ submitted on the PAR.</p>
 <p>
 <mixed-citation publication-format="print" publication-type="standard">
 <std>
-<std-organization>IEEE</std-organization> Std <pub-id pub-id-type="std-designation">P802.21/D14</pub-id>™<source specific-use="IEEE">IEEE P802.21<sup>™</sup> (Draft 14, November 2003), Draft Standard for Local and Metropolitan Area Networks — Media Independent Handover Services.</source>
+<std-organization>IEEE</std-organization> Std <pub-id pub-id-type="std-designation">P802.21/D14</pub-id>™<source specific-use="IEEE">IEEE P802.21<sup>™</sup> (Draft 14, November
+2003), Draft Standard for Local and Metropolitan Area Networks — Media Independent Handover Services.</source>
 </std>
 </mixed-citation>
 <xref rid="fn_6_15" ref-type="fn">
@@ -986,7 +855,7 @@ submitted on the PAR.</p>
 <label>
 <sup>8</sup>
 </label>
-<p>The NEC is published by the National Fire Protection Association (<uri>http://www.nfpa.org/</uri>). Copies are also available from The Institute of Electrical and Electronics Engineers at <uri>http://shop.ieee.org/</uri>.</p>
+<p>The NEC is published by the National Fire Protection Association (). Copies are also available from The Institute of Electrical and Electronics Engineers at .</p>
 </fn>
 </p>
 </list-item>
@@ -1006,17 +875,18 @@ submitted on the PAR.</p>
 <sec id="_definitions">
 <label>3.1</label>
 <title>Definitions</title>
-<p>For the purposes of this document, the following terms and definitions apply. The <italic>IEEE Standards Dictionary Online</italic> should be consulted for terms not defined in this clause.<xref rid="fn__boilerplate_term1_8" ref-type="fn">
-<sup>_boilerplate_term1</sup>
+<p>For the purposes of this document, the following terms and definitions apply. The <italic>IEEE Standards Dictionary Online</italic> should be consulted for terms not defined in this clause.<xref rid="fn_1_8" ref-type="fn">
+<sup>1</sup>
 </xref>
-<fn id="fn__boilerplate_term1_8">
+<fn id="fn_1_8">
 <label>
-<sup>_boilerplate_term1</sup>
+<sup>1</sup>
 </label>
 <p>
-<italic>IEEE Standards Dictionary Online</italic> is available at: <uri>http://dictionary.ieee.org</uri>. An IEEE Account is required for access to the dictionary, and one can be created at no charge on the dictionary sign-in page.</p>
+<italic>IEEE Standards Dictionary Online</italic> is available at: . An IEEE Account is required for access to the dictionary, and one can be created at no charge on the dictionary sign-in page.</p>
 </fn>
 </p>
+
 <std-def-list>
 <std-def-list-item>
 <term>acceleration-insensitive drift rate</term>
@@ -1026,21 +896,18 @@ submitted on the PAR.</p>
 </def>
 <related-term-group related-term-type="see-also">
 <italic>See:</italic>
-<term>drift rate
-</term>
+<term>drift rate</term>
 </related-term-group>
 <related-term-group related-term-type="see-also">
 <italic>See:</italic>
-<term>systematic drift rate
-</term>
+<term>systematic drift rate</term>
 </related-term-group>
 </std-def-list-item>
 <std-def-list-item>
 <term>code set</term>
 <related-term-group related-term-type="see">
 <italic>See:</italic>
-<term>coded character set
-</term>
+<term>coded character set</term>
 </related-term-group>
 </std-def-list-item>
 <std-def-list-item>
@@ -1051,8 +918,7 @@ submitted on the PAR.</p>
 </def>
 <related-term-group related-term-type="synonym">
 <italic>See:</italic>
-<term>code set
-</term>
+<term>code set</term>
 </related-term-group>
 </std-def-list-item>
 <std-def-list-item>
@@ -1173,7 +1039,7 @@ of each of the draft elements.<xref rid="fn_2_10" ref-type="fn">
 <label>
 <sup>2</sup>
 </label>
-<p>IEEE SA approved templates can be found online at <uri>https://standards.ieee.org/develop/drafting-standard/resources.html</uri>.</p>
+<p>IEEE SA approved templates can be found online at .</p>
 </fn>
 </p>
 
@@ -1198,11 +1064,7 @@ the material contained in an IEEE draft.<xref rid="fn_3_11" ref-type="fn">
 </non-normative-note>
 <non-normative-note>
 <label>NOTE 2</label>
-<p>Documents that serve as supplemental information that authors
-of the standard found useful when researching the material, but that
-do not carry the same weight as the normative references, are usually
-informative and therefore would belong in a bibliography (informative
-annex).</p>
+<p>Documents that serve as supplemental information that authors of the standard found useful when researching the material, but that do not carry the same weight as the normative references, are usually informative and therefore would belong in a bibliography (informative annex).</p>
 </non-normative-note>
 </p>
 
@@ -1210,15 +1072,7 @@ annex).</p>
 
 
 
-<p>All IEEE standards shall use metric units as the primary units of
-measure. Customary equivalents may be included in the text after the
-metric units in parentheses. In the case of tables, separate tables
-for metric and customary units may be included. See National Electrical
-Safety Code<sup>®</sup> (NESC<sup>®</sup>) (Accredited Standards Committee C2-2012)
-and National Electrical Code<sup>®</sup> (NEC<sup>®</sup>) (NFPA 70, 2011 Edition)
-for examples. For more information on the use of metric in IEEE standards,
-see IEEE/ANSI SI 10. For guidance on the use of letter symbols for
-units of measurement, refer to IEEE Std 260.1-2004.</p>
+<p>All IEEE standards shall use metric units as the primary units of measure. Customary equivalents may be included in the text after the metric units in parentheses. In the case of tables, separate tables for metric and customary units may be included. See National Electrical Safety Code <sup>®</sup> (NESC<sup>®</sup>) (Accredited Standards Committee C2-2012) and National Electrical Code <sup>®</sup> (NEC<sup>®</sup>) (NFPA 70, 2011 Edition) for examples. For more information on the use of metric in IEEE standards, see IEEE/ANSI SI 10. For guidance on the use of letter symbols for units of measurement, refer to IEEE Std 260.1-2004.</p>
 </sec>
 
 <sec id="_lists">
@@ -1229,11 +1083,11 @@ units of measurement, refer to IEEE Std 260.1-2004.</p>
 
 <p>The following is an example of a properly formatted ordered list:<list list-type="ordered">
 <list-item>
-<label>a)</label>
+<label>1)</label>
 <p>Name of the manufacturer</p>
 </list-item>
 <list-item>
-<label>b)</label>
+<label>2)</label>
 <p>Connection chart showing</p>
 <list list-type="ordered">
 <list-item>
@@ -1247,7 +1101,7 @@ units of measurement, refer to IEEE Std 260.1-2004.</p>
 </list>
 </list-item>
 <list-item>
-<label>c)</label>
+<label>3)</label>
 <p>Self-impedance (for linear coupler transformers)</p>
 <list list-type="ordered">
 <list-item>
@@ -1259,11 +1113,11 @@ units of measurement, refer to IEEE Std 260.1-2004.</p>
 <p>Impedance</p>
 <list list-type="ordered">
 <list-item>
-<label>a)</label>
+<label>i)</label>
 <p>For volts</p>
 </list-item>
 <list-item>
-<label>b)</label>
+<label>ii)</label>
 <p>For amperes</p>
 </list-item>
 </list>
@@ -1282,8 +1136,7 @@ units of measurement, refer to IEEE Std 260.1-2004.</p>
 </list-item>
 <list-item>
 <label>•</label>
-<p>Include final punctuation for all items in the list if one item
-in the list is a complete sentence.</p>
+<p>Include final punctuation for all items in the list if one item in the list is a complete sentence.</p>
 </list-item>
 </list>
 </p>
@@ -1295,9 +1148,7 @@ in the list is a complete sentence.</p>
 <label>4.3</label>
 <title>Tables</title>
 
-<p>Tables should be cited in text and the significance of the tables
-explained. Table titles are positioned above the tables. <xref ref-type="table" rid="table_1">Table 1</xref>
-shows the nomenclature of a properly formatted table.</p>
+<p>Tables should be cited in text and the significance of the tables explained. Table titles are positioned above the tables.   shows the nomenclature of a properly formatted table.</p>
 
 <table-wrap id="table_1" position="anchor">
 <label>Table 1</label>
@@ -1349,9 +1200,7 @@ Subheading
 <p>
 <non-normative-note>
 <label>NOTE 1</label>
-<p>This table is provided as an example. The structure of actual
-tables may vary depending on the data being
-displayed.</p>
+<p>This table is provided as an example. The structure of actual tables may vary depending on the data being displayed.</p>
 </non-normative-note>
 <non-normative-note>
 <label>NOTE 2</label>
@@ -1365,14 +1214,9 @@ displayed.</p>
 
 
 
-<p>Column headings are in bold and centered. If a table extends beyond
-one page, carry the title of the table over to each subsequent page
-with “(<italic>continued</italic>)” after the title. Table notes are informative;
-table footnotes are normative.</p>
+<p>Column headings are in bold and centered. If a table extends beyond one page, carry the title of the table over to each subsequent page with “( <italic>continued</italic>)” after the title. Table notes are informative; table footnotes are normative.</p>
 
-<p>The following is an example of an informal table. Note that there
-is no title or table number. Use these sparingly. It is preferred
-that all tables are numbered and titled.</p>
+<p>The following is an example of an informal table. Note that there is no title or table number. Use these sparingly. It is preferred that all tables are numbered and titled.</p>
 
 <table-wrap position="anchor">
 <table cellpadding="5" frame="box" rules="all">
@@ -1418,10 +1262,7 @@ Liquid-filled
 <label>4.4</label>
 <title>Figures</title>
 
-<p>Figures should be cited in text and the significance of the figures
-explained. Figure titles are positioned below the figures themselves.
-Figures can be created using text or graphics software. <xref ref-type="fig" rid="fig1">Figure 1</xref> and
-<xref ref-type="fig" rid="fig2">Figure 2</xref> show properly formatted figures.</p>
+<p>Figures should be cited in text and the significance of the figures explained. Figure titles are positioned below the figures themselves. Figures can be created using text or graphics software.   and  show properly formatted figures.</p>
 
 <fig id="fig1" position="anchor">
 <label>Figure 1</label>
@@ -1456,8 +1297,7 @@ Figures can be created using text or graphics software. <xref ref-type="fig" rid
 <p>
 <non-normative-note>
 <label>NOTE</label>
-<p>Notes to figures are formatted between the graphic and the figure
-caption.</p>
+<p>Notes to figures are formatted between the graphic and the figure caption.</p>
 </non-normative-note>
 </p>
 
@@ -1468,8 +1308,7 @@ caption.</p>
 <label>4.5</label>
 <title>Equations</title>
 
-<p>Equations should be cited in text and the significance of each equation
-explained. The equation number should be right-aligned. See <xref ref-type="disp-formula" rid="eq1">Equation (1)</xref>.</p>
+<p>Equations should be cited in text and the significance of each equation explained. The equation number should be right-aligned. See  .</p>
 
 <p>
 <disp-formula id="eq1">
@@ -1524,25 +1363,12 @@ explained. The equation number should be right-aligned. See <xref ref-type="disp
 <var-item>
 <term>
 <inline-formula>
-<mml:math>
-  <mml:mstyle displaystyle="false">
-    <mml:mi>Y</mml:mi>
-    <mml:mrow>
-      <mml:mo>(</mml:mo>
-      <mml:mi>x</mml:mi>
-      <mml:mo>)</mml:mo>
-    </mml:mrow>
-  </mml:mstyle>
-</mml:math>
+<mml:math>    <mml:mstyle displaystyle="false">      <mml:mi>Y</mml:mi>      <mml:mrow>        <mml:mo>(</mml:mo>        <mml:mi>x</mml:mi>        <mml:mo>)</mml:mo>      </mml:mrow>    </mml:mstyle> </mml:math>
 </inline-formula>
 </term>
 <def>
 <p>is the amplitude of the Gaussian function at channel <inline-formula>
-<mml:math>
-  <mml:mstyle displaystyle="false">
-    <mml:mi>x</mml:mi>
-  </mml:mstyle>
-</mml:math>
+<mml:math>    <mml:mstyle displaystyle="false">      <mml:mi>x</mml:mi>    </mml:mstyle> </mml:math>
 </inline-formula>
 </p>
 </def>
@@ -1550,14 +1376,7 @@ explained. The equation number should be right-aligned. See <xref ref-type="disp
 <var-item>
 <term>
 <inline-formula>
-<mml:math>
-  <mml:mstyle displaystyle="false">
-    <mml:msub>
-      <mml:mi>Y</mml:mi>
-      <mml:mn>0</mml:mn>
-    </mml:msub>
-  </mml:mstyle>
-</mml:math>
+<mml:math>    <mml:mstyle displaystyle="false">      <mml:msub>        <mml:mi>Y</mml:mi>        <mml:mn>0</mml:mn>      </mml:msub>    </mml:mstyle> </mml:math>
 </inline-formula>
 </term>
 <def>
@@ -1567,11 +1386,7 @@ explained. The equation number should be right-aligned. See <xref ref-type="disp
 <var-item>
 <term>
 <inline-formula>
-<mml:math>
-  <mml:mstyle displaystyle="false">
-    <mml:mi>x</mml:mi>
-  </mml:mstyle>
-</mml:math>
+<mml:math>    <mml:mstyle displaystyle="false">      <mml:mi>x</mml:mi>    </mml:mstyle> </mml:math>
 </inline-formula>
 </term>
 <def>
@@ -1581,14 +1396,7 @@ explained. The equation number should be right-aligned. See <xref ref-type="disp
 <var-item>
 <term>
 <inline-formula>
-<mml:math>
-  <mml:mstyle displaystyle="false">
-    <mml:msub>
-      <mml:mi>x</mml:mi>
-      <mml:mn>0</mml:mn>
-    </mml:msub>
-  </mml:mstyle>
-</mml:math>
+<mml:math>    <mml:mstyle displaystyle="false">      <mml:msub>        <mml:mi>x</mml:mi>        <mml:mn>0</mml:mn>      </mml:msub>    </mml:mstyle> </mml:math>
 </inline-formula>
 </term>
 <def>
@@ -1598,11 +1406,7 @@ explained. The equation number should be right-aligned. See <xref ref-type="disp
 <var-item>
 <term>
 <inline-formula>
-<mml:math>
-  <mml:mstyle displaystyle="false">
-    <mml:mi>f</mml:mi>
-  </mml:mstyle>
-</mml:math>
+<mml:math>    <mml:mstyle displaystyle="false">      <mml:mi>f</mml:mi>    </mml:mstyle> </mml:math>
 </inline-formula>
 </term>
 <def>
@@ -1634,7 +1438,8 @@ explained. The equation number should be right-aligned. See <xref ref-type="disp
 <ref id="B2">
 <label>[B1]</label>
 <mixed-citation publication-format="print">
-<source>IEEE Std XXX<sup>™</sup>-YEAR, IEEE Standard for Something Industry Needs.</source>
+<source>IEEE Std XXX<sup>™</sup>-YEAR, IEEE Standard for Something
+Industry Needs.</source>
 </mixed-citation>
 </ref>
 <ref content-type="standard" id="iso-iec_9945-1">
@@ -1666,9 +1471,7 @@ explained. The equation number should be right-aligned. See <xref ref-type="disp
 <label>B.1.1</label>
 <title>Title</title>
 
-<p>Every annex shall be given a title and shall be designated either
-a normative or an informative annex. Notice that the numbering now
-contains the annex letter. See <xref ref-type="disp-formula" rid="eq_B-1">Equation B.1</xref>:<disp-formula id="eq_B-1">
+<p>Every annex shall be given a title and shall be designated either a normative or an informative annex. Notice that the numbering now contains the annex letter. See  :<disp-formula id="eq_B-1">
 <mml:math>
   <mml:mstyle displaystyle="true">
     <mml:mi>Y</mml:mi>
@@ -1720,25 +1523,12 @@ contains the annex letter. See <xref ref-type="disp-formula" rid="eq_B-1">Equati
 <var-item>
 <term>
 <inline-formula>
-<mml:math>
-  <mml:mstyle displaystyle="false">
-    <mml:mi>Y</mml:mi>
-    <mml:mrow>
-      <mml:mo>(</mml:mo>
-      <mml:mi>x</mml:mi>
-      <mml:mo>)</mml:mo>
-    </mml:mrow>
-  </mml:mstyle>
-</mml:math>
+<mml:math>    <mml:mstyle displaystyle="false">      <mml:mi>Y</mml:mi>      <mml:mrow>        <mml:mo>(</mml:mo>        <mml:mi>x</mml:mi>        <mml:mo>)</mml:mo>      </mml:mrow>    </mml:mstyle> </mml:math>
 </inline-formula>
 </term>
 <def>
 <p>is the amplitude of the Gaussian function at channel <inline-formula>
-<mml:math>
-  <mml:mstyle displaystyle="false">
-    <mml:mi>x</mml:mi>
-  </mml:mstyle>
-</mml:math>
+<mml:math>    <mml:mstyle displaystyle="false">      <mml:mi>x</mml:mi>    </mml:mstyle> </mml:math>
 </inline-formula>
 </p>
 </def>
@@ -1746,14 +1536,7 @@ contains the annex letter. See <xref ref-type="disp-formula" rid="eq_B-1">Equati
 <var-item>
 <term>
 <inline-formula>
-<mml:math>
-  <mml:mstyle displaystyle="false">
-    <mml:msub>
-      <mml:mi>Y</mml:mi>
-      <mml:mn>0</mml:mn>
-    </mml:msub>
-  </mml:mstyle>
-</mml:math>
+<mml:math>    <mml:mstyle displaystyle="false">      <mml:msub>        <mml:mi>Y</mml:mi>        <mml:mn>0</mml:mn>      </mml:msub>    </mml:mstyle> </mml:math>
 </inline-formula>
 </term>
 <def>
@@ -1763,11 +1546,7 @@ contains the annex letter. See <xref ref-type="disp-formula" rid="eq_B-1">Equati
 <var-item>
 <term>
 <inline-formula>
-<mml:math>
-  <mml:mstyle displaystyle="false">
-    <mml:mi>x</mml:mi>
-  </mml:mstyle>
-</mml:math>
+<mml:math>    <mml:mstyle displaystyle="false">      <mml:mi>x</mml:mi>    </mml:mstyle> </mml:math>
 </inline-formula>
 </term>
 <def>
@@ -1777,14 +1556,7 @@ contains the annex letter. See <xref ref-type="disp-formula" rid="eq_B-1">Equati
 <var-item>
 <term>
 <inline-formula>
-<mml:math>
-  <mml:mstyle displaystyle="false">
-    <mml:msub>
-      <mml:mi>x</mml:mi>
-      <mml:mn>0</mml:mn>
-    </mml:msub>
-  </mml:mstyle>
-</mml:math>
+<mml:math>    <mml:mstyle displaystyle="false">      <mml:msub>        <mml:mi>x</mml:mi>        <mml:mn>0</mml:mn>      </mml:msub>    </mml:mstyle> </mml:math>
 </inline-formula>
 </term>
 <def>
@@ -1794,11 +1566,7 @@ contains the annex letter. See <xref ref-type="disp-formula" rid="eq_B-1">Equati
 <var-item>
 <term>
 <inline-formula>
-<mml:math>
-  <mml:mstyle displaystyle="false">
-    <mml:mi>f</mml:mi>
-  </mml:mstyle>
-</mml:math>
+<mml:math>    <mml:mstyle displaystyle="false">      <mml:mi>f</mml:mi>    </mml:mstyle> </mml:math>
 </inline-formula>
 </term>
 <def>
@@ -1820,10 +1588,7 @@ contains the annex letter. See <xref ref-type="disp-formula" rid="eq_B-1">Equati
 <label>B.1.2</label>
 <title>Clause and subclause organization</title>
 
-<p>The material in an annex should be organized into clauses and subclauses
-just like the body text. There should be at least two subclauses in
-any subdivision so that if there is one second-level header, there
-should be at a minimum one other one.</p>
+<p>The material in an annex should be organized into clauses and subclauses just like the body text. There should be at least two subclauses in any subdivision so that if there is one second-level header, there should be at a minimum one other one.</p>
 </sec>
 </sec>
 
@@ -1831,15 +1596,14 @@ should be at a minimum one other one.</p>
 <label>B.2</label>
 <title>Material in annexes</title>
 
-<p>Tables, figures, equations, lists, etc., in an annex are formatted
-like they would be in the body of the text except that<list list-type="bullet">
+<p>Tables, figures, equations, lists, etc., in an annex are formatted like they would be in the body of the text except that<list list-type="bullet">
 <list-item>
 <label>•</label>
-<p>Tables are numbered according to the annex letter (see <xref ref-type="table" rid="table_B-1">Table B.1</xref>).</p>
+<p>Tables are numbered according to the annex letter (see ).</p>
 </list-item>
 <list-item>
 <label>•</label>
-<p>Figures are labeled according to the annex letter (see <xref ref-type="fig" rid="fig_B-1">Figure B.1</xref>).</p>
+<p>Figures are labeled according to the annex letter (see ).</p>
 </list-item>
 </list>
 </p>

@@ -1,11 +1,11 @@
-<relaton-collection xmlns="https://open.ribose.com/relaton-xml"><title>IEEE sample documents in Metanorma (Metanorma AsciiDoc syntax)</title><contributor><role type='author'/><organization><name>Metanorma : Standards for standards</name></organization></contributor><relation type='partOf'><bibdata type="standard" schema-version="v1.2.8">
+<relaton-collection xmlns="https://open.ribose.com/relaton-xml"><title>IEEE sample documents in Metanorma (Metanorma AsciiDoc syntax)</title><contributor><role type='author'/><organization><name>Metanorma : Standards for standards</name></organization></contributor><relation type='partOf'><bibdata type="standard" schema-version="v1.2.9">
   <title format="text/plain" language="en">Recommended Practice for Preparing an IEEE Standards Draft</title>
   <uri type="xml">documents/p987.6/document.xml</uri>
   <uri type="pdf">documents/p987.6/document.pdf</uri>
   <uri type="doc">documents/p987.6/document.doc</uri>
   <uri type="html">documents/p987.6/document.html</uri>
   <uri type="rxl">documents/p987.6/document.rxl</uri>
-  <docidentifier type="IEEE">IEEE Std 987.6-2020</docidentifier>
+  <docidentifier type="IEEE" primary="true">IEEE Std 987.6-2020</docidentifier>
   <docidentifier type="IEEE" scope="PDF">STDXXXXX</docidentifier>
   <docidentifier type="IEEE" scope="print">STDPDXXXXX</docidentifier>
   <docidentifier type="ISBN" scope="PDF">978-0-XXXX-XXXX-X</docidentifier>
@@ -31,10 +31,7 @@
   </version>
   <language>en</language>
   <script>Latn</script>
-  <abstract>&lt;p&gt;Key discussion points covered in the draft are stated here in a few
-complete sentences, using passive rather than active voice. The more
-specific the better since the abstract often populates search engines
-and catalog databases.&lt;/p&gt;</abstract>
+  <abstract>&lt;p&gt;Key discussion points covered in the draft are stated here in a few complete sentences, using passive rather than active voice. The more specific the better since the abstract often populates search engines and catalog databases.&lt;/p&gt;</abstract>
   <status>
     <stage>draft</stage>
   </status>

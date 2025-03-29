@@ -1,0 +1,8 @@
+PDF isn't valid PDF/UA-1:
+ValidationResult [flavour=ua1, totalAssertions=112004, assertions=[
+TestAssertion [ruleId=RuleId [specification=ISO 14289-1:2014, clause=7.2, testNumber=36], status=failed,
+message=THead element may contain only TR elements,
+location=Location [level=CosDocument, context=root/document[0]/StructTreeRoot[0](797 0 obj PDStructTreeRoot)/K[0](799 0 obj SEDocument Document)/K[3](824 0 obj SEPart Part)/K[0](1024 0 obj SESect Sect)/K[46](1059 0 obj SEDiv Div)/K[0](1172 0 obj SEP P)/K[0](1173 0 obj SEDiv Div)/K[0](1174 0 obj SETable Table)/K[0](537 0 obj SETHead THead)], locationContext=null, errorMessage=null], 
+TestAssertion [ruleId=RuleId [specification=ISO 14289-1:2014, clause=7.2, testNumber=36], status=failed,
+message=THead element may contain only TR elements,
+location=Location [level=CosDocument, context=root/document[0]/StructTreeRoot[0](797 0 obj PDStructTreeRoot)/K[0](799 0 obj SEDocument Document)/K[5](826 0 obj SEPart Part)/K[0](1261 0 obj SESect Sect)/K[10](1267 0 obj SEDiv Div)/K[0](1311 0 obj SEP P)/K[0](1312 0 obj SEDiv Div)/K[0](1313 0 obj SETable Table)/K[0](707 0 obj SETHead THead)], locationContext=null, errorMessage=null]], isCompliant=false]
