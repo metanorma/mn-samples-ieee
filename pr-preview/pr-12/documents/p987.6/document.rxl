@@ -1,0 +1,22 @@
+<bibdata type="standard">
+<title type="title-abbrev" language="en">Draft Std. for Recommended Practice for Preparing an IEEE Standards Draft</title>
+<title type="main" language="en">Draft Standard for Recommended Practice for Preparing an IEEE Standards Draft</title>
+<title language="en" type="title-main">Recommended Practice for Preparing an IEEE Standards Draft</title>
+<docidentifier type="IEEE" primary="true">IEEE Draft Std 987.6-2020/D3</docidentifier><docidentifier type="IEEE-draft">P987.6/D3</docidentifier><docidentifier type="IEEE" scope="PDF">STDXXXXX</docidentifier><docidentifier type="IEEE" scope="print">STDPDXXXXX</docidentifier><docidentifier type="ISBN" scope="PDF">978-0-XXXX-XXXX-X</docidentifier><docidentifier type="ISBN" scope="print">978-0-XXXX-XXXX-X</docidentifier><docnumber>987.6</docnumber><contributor><role type="author"/><organization>
+<name>Institute of Electrical and Electronic Engineers</name>
+<abbreviation>IEEE</abbreviation></organization></contributor><contributor><role type="authorizer"><description>committee</description></role><organization>
+<name>Institute of Electrical and Electronic Engineers</name>
+<subdivision type="Society">
+<name>Template Society</name>
+</subdivision><subdivision type="Balloting group" subtype="individual">
+<name>Balloting Group Name</name>
+</subdivision><subdivision type="Working group">
+<name>Working Group Name</name>
+</subdivision><subdivision type="Committee">
+<name>Standards Staff Engineering Committee</name>
+</subdivision><abbreviation>IEEE</abbreviation></organization></contributor><contributor><role type="publisher"/><organization>
+<name>Institute of Electrical and Electronic Engineers</name>
+<abbreviation>IEEE</abbreviation></organization></contributor><version><revision-date>2021-01-01</revision-date><draft>3</draft></version><language>en</language><script>Latn</script><abstract><p>Key discussion points covered in the draft are stated here in a few complete sentences, using passive rather than active voice. The more specific the better since the abstract often populates search engines and catalog databases.</p>
+</abstract><status><stage>draft</stage></status><copyright><from>2020</from><owner><organization>
+<name>Institute of Electrical and Electronic Engineers</name>
+<abbreviation>IEEE</abbreviation></organization></owner></copyright><keyword>designation</keyword><keyword>document development</keyword><keyword>draft</keyword><keyword>equation</keyword><keyword>figure</keyword><keyword>guide</keyword><keyword>IEEE 987.6™</keyword><keyword>introduction</keyword><keyword>list</keyword><keyword>purpose</keyword><keyword>recommended practice</keyword><keyword>scope</keyword><keyword>standard</keyword><ext><doctype>standard</doctype><subdoctype>document</subdoctype><flavor>ieee</flavor><structuredidentifier><docnumber>987.6</docnumber><agency>IEEE</agency><class>standard</class><version>3</version><year>2020</year></structuredidentifier></ext></bibdata>
