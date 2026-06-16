@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metanorma xmlns="https://www.metanorma.org/ns/standoc" type="presentation" version="1.6.7" schema-version="v2.1.5" flavor="ieee">
+<metanorma xmlns="https://www.metanorma.org/ns/standoc" type="presentation" version="1.6.11" schema-version="v2.1.6" flavor="ieee">
 <bibdata type="standard">
 <title type="title-abbrev" language="en">Draft Std. for Recommended Practice for Preparing an IEEE Standards Draft</title>
 <title type="main" language="en">Draft Standard for Recommended Practice for Preparing an IEEE Standards Draft</title>
@@ -7,7 +7,7 @@
 <docidentifier type="IEEE" primary="true">IEEE Draft Std 987.6-2020/D3</docidentifier><docidentifier type="IEEE-draft">P987.6/D3</docidentifier><docidentifier type="IEEE" scope="PDF">STDXXXXX</docidentifier><docidentifier type="IEEE" scope="print">STDPDXXXXX</docidentifier><docidentifier type="ISBN" scope="PDF">978-0-XXXX-XXXX-X</docidentifier><docidentifier type="ISBN" scope="print">978-0-XXXX-XXXX-X</docidentifier><docnumber>987.6</docnumber><date type="ieee-sasb-approved" format="text">
    <on>&#x3c;Date Approved&#x3e;</on>
 </date>
-<contributor><role type="author"/><organization>
+<date type="updated"><on>2021-01-01</on></date><date type="updated" format="ddMMMyyyy"><on>01 Jan 2021</on></date><contributor><role type="author"/><organization>
 <name>Institute of Electrical and Electronic Engineers</name>
 <abbreviation>IEEE</abbreviation></organization></contributor><contributor><role type="authorizer"><description>committee</description></role><organization>
 <name>Institute of Electrical and Electronic Engineers</name>
@@ -21,7 +21,7 @@
 <name>Standards Staff Engineering Committee</name>
 </subdivision><abbreviation>IEEE</abbreviation></organization></contributor><contributor><role type="publisher"/><organization>
 <name>Institute of Electrical and Electronic Engineers</name>
-<abbreviation>IEEE</abbreviation></organization></contributor><version><revision-date>2021-01-01</revision-date><draft>3</draft></version><language current="true">en</language><script current="true">Latn</script><abstract><p>Key discussion points covered in the draft are stated here in a few complete sentences, using passive rather than active voice. The more specific the better since the abstract often populates search engines and catalog databases.</p>
+<abbreviation>IEEE</abbreviation></organization></contributor><version>3</version><language current="true">en</language><script current="true">Latn</script><abstract><p>Key discussion points covered in the draft are stated here in a few complete sentences, using passive rather than active voice. The more specific the better since the abstract often populates search engines and catalog databases.</p>
 </abstract><status><stage>draft</stage></status><copyright><from>2020</from><owner><organization>
 <name>Institute of Electrical and Electronic Engineers</name>
 <abbreviation>IEEE</abbreviation></organization></owner></copyright><keyword>designation</keyword><keyword>document development</keyword><keyword>draft</keyword><keyword>equation</keyword><keyword>figure</keyword><keyword>guide</keyword><keyword>IEEE 987.6™</keyword><keyword>introduction</keyword><keyword>list</keyword><keyword>purpose</keyword><keyword>recommended practice</keyword><keyword>scope</keyword><keyword>standard</keyword><ext><doctype>standard</doctype><subdoctype>document</subdoctype><flavor>ieee</flavor><structuredidentifier><docnumber>987.6</docnumber><agency>IEEE</agency><class>standard</class><version>3</version><year>2020</year></structuredidentifier></ext></bibdata><localized-strings><localized-string key="term_def_boilerplate" language="en">For the purposes of this document, the following terms and definitions apply. The _IEEE Standards Dictionary Online_ should be consulted for terms not defined in this clause.footnote:[_IEEE Standards Dictionary Online_ is available at: http://dictionary.ieee.org[]. An IEEE Account is required for access to the dictionary, and one can be created at no charge on the dictionary sign-in page.]
@@ -336,8 +336,8 @@ Users are encouraged to periodically check for errata.</p>
 </clause>
 <clause id="boilerplate_word_usage" anchor="boilerplate_word_usage" inline-header="false" obligation="normative" semx-id="_f491b671-a84e-7b7f-1618-1cdde542c288">
 <title id="_704fed0e-b7a3-d901-1c54-4149bb03197f" semx-id="_c13aac16-ba68-8a66-0f80-f270dc759bf3">Word usage</title><fmt-title depth="2" id="_9e1a0095-b4c3-91ee-6b9c-b1f4f0f4d756"><span class="fmt-caption-label"><semx element="autonum" source="_4becab1f-e830-c0fd-7bbc-57a17c10c5c4">1</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="boilerplate_word_usage">3</semx><span class="fmt-autonum-delim">.</span></span><span class="fmt-caption-delim"><tab/></span><semx element="title" source="_704fed0e-b7a3-d901-1c54-4149bb03197f">Word usage</semx></fmt-title><fmt-xref-label><span class="fmt-element-name">Clause</span> <semx element="autonum" source="_4becab1f-e830-c0fd-7bbc-57a17c10c5c4">1</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="boilerplate_word_usage">3</semx></fmt-xref-label>
-<p id="_5c8d23d3-3371-d07c-c99b-341c7801d64c" semx-id="_5c8d23d3-3371-d07c-c99b-341c7801d64c">The word <em>shall</em> indicates mandatory requirements strictly to be followed in order to conform to the standard and from which no deviation is permitted (<em>shall</em> equals <em>is required to</em>).<fn id="_fe6e620b-1c20-e6e2-9b77-e3555678ea4f" reference="6" semx-id="_fe6e620b-1c20-e6e2-9b77-e3555678ea4f" original-reference="_9b0ddbff-767f-452c-85c3-260f14474fa6_6" target="_7017fe83-af7d-a654-92b4-bf9297ad9957"><p semx-id="_ec178d43-b2d8-ee5e-07fa-c3bdeef2d1b6" original-id="_ec178d43-b2d8-ee5e-07fa-c3bdeef2d1b6">The use of the word <em>must</em> is deprecated and cannot be used when stating mandatory requirements; <em>must</em> is used only to describe unavoidable situations.</p>
-<fmt-fn-label><span class="fmt-caption-label"><sup><semx element="autonum" source="_fe6e620b-1c20-e6e2-9b77-e3555678ea4f">6</semx></sup></span></fmt-fn-label></fn><fn id="_cdbcdcc3-51cf-8f99-4a17-0db215603ea6" reference="7" semx-id="_cdbcdcc3-51cf-8f99-4a17-0db215603ea6" original-reference="_83f87643-bfcc-4af8-97f5-86623102d364_7" target="_605d9be1-110e-210c-466f-857099d417ea"><p semx-id="_8d2c524b-d608-8a71-d9b8-ec9d88939a1c" original-id="_8d2c524b-d608-8a71-d9b8-ec9d88939a1c">The use of <em>will</em> is deprecated and cannot be used when stating mandatory requirements; <em>will</em> is only used in statements of fact.</p>
+<p id="_5c8d23d3-3371-d07c-c99b-341c7801d64c" semx-id="_5c8d23d3-3371-d07c-c99b-341c7801d64c">The word <em>shall</em> indicates mandatory requirements strictly to be followed in order to conform to the standard and from which no deviation is permitted (<em>shall</em> equals <em>is required to</em>).<fn id="_fe6e620b-1c20-e6e2-9b77-e3555678ea4f" reference="6" semx-id="_fe6e620b-1c20-e6e2-9b77-e3555678ea4f" original-reference="_d847cbde-8834-4a52-bc42-4e159a9d7a70_6" target="_7017fe83-af7d-a654-92b4-bf9297ad9957"><p semx-id="_ec178d43-b2d8-ee5e-07fa-c3bdeef2d1b6" original-id="_ec178d43-b2d8-ee5e-07fa-c3bdeef2d1b6">The use of the word <em>must</em> is deprecated and cannot be used when stating mandatory requirements; <em>must</em> is used only to describe unavoidable situations.</p>
+<fmt-fn-label><span class="fmt-caption-label"><sup><semx element="autonum" source="_fe6e620b-1c20-e6e2-9b77-e3555678ea4f">6</semx></sup></span></fmt-fn-label></fn><fn id="_cdbcdcc3-51cf-8f99-4a17-0db215603ea6" reference="7" semx-id="_cdbcdcc3-51cf-8f99-4a17-0db215603ea6" original-reference="_a6075741-ce1e-4658-809a-901e6f364be9_7" target="_605d9be1-110e-210c-466f-857099d417ea"><p semx-id="_8d2c524b-d608-8a71-d9b8-ec9d88939a1c" original-id="_8d2c524b-d608-8a71-d9b8-ec9d88939a1c">The use of <em>will</em> is deprecated and cannot be used when stating mandatory requirements; <em>will</em> is only used in statements of fact.</p>
 <fmt-fn-label><span class="fmt-caption-label"><sup><semx element="autonum" source="_cdbcdcc3-51cf-8f99-4a17-0db215603ea6">7</semx></sup></span></fmt-fn-label></fn></p>
 
 <p id="_2387f683-52f4-6fdb-3fec-f1b9a1c19757" semx-id="_2387f683-52f4-6fdb-3fec-f1b9a1c19757">The word <em>should</em> indicates that among several possibilities one is recommended as particularly suitable, without mentioning or excluding others; or that a certain course of action is preferred but not necessarily required (<em>should</em> equals <em>is recommended that</em>).</p>
@@ -354,7 +354,7 @@ Users are encouraged to periodically check for errata.</p>
 <clause id="_803e52af-daa6-7ad6-e718-e91d4fa9966e" obligation="normative" type="terms" semx-id="_803e52af-daa6-7ad6-e718-e91d4fa9966e" displayorder="8">
 <title id="_75e8c71e-7baa-b012-2cac-c3c8afecba44" semx-id="_5a5bf587-4ccf-cf9c-ed5b-3927e3a3c9c9">Definitions, acronyms and abbreviations</title><fmt-title depth="1" id="_0b0bffb9-74ea-1c81-6686-5b7c9f2cc37e"><span class="fmt-caption-label"><semx element="autonum" source="_803e52af-daa6-7ad6-e718-e91d4fa9966e">3</semx><span class="fmt-autonum-delim">.</span></span><span class="fmt-caption-delim"><tab/></span><semx element="title" source="_75e8c71e-7baa-b012-2cac-c3c8afecba44">Definitions, acronyms and abbreviations</semx></fmt-title><fmt-xref-label><span class="fmt-element-name">Clause</span> <semx element="autonum" source="_803e52af-daa6-7ad6-e718-e91d4fa9966e">3</semx></fmt-xref-label>
 <terms id="_04681df1-5ec4-a5bd-f094-c440a7a6ced6" obligation="normative" semx-id="_04681df1-5ec4-a5bd-f094-c440a7a6ced6">
-<title id="_8d2d191d-ee40-1d8d-fc24-3df0534c1111" semx-id="_4d4002c4-2b9d-038d-769b-98d517eb92e1">Definitions</title><fmt-title depth="2" id="_4bd0e582-b86f-2479-d24c-9388d9c25355"><span class="fmt-caption-label"><semx element="autonum" source="_803e52af-daa6-7ad6-e718-e91d4fa9966e">3</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_04681df1-5ec4-a5bd-f094-c440a7a6ced6">1</semx><span class="fmt-autonum-delim">.</span></span><span class="fmt-caption-delim"><tab/></span><semx element="title" source="_8d2d191d-ee40-1d8d-fc24-3df0534c1111">Definitions</semx></fmt-title><fmt-xref-label><span class="fmt-element-name">Clause</span> <semx element="autonum" source="_803e52af-daa6-7ad6-e718-e91d4fa9966e">3</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_04681df1-5ec4-a5bd-f094-c440a7a6ced6">1</semx></fmt-xref-label><p id="_d01f1347-9741-ad90-137c-307ecf43b400" semx-id="_d01f1347-9741-ad90-137c-307ecf43b400">For the purposes of this document, the following terms and definitions apply. The <em>IEEE Standards Dictionary Online</em> should be consulted for terms not defined in this clause.<fn id="_258f9b7a-66e9-9c34-ffd3-e3088d5d6719" reference="16" semx-id="_258f9b7a-66e9-9c34-ffd3-e3088d5d6719" original-reference="_78721ce4-bc9c-4e9b-93a2-9fd9cccb118a_1" target="_bb60f121-2ba5-3789-d93b-a59f79714523"><p semx-id="_15e5ffc1-ecff-918b-e985-83cfa71703d5" original-id="_15e5ffc1-ecff-918b-e985-83cfa71703d5"><em>IEEE Standards Dictionary Online</em> is available at: <link target="http://dictionary.ieee.org" id="_715ae018-6bb7-9f32-e42c-a144dcdc7d09"/><semx element="link" source="_715ae018-6bb7-9f32-e42c-a144dcdc7d09"><fmt-link target="http://dictionary.ieee.org"/></semx>. An IEEE Account is required for access to the dictionary, and one can be created at no charge on the dictionary sign-in page.</p>
+<title id="_8d2d191d-ee40-1d8d-fc24-3df0534c1111" semx-id="_4d4002c4-2b9d-038d-769b-98d517eb92e1">Definitions</title><fmt-title depth="2" id="_4bd0e582-b86f-2479-d24c-9388d9c25355"><span class="fmt-caption-label"><semx element="autonum" source="_803e52af-daa6-7ad6-e718-e91d4fa9966e">3</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_04681df1-5ec4-a5bd-f094-c440a7a6ced6">1</semx><span class="fmt-autonum-delim">.</span></span><span class="fmt-caption-delim"><tab/></span><semx element="title" source="_8d2d191d-ee40-1d8d-fc24-3df0534c1111">Definitions</semx></fmt-title><fmt-xref-label><span class="fmt-element-name">Clause</span> <semx element="autonum" source="_803e52af-daa6-7ad6-e718-e91d4fa9966e">3</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_04681df1-5ec4-a5bd-f094-c440a7a6ced6">1</semx></fmt-xref-label><p id="_d01f1347-9741-ad90-137c-307ecf43b400" semx-id="_d01f1347-9741-ad90-137c-307ecf43b400">For the purposes of this document, the following terms and definitions apply. The <em>IEEE Standards Dictionary Online</em> should be consulted for terms not defined in this clause.<fn id="_258f9b7a-66e9-9c34-ffd3-e3088d5d6719" reference="16" semx-id="_258f9b7a-66e9-9c34-ffd3-e3088d5d6719" original-reference="_4e52d906-8870-47b8-9df0-85475fb0658e__ed16438c-9e20-4291-8cdb-9da9776967c0_1" target="_bb60f121-2ba5-3789-d93b-a59f79714523"><p semx-id="_15e5ffc1-ecff-918b-e985-83cfa71703d5" original-id="_15e5ffc1-ecff-918b-e985-83cfa71703d5"><em>IEEE Standards Dictionary Online</em> is available at: <link target="http://dictionary.ieee.org" id="_715ae018-6bb7-9f32-e42c-a144dcdc7d09"/><semx element="link" source="_715ae018-6bb7-9f32-e42c-a144dcdc7d09"><fmt-link target="http://dictionary.ieee.org"/></semx>. An IEEE Account is required for access to the dictionary, and one can be created at no charge on the dictionary sign-in page.</p>
 <fmt-fn-label><span class="fmt-caption-label"><sup><semx element="autonum" source="_258f9b7a-66e9-9c34-ffd3-e3088d5d6719">16</semx></sup></span></fmt-fn-label></fn></p><term id="term-acceleration-insensitive-drift-rate" anchor="term-acceleration-insensitive-drift-rate" semx-id="_3739e35e-b033-2b36-b727-c7e2c1a5f329"><preferred id="_221e7e5c-e89a-e5fc-d8d0-25864540ae1d"><expression>
 <name id="_11fcda67-60d8-2a48-343f-51f87697d5c5">acceleration-insensitive drift rate</name>
 </expression>
@@ -383,7 +383,7 @@ Users are encouraged to periodically check for errata.</p>
 <name id="_d16435b6-380a-d5f8-e71d-d0effe8ecced">drift rate</name>
 </expression>
 </preferred>
-<definition id="_3d43317e-3745-3405-8848-c7f682a311aa" semx-id="_3d43317e-3745-3405-8848-c7f682a311aa"><verbal-definition semx-id="_1c28c435-98e0-387f-1b8a-8ebb722d4fb4" id="_1c28c435-98e0-387f-1b8a-8ebb722d4fb4"><p semx-id="_841dce33-7e41-9f33-1ca3-e080912e8409" id="_841dce33-7e41-9f33-1ca3-e080912e8409">The slope at a stated time of…​</p></verbal-definition></definition><fmt-definition id="_d5c62472-5876-3bbd-86a9-ee3af301ca66"><p><semx element="preferred" source="_600d83b3-57b6-9f3b-d58e-571fd6d3a5cc"><strong><semx element="expression/name" source="_d16435b6-380a-d5f8-e71d-d0effe8ecced">drift rate</semx></strong></semx>: <semx element="definition" source="_3d43317e-3745-3405-8848-c7f682a311aa">The slope at a stated time of…​</semx> <span class="fmt-termsource-delim">(</span>adapted from <semx element="source" source="_664d8cb6-e7e4-cef6-39af-93fdf68acc47"><origin bibitemid="iso-iec_9945-1" type="inline" citeas="ISO/IEC 9945-1:2003" id="_fba7d507-5b8a-440b-dfea-3ad0e3ce53e4"/><semx element="origin" source="_fba7d507-5b8a-440b-dfea-3ad0e3ce53e4"><fmt-xref type="inline" target="iso-iec_9945-1"><span class="std_publisher">ISO</span>/<span class="std_publisher">IEC </span><span class="std_docNumber">9945-1</span>:<span class="std_year">2003</span> [B2]</fmt-xref></semx>,<fn reference="17" original-reference="43a3ddf8-1f9a-4c8a-ab4a-87617b88eca0" id="_7d9d1909-54a5-4de7-17e9-d6b8438203cf" target="_78db06ee-296d-4fdf-c6df-4d0c4de8c927"><p>The numbers in brackets correspond to those of the bibliography in Annex B.</p><fmt-fn-label><span class="fmt-caption-label"><sup><semx element="autonum" source="_7d9d1909-54a5-4de7-17e9-d6b8438203cf">17</semx></sup></span></fmt-fn-label></fn> adapted
+<definition id="_3d43317e-3745-3405-8848-c7f682a311aa" semx-id="_3d43317e-3745-3405-8848-c7f682a311aa"><verbal-definition semx-id="_1c28c435-98e0-387f-1b8a-8ebb722d4fb4" id="_1c28c435-98e0-387f-1b8a-8ebb722d4fb4"><p semx-id="_841dce33-7e41-9f33-1ca3-e080912e8409" id="_841dce33-7e41-9f33-1ca3-e080912e8409">The slope at a stated time of…​</p></verbal-definition></definition><fmt-definition id="_d5c62472-5876-3bbd-86a9-ee3af301ca66"><p><semx element="preferred" source="_600d83b3-57b6-9f3b-d58e-571fd6d3a5cc"><strong><semx element="expression/name" source="_d16435b6-380a-d5f8-e71d-d0effe8ecced">drift rate</semx></strong></semx>: <semx element="definition" source="_3d43317e-3745-3405-8848-c7f682a311aa">The slope at a stated time of…​</semx> <span class="fmt-termsource-delim">(</span>adapted from <semx element="source" source="_664d8cb6-e7e4-cef6-39af-93fdf68acc47"><origin bibitemid="iso-iec_9945-1" type="inline" citeas="ISO/IEC 9945-1:2003" id="_fba7d507-5b8a-440b-dfea-3ad0e3ce53e4"/><semx element="origin" source="_fba7d507-5b8a-440b-dfea-3ad0e3ce53e4"><fmt-xref type="inline" target="iso-iec_9945-1"><span class="std_publisher">ISO/IEC</span> <span class="std_docNumber">9945</span>-<span class="std_docNumber">1</span>:<span class="std_year">2003</span> [B2]</fmt-xref></semx>,<fn reference="17" original-reference="5b7363db-75d1-400a-bf08-cabd5932b621" id="_7d9d1909-54a5-4de7-17e9-d6b8438203cf" target="_78db06ee-296d-4fdf-c6df-4d0c4de8c927"><p>The numbers in brackets correspond to those of the bibliography in Annex B.</p><fmt-fn-label><span class="fmt-caption-label"><sup><semx element="autonum" source="_7d9d1909-54a5-4de7-17e9-d6b8438203cf">17</semx></sup></span></fmt-fn-label></fn> adapted
 </semx><span class="fmt-termsource-delim">)</span></p></fmt-definition>
 
 
@@ -417,7 +417,7 @@ Users are encouraged to periodically check for errata.</p>
 <name id="_4c883fde-85fe-4a86-140d-798814b5b55e">systematic drift rate</name>
 </expression>
 </preferred>
-<definition id="_29d84f94-0c49-c5e7-6cba-bfd435faf387" semx-id="_29d84f94-0c49-c5e7-6cba-bfd435faf387"><verbal-definition semx-id="_bb2560bd-4536-0fd0-7816-1003677f51fe" id="_bb2560bd-4536-0fd0-7816-1003677f51fe"><p semx-id="_284758a8-1bc6-d11b-278e-89dfea2af002" id="_284758a8-1bc6-d11b-278e-89dfea2af002">That component of drift rate that…​</p></verbal-definition></definition><fmt-definition id="_119965b3-57b7-8836-d17f-469b6f9204c0"><p><semx element="preferred" source="_cac2580f-5fca-3225-38a6-d96c42ddbad2"><strong><semx element="expression/name" source="_4c883fde-85fe-4a86-140d-798814b5b55e">systematic drift rate</semx></strong></semx>: <semx element="definition" source="_29d84f94-0c49-c5e7-6cba-bfd435faf387">That component of drift rate that…​</semx> <span class="fmt-termsource-delim">(</span><semx element="source" source="_0dc29ad2-01ed-1f54-076f-ee56002da4c0"><origin bibitemid="IEEE_Std_260.1" type="inline" citeas="IEEE Std 260.1-2004" id="_2385d9b6-3d54-19fb-be9c-4d0dbf9865c8"/><semx element="origin" source="_2385d9b6-3d54-19fb-be9c-4d0dbf9865c8"><fmt-xref type="inline" target="IEEE_Std_260.1"><span class="std_publisher">IEEE </span><span class="std_documentType">Std </span><span class="std_docNumber">260.1™-2004</span></fmt-xref></semx></semx><span class="fmt-termsource-delim">)</span></p></fmt-definition>
+<definition id="_29d84f94-0c49-c5e7-6cba-bfd435faf387" semx-id="_29d84f94-0c49-c5e7-6cba-bfd435faf387"><verbal-definition semx-id="_bb2560bd-4536-0fd0-7816-1003677f51fe" id="_bb2560bd-4536-0fd0-7816-1003677f51fe"><p semx-id="_284758a8-1bc6-d11b-278e-89dfea2af002" id="_284758a8-1bc6-d11b-278e-89dfea2af002">That component of drift rate that…​</p></verbal-definition></definition><fmt-definition id="_119965b3-57b7-8836-d17f-469b6f9204c0"><p><semx element="preferred" source="_cac2580f-5fca-3225-38a6-d96c42ddbad2"><strong><semx element="expression/name" source="_4c883fde-85fe-4a86-140d-798814b5b55e">systematic drift rate</semx></strong></semx>: <semx element="definition" source="_29d84f94-0c49-c5e7-6cba-bfd435faf387">That component of drift rate that…​</semx> <span class="fmt-termsource-delim">(</span><semx element="source" source="_0dc29ad2-01ed-1f54-076f-ee56002da4c0"><origin bibitemid="IEEE_Std_260.1" type="inline" citeas="IEEE Std 260.1-2004" id="_2385d9b6-3d54-19fb-be9c-4d0dbf9865c8"/><semx element="origin" source="_2385d9b6-3d54-19fb-be9c-4d0dbf9865c8"><fmt-xref type="inline" target="IEEE_Std_260.1"><span class="std_publisher">IEEE Std</span> <span class="std_docNumber">260</span>.1™-<span class="std_docNumber">2004</span></fmt-xref></semx></semx><span class="fmt-termsource-delim">)</span></p></fmt-definition>
 
 
  <source status="identical" type="authoritative" id="_0dc29ad2-01ed-1f54-076f-ee56002da4c0"><origin bibitemid="IEEE_Std_260.1" type="inline" citeas="IEEE Std 260.1-2004"/></source></term>
@@ -794,8 +794,8 @@ clause as long as they are properly cited. See reference to IEEE P802.21
 
 
 
-<references id="_a992ac63-2bda-142a-eb36-05b0330f483c" normative="true" obligation="informative" semx-id="_a992ac63-2bda-142a-eb36-05b0330f483c" displayorder="7">
-<title id="_708516f3-5914-33c4-8001-a64c25fdd45e" semx-id="_461cd77a-5cfe-f57e-70ab-04e5c4142c2b">Normative references</title><fmt-title depth="1" id="_f63a4700-0f66-aff7-3176-bed544d046f8"><span class="fmt-caption-label"><semx element="autonum" source="_a992ac63-2bda-142a-eb36-05b0330f483c">2</semx><span class="fmt-autonum-delim">.</span></span><span class="fmt-caption-delim"><tab/></span><semx element="title" source="_708516f3-5914-33c4-8001-a64c25fdd45e">Normative references</semx></fmt-title><fmt-xref-label><span class="fmt-element-name">Clause</span> <semx element="autonum" source="_a992ac63-2bda-142a-eb36-05b0330f483c">2</semx></fmt-xref-label><p id="_1b34d6d6-cfcb-4144-6730-eea012433d67" semx-id="_1b34d6d6-cfcb-4144-6730-eea012433d67">The following referenced documents are indispensable for the application of this document (i.e., they must be understood and used, so each referenced document is cited in text and its relationship to this document is explained). For dated references, only the edition cited applies. For undated references, the latest edition of the referenced document (including any amendments or corrigenda) applies.</p><bibitem anchor="accredited_standards" id="accredited_standards" semx-id="_3184cd7d-8f3b-7d84-ba08-3a3ea1faae3a"><biblio-tag>Accredited Standards, </biblio-tag>
+<references id="_2e0fe165-9f8b-3f26-0de6-57d484281cd4" normative="true" obligation="informative" semx-id="_2e0fe165-9f8b-3f26-0de6-57d484281cd4" displayorder="7">
+<title id="_708516f3-5914-33c4-8001-a64c25fdd45e" semx-id="_461cd77a-5cfe-f57e-70ab-04e5c4142c2b">Normative references</title><fmt-title depth="1" id="_f63a4700-0f66-aff7-3176-bed544d046f8"><span class="fmt-caption-label"><semx element="autonum" source="_2e0fe165-9f8b-3f26-0de6-57d484281cd4">2</semx><span class="fmt-autonum-delim">.</span></span><span class="fmt-caption-delim"><tab/></span><semx element="title" source="_708516f3-5914-33c4-8001-a64c25fdd45e">Normative references</semx></fmt-title><fmt-xref-label><span class="fmt-element-name">Clause</span> <semx element="autonum" source="_2e0fe165-9f8b-3f26-0de6-57d484281cd4">2</semx></fmt-xref-label><p id="_1b34d6d6-cfcb-4144-6730-eea012433d67" semx-id="_1b34d6d6-cfcb-4144-6730-eea012433d67">The following referenced documents are indispensable for the application of this document (i.e., they must be understood and used, so each referenced document is cited in text and its relationship to this document is explained). For dated references, only the edition cited applies. For undated references, the latest edition of the referenced document (including any amendments or corrigenda) applies.</p><bibitem anchor="accredited_standards" id="accredited_standards" semx-id="_3184cd7d-8f3b-7d84-ba08-3a3ea1faae3a"><biblio-tag>Accredited Standards, </biblio-tag>
   <formattedref format="application/x-isodoc+xml">Accredited Standards
 Committee C2-2012, National Electrical Safety Code<sup>®</sup> (NESC<sup>®</sup>).<fn id="_35088f8a-08ea-fc68-9204-bf35c13028f9" reference="8" semx-id="_35088f8a-08ea-fc68-9204-bf35c13028f9" original-reference="4" target="_f27007ee-d92c-746e-5f9b-4915b10500ed"><p semx-id="_a61e6c96-0279-62e1-17fe-1f8f773320d1" original-id="_a61e6c96-0279-62e1-17fe-1f8f773320d1">National Electrical Safety Code and NESC are both registered trademarks and service marks of The Institute of Electrical and Electronics Engineers, Incorporated.</p>
 <fmt-fn-label><span class="fmt-caption-label"><sup><semx element="autonum" source="_35088f8a-08ea-fc68-9204-bf35c13028f9">8</semx></sup></span></fmt-fn-label></fn><fn id="_6accf5ff-a3b4-65b4-0c7a-e10d6e74bf18" reference="9" semx-id="_6accf5ff-a3b4-65b4-0c7a-e10d6e74bf18" original-reference="5" target="_230ceb7e-d21e-3718-eac8-80bd26bb2810"><p semx-id="_780e861f-e3e8-a32f-7167-029a2f581b82" original-id="_780e861f-e3e8-a32f-7167-029a2f581b82">The NESC is available from The Institute of Electrical and Electronics Engineers at <link target="http://standards.ieee.org/" id="_0d498080-3eda-3f8c-9801-997236087b8c"/><semx element="link" source="_0d498080-3eda-3f8c-9801-997236087b8c"><fmt-link target="http://standards.ieee.org/"/></semx>.</p>
@@ -811,10 +811,10 @@ Committee C2-2012, National Electrical Safety Code<sup>®</sup> (NESC<sup>®</su
   <docnumber>802.21/D14</docnumber>
   <language>en</language>
   <script>Latn</script>
-</bibitem><bibitem id="IEEE_ASTM" type="standard" schema-version="v1.2.9" anchor="IEEE_ASTM" semx-id="_aff8be0f-3a87-faa7-bf07-929def16ed6c"><biblio-tag>IEEE/ASTM SI 10.1997™, </biblio-tag><formattedref>IEEE/ASTM Standard for Use of the International System of Units (SI): The Modern Metric System.<fn id="_562dfdc6-9f43-15e0-268c-6970e9137670" reference="11" original-reference="3bdd83e9-ed73-4065-a420-67013b89552c" target="_366ab1f4-b8fc-6391-376f-0edbe39a3be3"><p>The IEEE standards or products referred to in this clause are trademarks owned by The Institute of Electrical and Electronics Engineers, Incorporated.</p><fmt-fn-label><span class="fmt-caption-label"><sup><semx element="autonum" source="_562dfdc6-9f43-15e0-268c-6970e9137670">11</semx></sup></span></fmt-fn-label></fn><fn id="_4f58a01a-2b66-3346-ebf8-05843d3d046e" reference="12" original-reference="61f6c4dc-e117-4a1f-a9f4-0cda172015ae" target="_e3b0aba7-a3ca-5d25-c325-8dfac006c09e"><p>IEEE publications are available from The Institute of Electrical and Electronics Engineers (http://standards.ieee.org/).</p><fmt-fn-label><span class="fmt-caption-label"><sup><semx element="autonum" source="_4f58a01a-2b66-3346-ebf8-05843d3d046e">12</semx></sup></span></fmt-fn-label></fn></formattedref>
-  <fetched>2026-04-16</fetched>
+</bibitem><bibitem id="IEEE_ASTM" type="standard" schema-version="v1.5.6" anchor="IEEE_ASTM" semx-id="_460215f1-8c68-64c6-bc13-fae7f333afaa"><biblio-tag>IEEE/ASTM SI 10.1997™, </biblio-tag><formattedref>IEEE/ASTM Standard for Use of the International System of Units (SI): The Modern Metric System.<fn id="_562dfdc6-9f43-15e0-268c-6970e9137670" reference="11" original-reference="11d6c533-4ef9-4d34-83ef-d05337160423" target="_366ab1f4-b8fc-6391-376f-0edbe39a3be3"><p>The IEEE standards or products referred to in this clause are trademarks owned by The Institute of Electrical and Electronics Engineers, Incorporated.</p><fmt-fn-label><span class="fmt-caption-label"><sup><semx element="autonum" source="_562dfdc6-9f43-15e0-268c-6970e9137670">11</semx></sup></span></fmt-fn-label></fn><fn id="_4f58a01a-2b66-3346-ebf8-05843d3d046e" reference="12" original-reference="2517876b-2588-478e-80b7-0ebaaaa69f6a" target="_e3b0aba7-a3ca-5d25-c325-8dfac006c09e"><p>IEEE publications are available from The Institute of Electrical and Electronics Engineers (http://standards.ieee.org/).</p><fmt-fn-label><span class="fmt-caption-label"><sup><semx element="autonum" source="_4f58a01a-2b66-3346-ebf8-05843d3d046e">12</semx></sup></span></fmt-fn-label></fn></formattedref>
+  <fetched>2026-06-16</fetched>
   
-<title type="main" format="text/plain">IEEE/ASTM Standard for Use of the International System of Units (SI): The Modern Metric System</title>
+<title type="main">IEEE/ASTM Standard for Use of the International System of Units (SI): The Modern Metric System</title>
 
   <uri type="src">https://ieeexplore.ieee.org/document/609510</uri>
   <docidentifier type="IEEE" primary="true">IEEE/ASTM SI 10.1997</docidentifier>
@@ -835,50 +835,82 @@ Committee C2-2012, National Electrical Safety Code<sup>®</sup> (NESC<sup>®</su
     <role type="publisher"/>
     <organization>
       
-<name>Institute of Electrical and Electronics Engineers</name>
+<name language="en" script="Latn">Institute of Electrical and Electronics Engineers</name>
 
       <abbreviation>IEEE</abbreviation>
-      <uri>http://www.ieee.org</uri>
       <address>
         <city>New York</city>
         <country>USA</country>
       </address>
+      <uri type="org">http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="author">
+      <description language="en" script="Latn">committee</description>
+    </role>
+    <organization>
+      
+<name language="en" script="Latn">Institute of Electrical and Electronics Engineers</name>
+
+      <subdivision type="committee">
+        
+<name language="en" script="Latn">IEEE-SASB Coordinating Committees</name>
+
+      </subdivision>
+      <abbreviation>IEEE</abbreviation>
     </organization>
   </contributor>
   <note type="Availability"><p id="_b2eef711-6022-f74e-d726-2b7a99999e4e" semx-id="_b2eef711-6022-f74e-d726-2b7a99999e4e">The IEEE standards or products referred to in this clause are trademarks owned by The Institute of Electrical and Electronics Engineers, Incorporated.</p></note><note type="Availability"><p id="_5c748884-c436-bd85-44f3-f57693686176" semx-id="_5c748884-c436-bd85-44f3-f57693686176">IEEE publications are available from The Institute of Electrical and Electronics Engineers (http://standards.ieee.org/).</p></note><language>en</language>
   <script>Latn</script>
-  <abstract format="text/plain" language="en" script="Latn">Guidance for the use of the modern metric system is given. Known as the International System of Units (abbreviated SI), the system is intended as a basis for worldwide standardization of measurement units. Information is included on SI, a list of units recognized for use with SI, and a list of conversion factors, together with general guidance on proper style and usage.</abstract>
+  <abstract language="en" script="Latn">Guidance for the use of the modern metric system is given. Known as the International System of Units (abbreviated SI), the system is intended as a basis for worldwide standardization of measurement units. Information is included on SI, a list of units recognized for use with SI, and a list of conversion factors, together with general guidance on proper style and usage.</abstract>
   <copyright>
     <from>1997</from>
     <owner>
       <organization>
         
-<name>Institute of Electrical and Electronics Engineers</name>
+<name language="en" script="Latn">Institute of Electrical and Electronics Engineers</name>
 
         <abbreviation>IEEE</abbreviation>
-        <uri>http://www.ieee.org</uri>
+        <uri type="org">http://www.ieee.org</uri>
       </organization>
     </owner>
   </copyright>
   <relation type="obsoletedBy">
     <bibitem>
-      <formattedref format="text/plain">IEEE/ASTM SI 10.2002</formattedref>
+      <formattedref>IEEE/ASTM SI 10.2002</formattedref>
       <docidentifier type="IEEE" primary="true">IEEE/ASTM SI 10.2002</docidentifier>
     </bibitem>
 
   </relation>
-  <keyword>Measurement units</keyword>
-  <keyword>conversion factors</keyword>
-  <keyword>international system</keyword>
-  <keyword>metric practice</keyword>
-  <keyword>metric system</keyword>
-  <keyword>rounding</keyword>
-  <keyword>SI</keyword>
-  <keyword>Système International d’Unités</keyword>
-</bibitem><bibitem id="IEEE_Std_260.1" type="standard" schema-version="v1.2.9" anchor="IEEE_Std_260.1" semx-id="_cd0a9aa2-83a9-b28f-40b8-a99d6d776444"><biblio-tag>IEEE Std 260.1™-2004, </biblio-tag><formattedref>IEEE Standard Letter Symbols for Units of Measurement (SI Customary Inch-Pound Units, and Certain Other Units).</formattedref>
-  <fetched>2026-04-16</fetched>
+  <keyword>
+    <vocab language="en" script="Latn">Measurement units</vocab>
+  </keyword>
+  <keyword>
+    <vocab language="en" script="Latn">conversion factors</vocab>
+  </keyword>
+  <keyword>
+    <vocab language="en" script="Latn">international system</vocab>
+  </keyword>
+  <keyword>
+    <vocab language="en" script="Latn">metric practice</vocab>
+  </keyword>
+  <keyword>
+    <vocab language="en" script="Latn">metric system</vocab>
+  </keyword>
+  <keyword>
+    <vocab language="en" script="Latn">rounding</vocab>
+  </keyword>
+  <keyword>
+    <vocab language="en" script="Latn">SI</vocab>
+  </keyword>
+  <keyword>
+    <vocab language="en" script="Latn">Système International d’Unités</vocab>
+  </keyword>
+</bibitem><bibitem id="IEEE_Std_260.1" type="standard" schema-version="v1.5.6" anchor="IEEE_Std_260.1" semx-id="_0f4929cf-1ba8-7346-555a-355ef98c02a2"><biblio-tag>IEEE Std 260.1™-2004, </biblio-tag><formattedref>IEEE Standard Letter Symbols for Units of Measurement (SI Customary Inch-Pound Units, and Certain Other Units).</formattedref>
+  <fetched>2026-06-16</fetched>
   
-<title type="main" format="text/plain">IEEE Standard Letter Symbols for Units of Measurement (SI Customary Inch-Pound Units, and Certain Other Units)</title>
+<title type="main">IEEE Standard Letter Symbols for Units of Measurement (SI Customary Inch-Pound Units, and Certain Other Units)</title>
 
   <uri type="src">https://ieeexplore.ieee.org/document/1337729</uri>
   <docidentifier type="IEEE" primary="true">IEEE Std 260.1-2004</docidentifier>
@@ -899,46 +931,84 @@ Committee C2-2012, National Electrical Safety Code<sup>®</sup> (NESC<sup>®</su
     <role type="publisher"/>
     <organization>
       
-<name>Institute of Electrical and Electronics Engineers</name>
+<name language="en" script="Latn">Institute of Electrical and Electronics Engineers</name>
 
       <abbreviation>IEEE</abbreviation>
-      <uri>http://www.ieee.org</uri>
       <address>
         <city>New York</city>
         <country>USA</country>
       </address>
+      <uri type="org">http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="author">
+      <description language="en" script="Latn">committee</description>
+    </role>
+    <organization>
+      
+<name language="en" script="Latn">Institute of Electrical and Electronics Engineers</name>
+
+      <subdivision type="committee">
+        
+<name language="en" script="Latn">IEEE-SASB Coordinating Committees</name>
+
+      </subdivision>
+      <abbreviation>IEEE</abbreviation>
     </organization>
   </contributor>
   <language>en</language>
   <script>Latn</script>
-  <abstract format="text/plain" language="en" script="Latn">Revision of IEEE Std 260.1-1993, Letter symbols for units of measurement are covered in this standard.</abstract>
+  <abstract language="en" script="Latn">Revision of IEEE Std 260.1-1993, Letter symbols for units of measurement are covered in this standard.</abstract>
   <copyright>
     <from>2004</from>
     <owner>
       <organization>
         
-<name>Institute of Electrical and Electronics Engineers</name>
+<name language="en" script="Latn">Institute of Electrical and Electronics Engineers</name>
 
         <abbreviation>IEEE</abbreviation>
-        <uri>http://www.ieee.org</uri>
+        <uri type="org">http://www.ieee.org</uri>
       </organization>
     </owner>
   </copyright>
-  <keyword>IEEE Standards</keyword>
-  <keyword>Patents</keyword>
-  <keyword>Measurement units</keyword>
-  <keyword>Licenses</keyword>
-  <keyword>Trademarks</keyword>
-  <keyword>letter symbols</keyword>
-  <keyword>limited typography</keyword>
-  <keyword>metric</keyword>
-  <keyword>quantities</keyword>
-  <keyword>SI</keyword>
-  <keyword>units of measurement</keyword>
-</bibitem><bibitem id="IEEE_Std_91" type="standard" schema-version="v1.2.9" anchor="IEEE_Std_91" semx-id="_579546a6-4d21-57a7-ce1d-1300ba83234d"><biblio-tag>IEEE Std 91™-1973, </biblio-tag><formattedref>IEEE Graphic Symbols for Logic Diagrams (Two State Devices).</formattedref>
-  <fetched>2026-04-16</fetched>
+  <keyword>
+    <vocab language="en" script="Latn">IEEE Standards</vocab>
+  </keyword>
+  <keyword>
+    <vocab language="en" script="Latn">Patents</vocab>
+  </keyword>
+  <keyword>
+    <vocab language="en" script="Latn">Measurement units</vocab>
+  </keyword>
+  <keyword>
+    <vocab language="en" script="Latn">Licenses</vocab>
+  </keyword>
+  <keyword>
+    <vocab language="en" script="Latn">Trademarks</vocab>
+  </keyword>
+  <keyword>
+    <vocab language="en" script="Latn">letter symbols</vocab>
+  </keyword>
+  <keyword>
+    <vocab language="en" script="Latn">limited typography</vocab>
+  </keyword>
+  <keyword>
+    <vocab language="en" script="Latn">metric</vocab>
+  </keyword>
+  <keyword>
+    <vocab language="en" script="Latn">quantities</vocab>
+  </keyword>
+  <keyword>
+    <vocab language="en" script="Latn">SI</vocab>
+  </keyword>
+  <keyword>
+    <vocab language="en" script="Latn">units of measurement</vocab>
+  </keyword>
+</bibitem><bibitem id="IEEE_Std_91" type="standard" schema-version="v1.5.6" anchor="IEEE_Std_91" semx-id="_3537c09d-d206-6335-8606-65dcae59d5e6"><biblio-tag>IEEE Std 91™-1973, </biblio-tag><formattedref>IEEE Graphic Symbols for Logic Diagrams (Two State Devices).</formattedref>
+  <fetched>2026-06-16</fetched>
   
-<title type="main" format="text/plain">IEEE Graphic Symbols for Logic Diagrams (Two State Devices)</title>
+<title type="main">IEEE Graphic Symbols for Logic Diagrams (Two State Devices)</title>
 
   <uri type="src">https://ieeexplore.ieee.org/document/7440753</uri>
   <docidentifier type="IEEE" primary="true">IEEE Std 91-1973</docidentifier>
@@ -962,10 +1032,10 @@ Committee C2-2012, National Electrical Safety Code<sup>®</sup> (NESC<sup>®</su
     <role type="publisher"/>
     <organization>
       
-<name>Institute of Electrical and Electronics Engineers</name>
+<name language="en" script="Latn">Institute of Electrical and Electronics Engineers</name>
 
       <abbreviation>IEEE</abbreviation>
-      <uri>http://www.ieee.org</uri>
+      <uri type="org">http://www.ieee.org</uri>
     </organization>
   </contributor>
   <language>en</language>
@@ -975,40 +1045,63 @@ Committee C2-2012, National Electrical Safety Code<sup>®</sup> (NESC<sup>®</su
     <owner>
       <organization>
         
-<name>Institute of Electrical and Electronics Engineers</name>
+<name language="en" script="Latn">Institute of Electrical and Electronics Engineers</name>
 
         <abbreviation>IEEE</abbreviation>
-        <uri>http://www.ieee.org</uri>
+        <uri type="org">http://www.ieee.org</uri>
       </organization>
     </owner>
   </copyright>
-  <keyword>IEEE standards</keyword>
-  <keyword>Symbols</keyword>
-  <keyword>Graphics</keyword>
-  <keyword>Logic diagrams</keyword>
-  <keyword>Terminology</keyword>
-</bibitem><bibitem id="ISO-IEC_27002" type="standard" schema-version="v1.2.9" anchor="ISO-IEC_27002" semx-id="_1d0d4b5b-5662-e991-a084-94bcab7128be"><biblio-tag>ISO/IEC 27002:2013, </biblio-tag><formattedref>Information technology — Security techniques — Code of practice for information security controls.<fn id="_f91c5dd0-3b74-30fb-7128-37ca8a479cc7" reference="13" original-reference="e53b0245-7a67-4581-974a-16d91cffcd81" target="_5efcbab2-6124-3620-4720-92ec6f025275"><p>ISO/IEC documents are available from the International Organization for Standardization (https://www.iso.org/). ISO/IEC publications are also available in the United States from Global Engineering Documents (https://global.ihs.com/). Electronic copies are available in the United States from the American National Standards Institute (https://www.ansi.org/)</p><fmt-fn-label><span class="fmt-caption-label"><sup><semx element="autonum" source="_f91c5dd0-3b74-30fb-7128-37ca8a479cc7">13</semx></sup></span></fmt-fn-label></fn></formattedref>
-  <fetched>2026-04-16</fetched>
+  <keyword>
+    <vocab language="en" script="Latn">IEEE standards</vocab>
+  </keyword>
+  <keyword>
+    <vocab language="en" script="Latn">Symbols</vocab>
+  </keyword>
+  <keyword>
+    <vocab language="en" script="Latn">Graphics</vocab>
+  </keyword>
+  <keyword>
+    <vocab language="en" script="Latn">Logic diagrams</vocab>
+  </keyword>
+  <keyword>
+    <vocab language="en" script="Latn">Terminology</vocab>
+  </keyword>
+</bibitem><bibitem id="ISO-IEC_27002" type="standard" schema-version="v1.5.6" anchor="ISO-IEC_27002" semx-id="_fe811c4c-5d8e-4bf7-d27d-e8589e238a68"><biblio-tag>ISO/IEC 27002:2013, </biblio-tag><formattedref>Information technology — Security techniques — Code of practice for information security controls.<fn id="_f91c5dd0-3b74-30fb-7128-37ca8a479cc7" reference="13" original-reference="28dbbb27-753d-498b-900e-86bb60245b94" target="_5efcbab2-6124-3620-4720-92ec6f025275"><p>ISO/IEC documents are available from the International Organization for Standardization (https://www.iso.org/). ISO/IEC publications are also available in the United States from Global Engineering Documents (https://global.ihs.com/). Electronic copies are available in the United States from the American National Standards Institute (https://www.ansi.org/)</p><fmt-fn-label><span class="fmt-caption-label"><sup><semx element="autonum" source="_f91c5dd0-3b74-30fb-7128-37ca8a479cc7">13</semx></sup></span></fmt-fn-label></fn></formattedref>
+  <fetched>2026-06-16</fetched>
   
-<title type="title-intro" format="text/plain" language="en" script="Latn">Information technology</title>
+<title language="en" script="Latn" type="title-intro">Information technology</title>
 
   
-<title type="title-main" format="text/plain" language="en" script="Latn">Security techniques</title>
+<title language="en" script="Latn" type="title-main">Security techniques</title>
 
   
-<title type="title-part" format="text/plain" language="en" script="Latn">Code of practice for information security controls</title>
+<title language="en" script="Latn" type="title-part">Code of practice for information security controls</title>
 
   
-<title type="main" format="text/plain" language="en" script="Latn">Information technology — Security techniques — Code of practice for information security controls</title>
+<title language="en" script="Latn" type="main">Information technology — Security techniques — Code of practice for information security controls</title>
+
+  
+<title language="fr" script="Latn" type="title-intro">Technologies de l’information</title>
+
+  
+<title language="fr" script="Latn" type="title-main">Techniques de sécurité</title>
+
+  
+<title language="fr" script="Latn" type="title-part">Code de bonne pratique pour le management de la sécurité de l’information</title>
+
+  
+<title language="fr" script="Latn" type="main">Technologies de l’information — Techniques de sécurité — Code de bonne pratique pour le management de la sécurité de l’information</title>
 
   <uri type="src">https://www.iso.org/standard/54533.html</uri>
+  <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:54533:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/05/45/54533.detail.rss</uri>
   <docidentifier type="ISO" primary="true">ISO/IEC 27002:2013</docidentifier>
   <docidentifier type="iso-reference">iso-reference ISO/IEC 27002:2013(E)</docidentifier>
   <docidentifier type="URN">URN urn:iso:std:iso-iec:27002:stage-95.99</docidentifier><docidentifier scope="biblio-tag">ISO/IEC 27002:2013</docidentifier>
   <docnumber>27002</docnumber>
   <date type="published">
-    <on>2013-10</on>
+    <on>2013-09-25</on>
   </date>
   <contributor>
     <role type="publisher"/>
@@ -1030,12 +1123,28 @@ Committee C2-2012, National Electrical Safety Code<sup>®</sup> (NESC<sup>®</su
       <uri>www.iec.ch</uri>
     </organization>
   </contributor>
+  <contributor>
+    <role type="author">
+      <description>committee</description>
+    </role>
+    <organization>
+      
+<name>International Organization for Standardization</name>
+
+      <subdivision type="technical-committee" subtype="IEC">
+        
+<name>Information security, cybersecurity and privacy protection</name>
+
+        <identifier id="_b3769400-ef22-7255-5df1-a65751ae9567">ISO/IEC JTC 1/SC 27</identifier><fmt-identifier><tt><semx element="identifier" source="_b3769400-ef22-7255-5df1-a65751ae9567">ISO/IEC JTC 1/SC 27</semx></tt></fmt-identifier>
+      </subdivision>
+      <abbreviation>ISO</abbreviation>
+    </organization>
+  </contributor>
   <edition>2</edition>
   <note type="Availability"><p id="_d7d845e8-d0d8-6054-2ee3-9e15699a1da1" semx-id="_d7d845e8-d0d8-6054-2ee3-9e15699a1da1">ISO/IEC documents are available from the International Organization for Standardization (https://www.iso.org/). ISO/IEC publications are also available in the United States from Global Engineering Documents (https://global.ihs.com/). Electronic copies are available in the United States from the American National Standards Institute (https://www.ansi.org/)</p></note><language>en</language>
   <language>fr</language>
   <script>Latn</script>
-  <abstract format="text/plain" language="en" script="Latn">ISO/IEC 27002:2013 gives guidelines for organizational information security standards and information security management practices including the selection, implementation and management of controls taking into consideration the organization’s information security risk environment(s).
-It is designed to be used by organizations that intend to:</abstract>
+  <abstract language="en" script="Latn">ISO/IEC 27002:2013 gives guidelines for organizational information security standards and information security management practices including the selection, implementation and management of controls taking into consideration the organization’s information security risk environment(s). It is designed to be used by organizations that intend to: select controls within the process of implementing an Information Security Management System based on ISO/IEC 27001; implement commonly accepted information security controls; develop their own information security management guidelines.</abstract>
   <status>
     <stage>95</stage>
     <substage>99</substage>
@@ -1051,38 +1160,31 @@ It is designed to be used by organizations that intend to:</abstract>
     </owner>
   </copyright>
   <relation type="obsoletes">
-    <bibitem type="standard">
-      <formattedref format="text/plain">ISO/IEC 27002:2005</formattedref>
+    <bibitem>
+      <formattedref>ISO/IEC 27002:2005</formattedref>
       <docidentifier type="ISO" primary="true">ISO/IEC 27002:2005</docidentifier>
-    </bibitem>
-
-  </relation>
-  <relation type="updates">
-    <bibitem type="standard">
-      <formattedref format="text/plain">ISO/IEC 27002:2022</formattedref>
-      <docidentifier type="ISO" primary="true">ISO/IEC 27002:2022</docidentifier>
-      <date type="circulated">
-        <on>2022-02-15</on>
+      <date type="published">
+        <on>2005-06-15</on>
       </date>
     </bibitem>
 
   </relation>
-  <relation type="updates">
-    <bibitem type="standard">
-      <formattedref format="text/plain">ISO/IEC 27002:2013/Cor 1:2014</formattedref>
+  <relation type="updatedBy">
+    <bibitem>
+      <formattedref>ISO/IEC 27002:2013/Cor 1:2014</formattedref>
       <docidentifier type="ISO" primary="true">ISO/IEC 27002:2013/Cor 1:2014</docidentifier>
-      <date type="circulated">
-        <on>2022-02-15</on>
+      <date type="published">
+        <on>2014-09-18</on>
       </date>
     </bibitem>
 
   </relation>
-  <relation type="updates">
-    <bibitem type="standard">
-      <formattedref format="text/plain">ISO/IEC 27002:2013/Cor 2:2015</formattedref>
+  <relation type="updatedBy">
+    <bibitem>
+      <formattedref>ISO/IEC 27002:2013/Cor 2:2015</formattedref>
       <docidentifier type="ISO" primary="true">ISO/IEC 27002:2013/Cor 2:2015</docidentifier>
-      <date type="circulated">
-        <on>2022-02-15</on>
+      <date type="published">
+        <on>2015-11-06</on>
       </date>
     </bibitem>
 
@@ -1107,37 +1209,50 @@ Code<sup>®</sup> (NEC<sup>®</sup>).<fn id="_ed447bcd-a101-0cef-759b-1d17442758
 
 
 
-</references></sections><annex id="_8c9f0ce7-10dd-51c3-4198-8d24d870856f" inline-header="false" obligation="informative" semx-id="_8c9f0ce7-10dd-51c3-4198-8d24d870856f" autonum="A" displayorder="10">
-<title id="_988f4a9c-cc16-1ee6-7ae8-53a40e55b4e4" semx-id="_0f2f03c5-2272-1398-0b44-5390ca7d2d74">Sample bibliography</title><fmt-title id="_c6827334-4f10-a350-8818-d3cf6fb15bad"><strong><span class="fmt-caption-label"><span class="fmt-element-name">Annex</span> <semx element="autonum" source="_8c9f0ce7-10dd-51c3-4198-8d24d870856f">A</semx></span></strong><br/><span class="fmt-obligation">(informative)</span><span class="fmt-caption-delim"><br/></span><semx element="title" source="_988f4a9c-cc16-1ee6-7ae8-53a40e55b4e4"><strong>Sample bibliography</strong></semx></fmt-title><fmt-xref-label><span class="fmt-element-name">Annex</span> <semx element="autonum" source="_8c9f0ce7-10dd-51c3-4198-8d24d870856f">A</semx></fmt-xref-label><variant-title type="toc"><span class="fmt-caption-label"><span class="fmt-element-name">Annex</span> <semx element="autonum" source="_8c9f0ce7-10dd-51c3-4198-8d24d870856f">A</semx></span><span class="fmt-caption-delim"><tab/></span><semx element="title" source="_988f4a9c-cc16-1ee6-7ae8-53a40e55b4e4">Sample bibliography</semx></variant-title>
-<references id="_1cfd89b7-4b13-0a29-c3c3-49c3c31ce1bd" normative="false" obligation="informative" semx-id="_1cfd89b7-4b13-0a29-c3c3-49c3c31ce1bd">
+</references></sections><annex id="_9565c7bc-06be-4920-b27d-e2798a3a02e5" inline-header="false" obligation="informative" semx-id="_9565c7bc-06be-4920-b27d-e2798a3a02e5" autonum="A" displayorder="10">
+<title id="_988f4a9c-cc16-1ee6-7ae8-53a40e55b4e4" semx-id="_0f2f03c5-2272-1398-0b44-5390ca7d2d74">Sample bibliography</title><fmt-title id="_c6827334-4f10-a350-8818-d3cf6fb15bad"><strong><span class="fmt-caption-label"><span class="fmt-element-name">Annex</span> <semx element="autonum" source="_9565c7bc-06be-4920-b27d-e2798a3a02e5">A</semx></span></strong><br/><span class="fmt-obligation">(informative)</span><span class="fmt-caption-delim"><br/></span><semx element="title" source="_988f4a9c-cc16-1ee6-7ae8-53a40e55b4e4"><strong>Sample bibliography</strong></semx></fmt-title><fmt-xref-label><span class="fmt-element-name">Annex</span> <semx element="autonum" source="_9565c7bc-06be-4920-b27d-e2798a3a02e5">A</semx></fmt-xref-label><variant-title type="toc"><span class="fmt-caption-label"><span class="fmt-element-name">Annex</span> <semx element="autonum" source="_9565c7bc-06be-4920-b27d-e2798a3a02e5">A</semx></span><span class="fmt-caption-delim"><tab/></span><semx element="title" source="_988f4a9c-cc16-1ee6-7ae8-53a40e55b4e4">Sample bibliography</semx></variant-title>
+<references id="_db8d50ab-beff-6e9e-07e9-c4d6855f7c09" normative="false" obligation="informative" semx-id="_db8d50ab-beff-6e9e-07e9-c4d6855f7c09">
 <p id="_989199ab-b42e-fe86-12f0-332de855112f" semx-id="_989199ab-b42e-fe86-12f0-332de855112f">Bibliographical references are resources that provide additional or helpful material but do not need to be understood or used to implement this standard. Reference to these resources is made for informational use only.</p><bibitem anchor="B2" id="B2" semx-id="_4881277d-fff6-1b25-0df2-73534088caf5"><biblio-tag>[B1]<tab/></biblio-tag>
   <formattedref format="application/x-isodoc+xml">IEEE Std XXX<sup>™</sup>-YEAR, IEEE Standard for Something
 Industry Needs.</formattedref><docidentifier type="metanorma-ordinal">[B1]</docidentifier>
   
   <language>en</language>
   <script>Latn</script>
-</bibitem><bibitem id="iso-iec_9945-1" type="standard" schema-version="v1.2.9" anchor="iso-iec_9945-1" semx-id="_40a10604-4ff8-7ce8-bf58-9acaa5937dc3"><biblio-tag>[B2]<tab/>ISO/IEC 9945-1:2003, </biblio-tag><formattedref>Information technology — Portable Operating System Interface (POSIX) — Part 1: Base Definitions.</formattedref>
-  <fetched>2026-04-16</fetched>
+</bibitem><bibitem id="iso-iec_9945-1" type="standard" schema-version="v1.5.6" anchor="iso-iec_9945-1" semx-id="_919b9214-1aa5-e7af-a39e-1fe1cae7b895"><biblio-tag>[B2]<tab/>ISO/IEC 9945-1:2003, </biblio-tag><formattedref>Information technology — Portable Operating System Interface (POSIX) — Part 1: Base Definitions.</formattedref>
+  <fetched>2026-06-16</fetched>
   
-<title type="title-intro" format="text/plain" language="en" script="Latn">Information technology</title>
+<title language="en" script="Latn" type="title-intro">Information technology</title>
 
   
-<title type="title-main" format="text/plain" language="en" script="Latn">Portable Operating System Interface (POSIX)</title>
+<title language="en" script="Latn" type="title-main">Portable Operating System Interface (POSIX)</title>
 
   
-<title type="title-part" format="text/plain" language="en" script="Latn">Part 1: Base Definitions</title>
+<title language="en" script="Latn" type="title-part">Part 1: Base Definitions</title>
 
   
-<title type="main" format="text/plain" language="en" script="Latn">Information technology — Portable Operating System Interface (POSIX) — Part 1: Base Definitions</title>
+<title language="en" script="Latn" type="main">Information technology — Portable Operating System Interface (POSIX) — Part 1: Base Definitions</title>
+
+  
+<title language="fr" script="Latn" type="title-intro">Technologies de l’information</title>
+
+  
+<title language="fr" script="Latn" type="title-main">Interface pour la portabilité des systèmes (POSIX)</title>
+
+  
+<title language="fr" script="Latn" type="title-part">Partie 1: Définitions de base</title>
+
+  
+<title language="fr" script="Latn" type="main">Technologies de l’information — Interface pour la portabilité des systèmes (POSIX) — Partie 1: Définitions de base</title>
 
   <uri type="src">https://www.iso.org/standard/38789.html</uri>
+  <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:38789:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/03/87/38789.detail.rss</uri>
   <docidentifier type="metanorma-ordinal">[B2]</docidentifier><docidentifier type="ISO" primary="true">ISO/IEC 9945-1:2003</docidentifier>
   <docidentifier type="iso-reference">iso-reference ISO/IEC 9945-1:2003(E)</docidentifier>
   <docidentifier type="URN">URN urn:iso:std:iso-iec:9945:-1:stage-95.99</docidentifier><docidentifier scope="biblio-tag">ISO/IEC 9945-1:2003</docidentifier>
   <docnumber>9945</docnumber>
   <date type="published">
-    <on>2003-08</on>
+    <on>2003-08-18</on>
   </date>
   <contributor>
     <role type="publisher"/>
@@ -1159,24 +1274,27 @@ Industry Needs.</formattedref><docidentifier type="metanorma-ordinal">[B1]</doci
       <uri>www.iec.ch</uri>
     </organization>
   </contributor>
+  <contributor>
+    <role type="author">
+      <description>committee</description>
+    </role>
+    <organization>
+      
+<name>International Organization for Standardization</name>
+
+      <subdivision type="technical-committee" subtype="IEC">
+        
+<name>Programming languages, their environments and system software interfaces</name>
+
+        <identifier id="_19d3402f-12e9-25cf-bd7d-e956f9e75660">ISO/IEC JTC 1/SC 22</identifier><fmt-identifier><tt><semx element="identifier" source="_19d3402f-12e9-25cf-bd7d-e956f9e75660">ISO/IEC JTC 1/SC 22</semx></tt></fmt-identifier>
+      </subdivision>
+      <abbreviation>ISO</abbreviation>
+    </organization>
+  </contributor>
   <edition>4</edition>
   <language>en</language>
-  <language>fr</language>
   <script>Latn</script>
-  <abstract format="text/plain" language="en" script="Latn">ISO/IEC 9945 (parts 1 to 4):2003 defines a standard operating system interface and environment, including a command interpreter (or “shell”), and common utility programs to support applications portability at the source code level.
-ISO/IEC 9945-1:2003 is a minor revision and, together with ISO/IEC 9945-2:2003, ISO/IEC 9945-3:2003 and ISO/IEC 9945-4:2003, cancels and replaces ISO/IEC 9945-1:2002, ISO/IEC 9945-2:2002, ISO/IEC 9945-3:2002 and ISO/IEC 9945-4:2002.
-ISO/IEC 9945 (parts 1 to 4):2003 is the single common revision to ISO/IEC 9945-1:1996 (IEEE Std 1003.1-1996), ISO/IEC 9945-2:1993 (IEEE Std 1003.2-1992), and the Base Specifications of The Open Group Single UNIX® Specification, Version 2. ISO/IEC 9945 (parts 1 to 4):2003 is intended to be used by both applications developers and system implementors and comprises four major components (each in an associated volume).
-General terms, concepts, and interfaces common to all volumes of ISO/IEC 9945 (parts 1 to 4):2003, including utility conventions and C-language header definitions, are included in the Base Definitions volume (ISO/IEC 9945-1:2003).
-Definitions for system service functions and subroutines, language-specific system services for the C programming language, function issues, including portability, error handling, and error recovery, are included in the System Interfaces volume (ISO/IEC 9945-2:2003).
-Definitions for a standard source code-level interface to command interpretation services (a “shell”) and common utility programs for application programs are included in the Shell and Utilities volume (ISO/IEC 9945-3:2003).
-Extended rationale that did not fit well into the rest of the document structure, containing historical information concerning the contents of ISO/IEC 9945 (parts 1 to 4):2003 and why features were included or discarded by the standard developers, is included in the Rationale (Informative) volume (ISO/IEC 9945-4:2003).
-The following areas are outside the scope of ISO/IEC 9945 (parts 1 to 4):2003:
-- Graphics interfaces
-- Database management system interfaces
-- Record I/O considerations
-- Object or binary code portability
-- System configuration and resource availability
-ISO/IEC 9945 (parts 1 to 4):2003 describes the external characteristics and facilities that are of importance to applications developers, rather than the internal construction techniques employed to achieve these capabilities. Special emphasis is placed on those functions and facilities that are needed in a wide variety of commercial applications.</abstract>
+  <abstract language="en" script="Latn">ISO/IEC 9945 (parts 1 to 4):2003 defines a standard operating system interface and environment, including a command interpreter (or “shell”), and common utility programs to support applications portability at the source code level. ISO/IEC 9945-1:2003 is a minor revision and, together with ISO/IEC 9945-2:2003, ISO/IEC 9945-3:2003 and ISO/IEC 9945-4:2003, cancels and replaces ISO/IEC 9945-1:2002, ISO/IEC 9945-2:2002, ISO/IEC 9945-3:2002 and ISO/IEC 9945-4:2002. ISO/IEC 9945 (parts 1 to 4):2003 is the single common revision to ISO/IEC 9945-1:1996 (IEEE Std 1003.1-1996), ISO/IEC 9945-2:1993 (IEEE Std 1003.2-1992), and the Base Specifications of The Open Group Single UNIX® Specification, Version 2. ISO/IEC 9945 (parts 1 to 4):2003 is intended to be used by both applications developers and system implementors and comprises four major components (each in an associated volume). General terms, concepts, and interfaces common to all volumes of ISO/IEC 9945 (parts 1 to 4):2003, including utility conventions and C-language header definitions, are included in the Base Definitions volume (ISO/IEC 9945-1:2003). Definitions for system service functions and subroutines, language-specific system services for the C programming language, function issues, including portability, error handling, and error recovery, are included in the System Interfaces volume (ISO/IEC 9945-2:2003). Definitions for a standard source code-level interface to command interpretation services (a “shell”) and common utility programs for application programs are included in the Shell and Utilities volume (ISO/IEC 9945-3:2003). Extended rationale that did not fit well into the rest of the document structure, containing historical information concerning the contents of ISO/IEC 9945 (parts 1 to 4):2003 and why features were included or discarded by the standard developers, is included in the Rationale (Informative) volume (ISO/IEC 9945-4:2003). The following areas are outside the scope of ISO/IEC 9945 (parts 1 to 4):2003: Graphics interfacesDatabase management system interfacesRecord I/O considerationsObject or binary code portabilitySystem configuration and resource availability ISO/IEC 9945 (parts 1 to 4):2003 describes the external characteristics and facilities that are of importance to applications developers, rather than the internal construction techniques employed to achieve these capabilities. Special emphasis is placed on those functions and facilities that are needed in a wide variety of commercial applications.</abstract>
   <status>
     <stage>95</stage>
     <substage>99</substage>
@@ -1192,28 +1310,31 @@ ISO/IEC 9945 (parts 1 to 4):2003 describes the external characteristics and faci
     </owner>
   </copyright>
   <relation type="obsoletes">
-    <bibitem type="standard">
-      <formattedref format="text/plain">ISO/IEC 9945-1:2002</formattedref>
+    <bibitem>
+      <formattedref>ISO/IEC 9945-1:2002</formattedref>
       <docidentifier type="ISO" primary="true">ISO/IEC 9945-1:2002</docidentifier>
+      <date type="published">
+        <on>2002-12-13</on>
+      </date>
     </bibitem>
 
   </relation>
-  <relation type="updates">
-    <bibitem type="standard">
-      <formattedref format="text/plain">ISO/IEC/IEEE 9945:2009</formattedref>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref>ISO/IEC/IEEE 9945:2009</formattedref>
       <docidentifier type="ISO" primary="true">ISO/IEC/IEEE 9945:2009</docidentifier>
-      <date type="circulated">
+      <date type="published">
         <on>2009-09-15</on>
       </date>
     </bibitem>
 
   </relation>
-  <relation type="updates">
-    <bibitem type="standard">
-      <formattedref format="text/plain">ISO/IEC 9945-1:2003/Cor 1:2004</formattedref>
+  <relation type="updatedBy">
+    <bibitem>
+      <formattedref>ISO/IEC 9945-1:2003/Cor 1:2004</formattedref>
       <docidentifier type="ISO" primary="true">ISO/IEC 9945-1:2003/Cor 1:2004</docidentifier>
-      <date type="circulated">
-        <on>2009-09-15</on>
+      <date type="published">
+        <on>2004-09-21</on>
       </date>
     </bibitem>
 

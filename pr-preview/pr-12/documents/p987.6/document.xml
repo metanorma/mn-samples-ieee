@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metanorma xmlns="https://www.metanorma.org/ns/standoc" type="semantic" version="1.6.7" schema-version="v2.1.5" flavor="ieee">
+<metanorma xmlns="https://www.metanorma.org/ns/standoc" type="semantic" version="1.6.11" schema-version="v2.1.6" flavor="ieee">
 <bibdata type="standard">
 <title type="title-abbrev" language="en">Draft Std. for Recommended Practice for Preparing an IEEE Standards Draft</title>
 <title type="main" language="en">Draft Standard for Recommended Practice for Preparing an IEEE Standards Draft</title>
 <title language="en" type="title-main">Recommended Practice for Preparing an IEEE Standards Draft</title>
-<docidentifier type="IEEE" primary="true">IEEE Draft Std 987.6-2020/D3</docidentifier><docidentifier type="IEEE-draft">P987.6/D3</docidentifier><docidentifier type="IEEE" scope="PDF">STDXXXXX</docidentifier><docidentifier type="IEEE" scope="print">STDPDXXXXX</docidentifier><docidentifier type="ISBN" scope="PDF">978-0-XXXX-XXXX-X</docidentifier><docidentifier type="ISBN" scope="print">978-0-XXXX-XXXX-X</docidentifier><docnumber>987.6</docnumber><contributor><role type="author"/><organization>
+<docidentifier type="IEEE" primary="true">IEEE Draft Std 987.6-2020/D3</docidentifier><docidentifier type="IEEE-draft">P987.6/D3</docidentifier><docidentifier type="IEEE" scope="PDF">STDXXXXX</docidentifier><docidentifier type="IEEE" scope="print">STDPDXXXXX</docidentifier><docidentifier type="ISBN" scope="PDF">978-0-XXXX-XXXX-X</docidentifier><docidentifier type="ISBN" scope="print">978-0-XXXX-XXXX-X</docidentifier><docnumber>987.6</docnumber><date type="updated"><on>2021-01-01</on></date><contributor><role type="author"/><organization>
 <name>Institute of Electrical and Electronic Engineers</name>
 <abbreviation>IEEE</abbreviation></organization></contributor><contributor><role type="authorizer"><description>committee</description></role><organization>
 <name>Institute of Electrical and Electronic Engineers</name>
@@ -18,7 +18,7 @@
 <name>Standards Staff Engineering Committee</name>
 </subdivision><abbreviation>IEEE</abbreviation></organization></contributor><contributor><role type="publisher"/><organization>
 <name>Institute of Electrical and Electronic Engineers</name>
-<abbreviation>IEEE</abbreviation></organization></contributor><version><revision-date>2021-01-01</revision-date><draft>3</draft></version><language>en</language><script>Latn</script><abstract><p>Key discussion points covered in the draft are stated here in a few complete sentences, using passive rather than active voice. The more specific the better since the abstract often populates search engines and catalog databases.</p>
+<abbreviation>IEEE</abbreviation></organization></contributor><version>3</version><language>en</language><script>Latn</script><abstract><p>Key discussion points covered in the draft are stated here in a few complete sentences, using passive rather than active voice. The more specific the better since the abstract often populates search engines and catalog databases.</p>
 </abstract><status><stage>draft</stage></status><copyright><from>2020</from><owner><organization>
 <name>Institute of Electrical and Electronic Engineers</name>
 <abbreviation>IEEE</abbreviation></organization></owner></copyright><keyword>designation</keyword><keyword>document development</keyword><keyword>draft</keyword><keyword>equation</keyword><keyword>figure</keyword><keyword>guide</keyword><keyword>IEEE 987.6™</keyword><keyword>introduction</keyword><keyword>list</keyword><keyword>purpose</keyword><keyword>recommended practice</keyword><keyword>scope</keyword><keyword>standard</keyword><ext><doctype>standard</doctype><subdoctype>document</subdoctype><flavor>ieee</flavor><structuredidentifier><docnumber>987.6</docnumber><agency>IEEE</agency><class>standard</class><version>3</version><year>2020</year></structuredidentifier></ext></bibdata><metanorma-extension><semantic-metadata><stage-published>false</stage-published></semantic-metadata>
@@ -318,8 +318,8 @@ Users are encouraged to periodically check for errata.</p>
 </clause>
 <clause id="_f491b671-a84e-7b7f-1618-1cdde542c288" anchor="boilerplate_word_usage" inline-header="false" obligation="normative">
 <title id="_c13aac16-ba68-8a66-0f80-f270dc759bf3">Word usage</title>
-<p id="_5c8d23d3-3371-d07c-c99b-341c7801d64c">The word <em>shall</em> indicates mandatory requirements strictly to be followed in order to conform to the standard and from which no deviation is permitted (<em>shall</em> equals <em>is required to</em>).<fn id="_fe6e620b-1c20-e6e2-9b77-e3555678ea4f" reference="_9b0ddbff-767f-452c-85c3-260f14474fa6_6"><p id="_ec178d43-b2d8-ee5e-07fa-c3bdeef2d1b6">The use of the word <em>must</em> is deprecated and cannot be used when stating mandatory requirements; <em>must</em> is used only to describe unavoidable situations.</p>
-</fn><fn id="_cdbcdcc3-51cf-8f99-4a17-0db215603ea6" reference="_83f87643-bfcc-4af8-97f5-86623102d364_7"><p id="_8d2c524b-d608-8a71-d9b8-ec9d88939a1c">The use of <em>will</em> is deprecated and cannot be used when stating mandatory requirements; <em>will</em> is only used in statements of fact.</p>
+<p id="_5c8d23d3-3371-d07c-c99b-341c7801d64c">The word <em>shall</em> indicates mandatory requirements strictly to be followed in order to conform to the standard and from which no deviation is permitted (<em>shall</em> equals <em>is required to</em>).<fn id="_fe6e620b-1c20-e6e2-9b77-e3555678ea4f" reference="_d847cbde-8834-4a52-bc42-4e159a9d7a70_6"><p id="_ec178d43-b2d8-ee5e-07fa-c3bdeef2d1b6">The use of the word <em>must</em> is deprecated and cannot be used when stating mandatory requirements; <em>must</em> is used only to describe unavoidable situations.</p>
+</fn><fn id="_cdbcdcc3-51cf-8f99-4a17-0db215603ea6" reference="_a6075741-ce1e-4658-809a-901e6f364be9_7"><p id="_8d2c524b-d608-8a71-d9b8-ec9d88939a1c">The use of <em>will</em> is deprecated and cannot be used when stating mandatory requirements; <em>will</em> is only used in statements of fact.</p>
 </fn></p>
 
 <p id="_2387f683-52f4-6fdb-3fec-f1b9a1c19757">The word <em>should</em> indicates that among several possibilities one is recommended as particularly suitable, without mentioning or excluding others; or that a certain course of action is preferred but not necessarily required (<em>should</em> equals <em>is recommended that</em>).</p>
@@ -336,7 +336,7 @@ Users are encouraged to periodically check for errata.</p>
 <clause id="_803e52af-daa6-7ad6-e718-e91d4fa9966e" obligation="normative" type="terms">
 <title id="_5a5bf587-4ccf-cf9c-ed5b-3927e3a3c9c9">Definitions, acronyms and abbreviations</title>
 <terms id="_04681df1-5ec4-a5bd-f094-c440a7a6ced6" obligation="normative">
-<title id="_4d4002c4-2b9d-038d-769b-98d517eb92e1">Definitions</title><p id="_d01f1347-9741-ad90-137c-307ecf43b400">For the purposes of this document, the following terms and definitions apply. The <em>IEEE Standards Dictionary Online</em> should be consulted for terms not defined in this clause.<fn id="_258f9b7a-66e9-9c34-ffd3-e3088d5d6719" reference="_78721ce4-bc9c-4e9b-93a2-9fd9cccb118a_1"><p id="_15e5ffc1-ecff-918b-e985-83cfa71703d5"><em>IEEE Standards Dictionary Online</em> is available at: <link target="http://dictionary.ieee.org"/>. An IEEE Account is required for access to the dictionary, and one can be created at no charge on the dictionary sign-in page.</p>
+<title id="_4d4002c4-2b9d-038d-769b-98d517eb92e1">Definitions</title><p id="_d01f1347-9741-ad90-137c-307ecf43b400">For the purposes of this document, the following terms and definitions apply. The <em>IEEE Standards Dictionary Online</em> should be consulted for terms not defined in this clause.<fn id="_258f9b7a-66e9-9c34-ffd3-e3088d5d6719" reference="_4e52d906-8870-47b8-9df0-85475fb0658e__ed16438c-9e20-4291-8cdb-9da9776967c0_1"><p id="_15e5ffc1-ecff-918b-e985-83cfa71703d5"><em>IEEE Standards Dictionary Online</em> is available at: <link target="http://dictionary.ieee.org"/>. An IEEE Account is required for access to the dictionary, and one can be created at no charge on the dictionary sign-in page.</p>
 </fn></p>
 <term id="_3739e35e-b033-2b36-b727-c7e2c1a5f329" anchor="term-acceleration-insensitive-drift-rate"><preferred><expression>
 <name>acceleration-insensitive drift rate</name>
@@ -688,37 +688,50 @@ clause as long as they are properly cited. See reference to IEEE P802.21
 
 
 
-</sections><annex id="_8c9f0ce7-10dd-51c3-4198-8d24d870856f" inline-header="false" obligation="informative">
+</sections><annex id="_9565c7bc-06be-4920-b27d-e2798a3a02e5" inline-header="false" obligation="informative">
 <title id="_0f2f03c5-2272-1398-0b44-5390ca7d2d74">Sample bibliography</title>
-<references id="_1cfd89b7-4b13-0a29-c3c3-49c3c31ce1bd" normative="false" obligation="informative">
+<references id="_db8d50ab-beff-6e9e-07e9-c4d6855f7c09" normative="false" obligation="informative">
 <title id="_cb090231-80af-d902-0824-03d2abb323fc">Bibliography</title><p id="_989199ab-b42e-fe86-12f0-332de855112f">Bibliographical references are resources that provide additional or helpful material but do not need to be understood or used to implement this standard. Reference to these resources is made for informational use only.</p><bibitem anchor="B2" id="_4881277d-fff6-1b25-0df2-73534088caf5">
   <formattedref format="application/x-isodoc+xml">IEEE Std XXX<sup>™</sup>-YEAR, IEEE Standard for Something
 Industry Needs.</formattedref>
   <docidentifier type="metanorma">[B1]</docidentifier>
   <language>en</language>
   <script>Latn</script>
-</bibitem><bibitem id="_40a10604-4ff8-7ce8-bf58-9acaa5937dc3" type="standard" schema-version="v1.2.9" anchor="iso-iec_9945-1">
-  <fetched>2026-04-16</fetched>
+</bibitem><bibitem id="_919b9214-1aa5-e7af-a39e-1fe1cae7b895" type="standard" schema-version="v1.5.6" anchor="iso-iec_9945-1">
+  <fetched>2026-06-16</fetched>
   
-<title type="title-intro" format="text/plain" language="en" script="Latn">Information technology</title>
+<title language="en" script="Latn" type="title-intro">Information technology</title>
 
   
-<title type="title-main" format="text/plain" language="en" script="Latn">Portable Operating System Interface (POSIX)</title>
+<title language="en" script="Latn" type="title-main">Portable Operating System Interface (POSIX)</title>
 
   
-<title type="title-part" format="text/plain" language="en" script="Latn">Part 1: Base Definitions</title>
+<title language="en" script="Latn" type="title-part">Part 1: Base Definitions</title>
 
   
-<title type="main" format="text/plain" language="en" script="Latn">Information technology — Portable Operating System Interface (POSIX) — Part 1: Base Definitions</title>
+<title language="en" script="Latn" type="main">Information technology — Portable Operating System Interface (POSIX) — Part 1: Base Definitions</title>
+
+  
+<title language="fr" script="Latn" type="title-intro">Technologies de l’information</title>
+
+  
+<title language="fr" script="Latn" type="title-main">Interface pour la portabilité des systèmes (POSIX)</title>
+
+  
+<title language="fr" script="Latn" type="title-part">Partie 1: Définitions de base</title>
+
+  
+<title language="fr" script="Latn" type="main">Technologies de l’information — Interface pour la portabilité des systèmes (POSIX) — Partie 1: Définitions de base</title>
 
   <uri type="src">https://www.iso.org/standard/38789.html</uri>
+  <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:38789:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/03/87/38789.detail.rss</uri>
   <docidentifier type="ISO" primary="true">ISO/IEC 9945-1:2003</docidentifier><docidentifier type="metanorma-ordinal">[B2]</docidentifier>
   <docidentifier type="iso-reference">ISO/IEC 9945-1:2003(E)</docidentifier>
   <docidentifier type="URN">urn:iso:std:iso-iec:9945:-1:stage-95.99</docidentifier>
   <docnumber>9945</docnumber>
   <date type="published">
-    <on>2003-08</on>
+    <on>2003-08-18</on>
   </date>
   <contributor>
     <role type="publisher"/>
@@ -740,24 +753,27 @@ Industry Needs.</formattedref>
       <uri>www.iec.ch</uri>
     </organization>
   </contributor>
+  <contributor>
+    <role type="author">
+      <description>committee</description>
+    </role>
+    <organization>
+      
+<name>International Organization for Standardization</name>
+
+      <subdivision type="technical-committee" subtype="IEC">
+        
+<name>Programming languages, their environments and system software interfaces</name>
+
+        <identifier>ISO/IEC JTC 1/SC 22</identifier>
+      </subdivision>
+      <abbreviation>ISO</abbreviation>
+    </organization>
+  </contributor>
   <edition>4</edition>
   <language>en</language>
-  <language>fr</language>
   <script>Latn</script>
-  <abstract format="text/plain" language="en" script="Latn">ISO/IEC 9945 (parts 1 to 4):2003 defines a standard operating system interface and environment, including a command interpreter (or “shell”), and common utility programs to support applications portability at the source code level.
-ISO/IEC 9945-1:2003 is a minor revision and, together with ISO/IEC 9945-2:2003, ISO/IEC 9945-3:2003 and ISO/IEC 9945-4:2003, cancels and replaces ISO/IEC 9945-1:2002, ISO/IEC 9945-2:2002, ISO/IEC 9945-3:2002 and ISO/IEC 9945-4:2002.
-ISO/IEC 9945 (parts 1 to 4):2003 is the single common revision to ISO/IEC 9945-1:1996 (IEEE Std 1003.1-1996), ISO/IEC 9945-2:1993 (IEEE Std 1003.2-1992), and the Base Specifications of The Open Group Single UNIX® Specification, Version 2. ISO/IEC 9945 (parts 1 to 4):2003 is intended to be used by both applications developers and system implementors and comprises four major components (each in an associated volume).
-General terms, concepts, and interfaces common to all volumes of ISO/IEC 9945 (parts 1 to 4):2003, including utility conventions and C-language header definitions, are included in the Base Definitions volume (ISO/IEC 9945-1:2003).
-Definitions for system service functions and subroutines, language-specific system services for the C programming language, function issues, including portability, error handling, and error recovery, are included in the System Interfaces volume (ISO/IEC 9945-2:2003).
-Definitions for a standard source code-level interface to command interpretation services (a “shell”) and common utility programs for application programs are included in the Shell and Utilities volume (ISO/IEC 9945-3:2003).
-Extended rationale that did not fit well into the rest of the document structure, containing historical information concerning the contents of ISO/IEC 9945 (parts 1 to 4):2003 and why features were included or discarded by the standard developers, is included in the Rationale (Informative) volume (ISO/IEC 9945-4:2003).
-The following areas are outside the scope of ISO/IEC 9945 (parts 1 to 4):2003:
-- Graphics interfaces
-- Database management system interfaces
-- Record I/O considerations
-- Object or binary code portability
-- System configuration and resource availability
-ISO/IEC 9945 (parts 1 to 4):2003 describes the external characteristics and facilities that are of importance to applications developers, rather than the internal construction techniques employed to achieve these capabilities. Special emphasis is placed on those functions and facilities that are needed in a wide variety of commercial applications.</abstract>
+  <abstract language="en" script="Latn">ISO/IEC 9945 (parts 1 to 4):2003 defines a standard operating system interface and environment, including a command interpreter (or “shell”), and common utility programs to support applications portability at the source code level. ISO/IEC 9945-1:2003 is a minor revision and, together with ISO/IEC 9945-2:2003, ISO/IEC 9945-3:2003 and ISO/IEC 9945-4:2003, cancels and replaces ISO/IEC 9945-1:2002, ISO/IEC 9945-2:2002, ISO/IEC 9945-3:2002 and ISO/IEC 9945-4:2002. ISO/IEC 9945 (parts 1 to 4):2003 is the single common revision to ISO/IEC 9945-1:1996 (IEEE Std 1003.1-1996), ISO/IEC 9945-2:1993 (IEEE Std 1003.2-1992), and the Base Specifications of The Open Group Single UNIX® Specification, Version 2. ISO/IEC 9945 (parts 1 to 4):2003 is intended to be used by both applications developers and system implementors and comprises four major components (each in an associated volume). General terms, concepts, and interfaces common to all volumes of ISO/IEC 9945 (parts 1 to 4):2003, including utility conventions and C-language header definitions, are included in the Base Definitions volume (ISO/IEC 9945-1:2003). Definitions for system service functions and subroutines, language-specific system services for the C programming language, function issues, including portability, error handling, and error recovery, are included in the System Interfaces volume (ISO/IEC 9945-2:2003). Definitions for a standard source code-level interface to command interpretation services (a “shell”) and common utility programs for application programs are included in the Shell and Utilities volume (ISO/IEC 9945-3:2003). Extended rationale that did not fit well into the rest of the document structure, containing historical information concerning the contents of ISO/IEC 9945 (parts 1 to 4):2003 and why features were included or discarded by the standard developers, is included in the Rationale (Informative) volume (ISO/IEC 9945-4:2003). The following areas are outside the scope of ISO/IEC 9945 (parts 1 to 4):2003: Graphics interfacesDatabase management system interfacesRecord I/O considerationsObject or binary code portabilitySystem configuration and resource availability ISO/IEC 9945 (parts 1 to 4):2003 describes the external characteristics and facilities that are of importance to applications developers, rather than the internal construction techniques employed to achieve these capabilities. Special emphasis is placed on those functions and facilities that are needed in a wide variety of commercial applications.</abstract>
   <status>
     <stage>95</stage>
     <substage>99</substage>
@@ -773,28 +789,31 @@ ISO/IEC 9945 (parts 1 to 4):2003 describes the external characteristics and faci
     </owner>
   </copyright>
   <relation type="obsoletes">
-    <bibitem type="standard">
-      <formattedref format="text/plain">ISO/IEC 9945-1:2002</formattedref>
+    <bibitem>
+      <formattedref>ISO/IEC 9945-1:2002</formattedref>
       <docidentifier type="ISO" primary="true">ISO/IEC 9945-1:2002</docidentifier>
+      <date type="published">
+        <on>2002-12-13</on>
+      </date>
     </bibitem>
 
   </relation>
-  <relation type="updates">
-    <bibitem type="standard">
-      <formattedref format="text/plain">ISO/IEC/IEEE 9945:2009</formattedref>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref>ISO/IEC/IEEE 9945:2009</formattedref>
       <docidentifier type="ISO" primary="true">ISO/IEC/IEEE 9945:2009</docidentifier>
-      <date type="circulated">
+      <date type="published">
         <on>2009-09-15</on>
       </date>
     </bibitem>
 
   </relation>
-  <relation type="updates">
-    <bibitem type="standard">
-      <formattedref format="text/plain">ISO/IEC 9945-1:2003/Cor 1:2004</formattedref>
+  <relation type="updatedBy">
+    <bibitem>
+      <formattedref>ISO/IEC 9945-1:2003/Cor 1:2004</formattedref>
       <docidentifier type="ISO" primary="true">ISO/IEC 9945-1:2003/Cor 1:2004</docidentifier>
-      <date type="circulated">
-        <on>2009-09-15</on>
+      <date type="published">
+        <on>2004-09-21</on>
       </date>
     </bibitem>
 
@@ -967,7 +986,7 @@ of Reference.</formattedref>
 <name id="_d366be92-e6ce-5fbf-620a-dabbb792c065">Sample figure in an annex</name>
 <image id="_fb3f1cee-ca78-a329-af0f-fb0bc972daf5" src="data:image/png;base64,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" mimetype="image/png" height="auto" width="auto" filename="images/figb-1.png"/></figure>
 </clause>
-</annex><bibliography><references id="_a992ac63-2bda-142a-eb36-05b0330f483c" normative="true" obligation="informative">
+</annex><bibliography><references id="_2e0fe165-9f8b-3f26-0de6-57d484281cd4" normative="true" obligation="informative">
 <title id="_461cd77a-5cfe-f57e-70ab-04e5c4142c2b">Normative references</title><p id="_1b34d6d6-cfcb-4144-6730-eea012433d67">The following referenced documents are indispensable for the application of this document (i.e., they must be understood and used, so each referenced document is cited in text and its relationship to this document is explained). For dated references, only the edition cited applies. For undated references, the latest edition of the referenced document (including any amendments or corrigenda) applies.</p><bibitem anchor="accredited_standards" id="_3184cd7d-8f3b-7d84-ba08-3a3ea1faae3a">
   <formattedref format="application/x-isodoc+xml">Accredited Standards
 Committee C2-2012, National Electrical Safety Code<sup>®</sup> (NESC<sup>®</sup>).<fn id="_35088f8a-08ea-fc68-9204-bf35c13028f9" reference="4"><p id="_a61e6c96-0279-62e1-17fe-1f8f773320d1">National Electrical Safety Code and NESC are both registered trademarks and service marks of The Institute of Electrical and Electronics Engineers, Incorporated.</p>
@@ -984,10 +1003,10 @@ Committee C2-2012, National Electrical Safety Code<sup>®</sup> (NESC<sup>®</su
   <docnumber>802.21/D14</docnumber>
   <language>en</language>
   <script>Latn</script>
-</bibitem><bibitem id="_aff8be0f-3a87-faa7-bf07-929def16ed6c" type="standard" schema-version="v1.2.9" anchor="IEEE_ASTM">
-  <fetched>2026-04-16</fetched>
+</bibitem><bibitem id="_460215f1-8c68-64c6-bc13-fae7f333afaa" type="standard" schema-version="v1.5.6" anchor="IEEE_ASTM">
+  <fetched>2026-06-16</fetched>
   
-<title type="main" format="text/plain">IEEE/ASTM Standard for Use of the International System of Units (SI): The Modern Metric System</title>
+<title type="main">IEEE/ASTM Standard for Use of the International System of Units (SI): The Modern Metric System</title>
 
   <uri type="src">https://ieeexplore.ieee.org/document/609510</uri>
   <docidentifier type="IEEE" primary="true">IEEE/ASTM SI 10.1997</docidentifier>
@@ -1008,50 +1027,82 @@ Committee C2-2012, National Electrical Safety Code<sup>®</sup> (NESC<sup>®</su
     <role type="publisher"/>
     <organization>
       
-<name>Institute of Electrical and Electronics Engineers</name>
+<name language="en" script="Latn">Institute of Electrical and Electronics Engineers</name>
 
       <abbreviation>IEEE</abbreviation>
-      <uri>http://www.ieee.org</uri>
       <address>
         <city>New York</city>
         <country>USA</country>
       </address>
+      <uri type="org">http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="author">
+      <description language="en" script="Latn">committee</description>
+    </role>
+    <organization>
+      
+<name language="en" script="Latn">Institute of Electrical and Electronics Engineers</name>
+
+      <subdivision type="committee">
+        
+<name language="en" script="Latn">IEEE-SASB Coordinating Committees</name>
+
+      </subdivision>
+      <abbreviation>IEEE</abbreviation>
     </organization>
   </contributor>
   <note type="Availability"><p id="_b2eef711-6022-f74e-d726-2b7a99999e4e">The IEEE standards or products referred to in this clause are trademarks owned by The Institute of Electrical and Electronics Engineers, Incorporated.</p></note><note type="Availability"><p id="_5c748884-c436-bd85-44f3-f57693686176">IEEE publications are available from The Institute of Electrical and Electronics Engineers (http://standards.ieee.org/).</p></note><language>en</language>
   <script>Latn</script>
-  <abstract format="text/plain" language="en" script="Latn">Guidance for the use of the modern metric system is given. Known as the International System of Units (abbreviated SI), the system is intended as a basis for worldwide standardization of measurement units. Information is included on SI, a list of units recognized for use with SI, and a list of conversion factors, together with general guidance on proper style and usage.</abstract>
+  <abstract language="en" script="Latn">Guidance for the use of the modern metric system is given. Known as the International System of Units (abbreviated SI), the system is intended as a basis for worldwide standardization of measurement units. Information is included on SI, a list of units recognized for use with SI, and a list of conversion factors, together with general guidance on proper style and usage.</abstract>
   <copyright>
     <from>1997</from>
     <owner>
       <organization>
         
-<name>Institute of Electrical and Electronics Engineers</name>
+<name language="en" script="Latn">Institute of Electrical and Electronics Engineers</name>
 
         <abbreviation>IEEE</abbreviation>
-        <uri>http://www.ieee.org</uri>
+        <uri type="org">http://www.ieee.org</uri>
       </organization>
     </owner>
   </copyright>
   <relation type="obsoletedBy">
     <bibitem>
-      <formattedref format="text/plain">IEEE/ASTM SI 10.2002</formattedref>
+      <formattedref>IEEE/ASTM SI 10.2002</formattedref>
       <docidentifier type="IEEE" primary="true">IEEE/ASTM SI 10.2002</docidentifier>
     </bibitem>
 
   </relation>
-  <keyword>Measurement units</keyword>
-  <keyword>conversion factors</keyword>
-  <keyword>international system</keyword>
-  <keyword>metric practice</keyword>
-  <keyword>metric system</keyword>
-  <keyword>rounding</keyword>
-  <keyword>SI</keyword>
-  <keyword>Système International d’Unités</keyword>
-</bibitem><bibitem id="_cd0a9aa2-83a9-b28f-40b8-a99d6d776444" type="standard" schema-version="v1.2.9" anchor="IEEE_Std_260.1">
-  <fetched>2026-04-16</fetched>
+  <keyword>
+    <vocab language="en" script="Latn">Measurement units</vocab>
+  </keyword>
+  <keyword>
+    <vocab language="en" script="Latn">conversion factors</vocab>
+  </keyword>
+  <keyword>
+    <vocab language="en" script="Latn">international system</vocab>
+  </keyword>
+  <keyword>
+    <vocab language="en" script="Latn">metric practice</vocab>
+  </keyword>
+  <keyword>
+    <vocab language="en" script="Latn">metric system</vocab>
+  </keyword>
+  <keyword>
+    <vocab language="en" script="Latn">rounding</vocab>
+  </keyword>
+  <keyword>
+    <vocab language="en" script="Latn">SI</vocab>
+  </keyword>
+  <keyword>
+    <vocab language="en" script="Latn">Système International d’Unités</vocab>
+  </keyword>
+</bibitem><bibitem id="_0f4929cf-1ba8-7346-555a-355ef98c02a2" type="standard" schema-version="v1.5.6" anchor="IEEE_Std_260.1">
+  <fetched>2026-06-16</fetched>
   
-<title type="main" format="text/plain">IEEE Standard Letter Symbols for Units of Measurement (SI Customary Inch-Pound Units, and Certain Other Units)</title>
+<title type="main">IEEE Standard Letter Symbols for Units of Measurement (SI Customary Inch-Pound Units, and Certain Other Units)</title>
 
   <uri type="src">https://ieeexplore.ieee.org/document/1337729</uri>
   <docidentifier type="IEEE" primary="true">IEEE Std 260.1-2004</docidentifier>
@@ -1072,46 +1123,84 @@ Committee C2-2012, National Electrical Safety Code<sup>®</sup> (NESC<sup>®</su
     <role type="publisher"/>
     <organization>
       
-<name>Institute of Electrical and Electronics Engineers</name>
+<name language="en" script="Latn">Institute of Electrical and Electronics Engineers</name>
 
       <abbreviation>IEEE</abbreviation>
-      <uri>http://www.ieee.org</uri>
       <address>
         <city>New York</city>
         <country>USA</country>
       </address>
+      <uri type="org">http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="author">
+      <description language="en" script="Latn">committee</description>
+    </role>
+    <organization>
+      
+<name language="en" script="Latn">Institute of Electrical and Electronics Engineers</name>
+
+      <subdivision type="committee">
+        
+<name language="en" script="Latn">IEEE-SASB Coordinating Committees</name>
+
+      </subdivision>
+      <abbreviation>IEEE</abbreviation>
     </organization>
   </contributor>
   <language>en</language>
   <script>Latn</script>
-  <abstract format="text/plain" language="en" script="Latn">Revision of IEEE Std 260.1-1993, Letter symbols for units of measurement are covered in this standard.</abstract>
+  <abstract language="en" script="Latn">Revision of IEEE Std 260.1-1993, Letter symbols for units of measurement are covered in this standard.</abstract>
   <copyright>
     <from>2004</from>
     <owner>
       <organization>
         
-<name>Institute of Electrical and Electronics Engineers</name>
+<name language="en" script="Latn">Institute of Electrical and Electronics Engineers</name>
 
         <abbreviation>IEEE</abbreviation>
-        <uri>http://www.ieee.org</uri>
+        <uri type="org">http://www.ieee.org</uri>
       </organization>
     </owner>
   </copyright>
-  <keyword>IEEE Standards</keyword>
-  <keyword>Patents</keyword>
-  <keyword>Measurement units</keyword>
-  <keyword>Licenses</keyword>
-  <keyword>Trademarks</keyword>
-  <keyword>letter symbols</keyword>
-  <keyword>limited typography</keyword>
-  <keyword>metric</keyword>
-  <keyword>quantities</keyword>
-  <keyword>SI</keyword>
-  <keyword>units of measurement</keyword>
-</bibitem><bibitem id="_579546a6-4d21-57a7-ce1d-1300ba83234d" type="standard" schema-version="v1.2.9" anchor="IEEE_Std_91">
-  <fetched>2026-04-16</fetched>
+  <keyword>
+    <vocab language="en" script="Latn">IEEE Standards</vocab>
+  </keyword>
+  <keyword>
+    <vocab language="en" script="Latn">Patents</vocab>
+  </keyword>
+  <keyword>
+    <vocab language="en" script="Latn">Measurement units</vocab>
+  </keyword>
+  <keyword>
+    <vocab language="en" script="Latn">Licenses</vocab>
+  </keyword>
+  <keyword>
+    <vocab language="en" script="Latn">Trademarks</vocab>
+  </keyword>
+  <keyword>
+    <vocab language="en" script="Latn">letter symbols</vocab>
+  </keyword>
+  <keyword>
+    <vocab language="en" script="Latn">limited typography</vocab>
+  </keyword>
+  <keyword>
+    <vocab language="en" script="Latn">metric</vocab>
+  </keyword>
+  <keyword>
+    <vocab language="en" script="Latn">quantities</vocab>
+  </keyword>
+  <keyword>
+    <vocab language="en" script="Latn">SI</vocab>
+  </keyword>
+  <keyword>
+    <vocab language="en" script="Latn">units of measurement</vocab>
+  </keyword>
+</bibitem><bibitem id="_3537c09d-d206-6335-8606-65dcae59d5e6" type="standard" schema-version="v1.5.6" anchor="IEEE_Std_91">
+  <fetched>2026-06-16</fetched>
   
-<title type="main" format="text/plain">IEEE Graphic Symbols for Logic Diagrams (Two State Devices)</title>
+<title type="main">IEEE Graphic Symbols for Logic Diagrams (Two State Devices)</title>
 
   <uri type="src">https://ieeexplore.ieee.org/document/7440753</uri>
   <docidentifier type="IEEE" primary="true">IEEE Std 91-1973</docidentifier>
@@ -1135,10 +1224,10 @@ Committee C2-2012, National Electrical Safety Code<sup>®</sup> (NESC<sup>®</su
     <role type="publisher"/>
     <organization>
       
-<name>Institute of Electrical and Electronics Engineers</name>
+<name language="en" script="Latn">Institute of Electrical and Electronics Engineers</name>
 
       <abbreviation>IEEE</abbreviation>
-      <uri>http://www.ieee.org</uri>
+      <uri type="org">http://www.ieee.org</uri>
     </organization>
   </contributor>
   <language>en</language>
@@ -1148,40 +1237,63 @@ Committee C2-2012, National Electrical Safety Code<sup>®</sup> (NESC<sup>®</su
     <owner>
       <organization>
         
-<name>Institute of Electrical and Electronics Engineers</name>
+<name language="en" script="Latn">Institute of Electrical and Electronics Engineers</name>
 
         <abbreviation>IEEE</abbreviation>
-        <uri>http://www.ieee.org</uri>
+        <uri type="org">http://www.ieee.org</uri>
       </organization>
     </owner>
   </copyright>
-  <keyword>IEEE standards</keyword>
-  <keyword>Symbols</keyword>
-  <keyword>Graphics</keyword>
-  <keyword>Logic diagrams</keyword>
-  <keyword>Terminology</keyword>
-</bibitem><bibitem id="_1d0d4b5b-5662-e991-a084-94bcab7128be" type="standard" schema-version="v1.2.9" anchor="ISO-IEC_27002">
-  <fetched>2026-04-16</fetched>
+  <keyword>
+    <vocab language="en" script="Latn">IEEE standards</vocab>
+  </keyword>
+  <keyword>
+    <vocab language="en" script="Latn">Symbols</vocab>
+  </keyword>
+  <keyword>
+    <vocab language="en" script="Latn">Graphics</vocab>
+  </keyword>
+  <keyword>
+    <vocab language="en" script="Latn">Logic diagrams</vocab>
+  </keyword>
+  <keyword>
+    <vocab language="en" script="Latn">Terminology</vocab>
+  </keyword>
+</bibitem><bibitem id="_fe811c4c-5d8e-4bf7-d27d-e8589e238a68" type="standard" schema-version="v1.5.6" anchor="ISO-IEC_27002">
+  <fetched>2026-06-16</fetched>
   
-<title type="title-intro" format="text/plain" language="en" script="Latn">Information technology</title>
+<title language="en" script="Latn" type="title-intro">Information technology</title>
 
   
-<title type="title-main" format="text/plain" language="en" script="Latn">Security techniques</title>
+<title language="en" script="Latn" type="title-main">Security techniques</title>
 
   
-<title type="title-part" format="text/plain" language="en" script="Latn">Code of practice for information security controls</title>
+<title language="en" script="Latn" type="title-part">Code of practice for information security controls</title>
 
   
-<title type="main" format="text/plain" language="en" script="Latn">Information technology — Security techniques — Code of practice for information security controls</title>
+<title language="en" script="Latn" type="main">Information technology — Security techniques — Code of practice for information security controls</title>
+
+  
+<title language="fr" script="Latn" type="title-intro">Technologies de l’information</title>
+
+  
+<title language="fr" script="Latn" type="title-main">Techniques de sécurité</title>
+
+  
+<title language="fr" script="Latn" type="title-part">Code de bonne pratique pour le management de la sécurité de l’information</title>
+
+  
+<title language="fr" script="Latn" type="main">Technologies de l’information — Techniques de sécurité — Code de bonne pratique pour le management de la sécurité de l’information</title>
 
   <uri type="src">https://www.iso.org/standard/54533.html</uri>
+  <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:54533:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/05/45/54533.detail.rss</uri>
   <docidentifier type="ISO" primary="true">ISO/IEC 27002:2013</docidentifier>
   <docidentifier type="iso-reference">ISO/IEC 27002:2013(E)</docidentifier>
   <docidentifier type="URN">urn:iso:std:iso-iec:27002:stage-95.99</docidentifier>
   <docnumber>27002</docnumber>
   <date type="published">
-    <on>2013-10</on>
+    <on>2013-09-25</on>
   </date>
   <contributor>
     <role type="publisher"/>
@@ -1203,12 +1315,28 @@ Committee C2-2012, National Electrical Safety Code<sup>®</sup> (NESC<sup>®</su
       <uri>www.iec.ch</uri>
     </organization>
   </contributor>
+  <contributor>
+    <role type="author">
+      <description>committee</description>
+    </role>
+    <organization>
+      
+<name>International Organization for Standardization</name>
+
+      <subdivision type="technical-committee" subtype="IEC">
+        
+<name>Information security, cybersecurity and privacy protection</name>
+
+        <identifier>ISO/IEC JTC 1/SC 27</identifier>
+      </subdivision>
+      <abbreviation>ISO</abbreviation>
+    </organization>
+  </contributor>
   <edition>2</edition>
   <note type="Availability"><p id="_d7d845e8-d0d8-6054-2ee3-9e15699a1da1">ISO/IEC documents are available from the International Organization for Standardization (https://www.iso.org/). ISO/IEC publications are also available in the United States from Global Engineering Documents (https://global.ihs.com/). Electronic copies are available in the United States from the American National Standards Institute (https://www.ansi.org/)</p></note><language>en</language>
   <language>fr</language>
   <script>Latn</script>
-  <abstract format="text/plain" language="en" script="Latn">ISO/IEC 27002:2013 gives guidelines for organizational information security standards and information security management practices including the selection, implementation and management of controls taking into consideration the organization’s information security risk environment(s).
-It is designed to be used by organizations that intend to:</abstract>
+  <abstract language="en" script="Latn">ISO/IEC 27002:2013 gives guidelines for organizational information security standards and information security management practices including the selection, implementation and management of controls taking into consideration the organization’s information security risk environment(s). It is designed to be used by organizations that intend to: select controls within the process of implementing an Information Security Management System based on ISO/IEC 27001; implement commonly accepted information security controls; develop their own information security management guidelines.</abstract>
   <status>
     <stage>95</stage>
     <substage>99</substage>
@@ -1224,38 +1352,31 @@ It is designed to be used by organizations that intend to:</abstract>
     </owner>
   </copyright>
   <relation type="obsoletes">
-    <bibitem type="standard">
-      <formattedref format="text/plain">ISO/IEC 27002:2005</formattedref>
+    <bibitem>
+      <formattedref>ISO/IEC 27002:2005</formattedref>
       <docidentifier type="ISO" primary="true">ISO/IEC 27002:2005</docidentifier>
-    </bibitem>
-
-  </relation>
-  <relation type="updates">
-    <bibitem type="standard">
-      <formattedref format="text/plain">ISO/IEC 27002:2022</formattedref>
-      <docidentifier type="ISO" primary="true">ISO/IEC 27002:2022</docidentifier>
-      <date type="circulated">
-        <on>2022-02-15</on>
+      <date type="published">
+        <on>2005-06-15</on>
       </date>
     </bibitem>
 
   </relation>
-  <relation type="updates">
-    <bibitem type="standard">
-      <formattedref format="text/plain">ISO/IEC 27002:2013/Cor 1:2014</formattedref>
+  <relation type="updatedBy">
+    <bibitem>
+      <formattedref>ISO/IEC 27002:2013/Cor 1:2014</formattedref>
       <docidentifier type="ISO" primary="true">ISO/IEC 27002:2013/Cor 1:2014</docidentifier>
-      <date type="circulated">
-        <on>2022-02-15</on>
+      <date type="published">
+        <on>2014-09-18</on>
       </date>
     </bibitem>
 
   </relation>
-  <relation type="updates">
-    <bibitem type="standard">
-      <formattedref format="text/plain">ISO/IEC 27002:2013/Cor 2:2015</formattedref>
+  <relation type="updatedBy">
+    <bibitem>
+      <formattedref>ISO/IEC 27002:2013/Cor 2:2015</formattedref>
       <docidentifier type="ISO" primary="true">ISO/IEC 27002:2013/Cor 2:2015</docidentifier>
-      <date type="circulated">
-        <on>2022-02-15</on>
+      <date type="published">
+        <on>2015-11-06</on>
       </date>
     </bibitem>
 

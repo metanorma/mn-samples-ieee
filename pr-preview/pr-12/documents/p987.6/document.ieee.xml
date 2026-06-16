@@ -697,21 +697,21 @@ Users are encouraged to periodically check for errata.</p>
 <label>1.3</label>
 <title>Word usage</title>
 
-<p>The word <italic>shall</italic> indicates mandatory requirements strictly to be followed in order to conform to the standard and from which no deviation is permitted (<italic>shall</italic> equals <italic>is required to</italic>).<xref rid="fn__9b0ddbff-767f-452c-85c3-260f14474fa6_6_6" ref-type="fn">
-<sup>_9b0ddbff-767f-452c-85c3-260f14474fa6_6</sup>
+<p>The word <italic>shall</italic> indicates mandatory requirements strictly to be followed in order to conform to the standard and from which no deviation is permitted (<italic>shall</italic> equals <italic>is required to</italic>).<xref rid="fn__d847cbde-8834-4a52-bc42-4e159a9d7a70_6_6" ref-type="fn">
+<sup>_d847cbde-8834-4a52-bc42-4e159a9d7a70_6</sup>
 </xref>
-<fn id="fn__9b0ddbff-767f-452c-85c3-260f14474fa6_6_6">
+<fn id="fn__d847cbde-8834-4a52-bc42-4e159a9d7a70_6_6">
 <label>
-<sup>_9b0ddbff-767f-452c-85c3-260f14474fa6_6</sup>
+<sup>_d847cbde-8834-4a52-bc42-4e159a9d7a70_6</sup>
 </label>
 <p>The use of the word <italic>must</italic> is deprecated and cannot be used when stating mandatory requirements; <italic>must</italic> is used only to describe unavoidable situations.</p>
 </fn>
-<xref rid="fn__83f87643-bfcc-4af8-97f5-86623102d364_7_7" ref-type="fn">
-<sup>_83f87643-bfcc-4af8-97f5-86623102d364_7</sup>
+<xref rid="fn__a6075741-ce1e-4658-809a-901e6f364be9_7_7" ref-type="fn">
+<sup>_a6075741-ce1e-4658-809a-901e6f364be9_7</sup>
 </xref>
-<fn id="fn__83f87643-bfcc-4af8-97f5-86623102d364_7_7">
+<fn id="fn__a6075741-ce1e-4658-809a-901e6f364be9_7_7">
 <label>
-<sup>_83f87643-bfcc-4af8-97f5-86623102d364_7</sup>
+<sup>_a6075741-ce1e-4658-809a-901e6f364be9_7</sup>
 </label>
 <p>The use of <italic>will</italic> is deprecated and cannot be used when stating mandatory requirements; <italic>will</italic> is only used in statements of fact.</p>
 </fn>
@@ -724,7 +724,7 @@ Users are encouraged to periodically check for errata.</p>
 <p>The word <italic>can</italic> is used for statements of possibility and capability, whether material, physical, or causal (<italic>can</italic> equals <italic>is able to</italic>).</p>
 </sec>
 </sec>
-<sec id="_a992ac63-2bda-142a-eb36-05b0330f483c">
+<sec id="_2e0fe165-9f8b-3f26-0de6-57d484281cd4">
 <label>2.</label>
 <title>Normative references</title>
 <p>The following referenced documents are indispensable for the application of this document (i.e., they must be understood and used, so each referenced document is cited in text and its relationship to this document is explained). For dated references, only the edition cited applies. For undated references, the latest edition of the referenced document (including any amendments or corrigenda) applies.</p>
@@ -773,7 +773,7 @@ Users are encouraged to periodically check for errata.</p>
 </fn>
 </p>
 </list-item>
-<list-item id="_aff8be0f-3a87-faa7-bf07-929def16ed6c">
+<list-item id="_460215f1-8c68-64c6-bc13-fae7f333afaa">
 <p>
 <mixed-citation publication-type="standard" publication-format="print">
 <std>
@@ -783,7 +783,7 @@ Users are encouraged to periodically check for errata.</p>
 		</mixed-citation>
 </p>
 </list-item>
-<list-item id="_cd0a9aa2-83a9-b28f-40b8-a99d6d776444">
+<list-item id="_0f4929cf-1ba8-7346-555a-355ef98c02a2">
 <p>
 <mixed-citation publication-type="standard" publication-format="print">
 <std>
@@ -794,7 +794,7 @@ Users are encouraged to periodically check for errata.</p>
 		</mixed-citation>
 </p>
 </list-item>
-<list-item id="_579546a6-4d21-57a7-ce1d-1300ba83234d">
+<list-item id="_3537c09d-d206-6335-8606-65dcae59d5e6">
 <p>
 <mixed-citation publication-type="standard" publication-format="print">
 <std>
@@ -805,13 +805,13 @@ Users are encouraged to periodically check for errata.</p>
 		</mixed-citation>
 </p>
 </list-item>
-<list-item id="_1d0d4b5b-5662-e991-a084-94bcab7128be">
+<list-item id="_fe811c4c-5d8e-4bf7-d27d-e8589e238a68">
 <p>
 <mixed-citation publication-type="standard" publication-format="print">
 <std>
 <std-organization>ISO/IEC</std-organization> Std	
 				<pub-id>27002</pub-id>™-<year>2013</year>
-<source specific-use="IEEE">Information technologySecurity techniquesCode of practice for information security controlsInformation technology — Security techniques — Code of practice for information security controls</source>
+<source specific-use="IEEE">Information technologySecurity techniquesCode of practice for information security controlsInformation technology — Security techniques — Code of practice for information security controlsTechnologies de l’informationTechniques de sécuritéCode de bonne pratique pour le management de la sécurité de l’informationTechnologies de l’information — Techniques de sécurité — Code de bonne pratique pour le management de la sécurité de l’information</source>
 </std>.
 		</mixed-citation>
 </p>
@@ -857,12 +857,12 @@ Users are encouraged to periodically check for errata.</p>
 <sec id="_04681df1-5ec4-a5bd-f094-c440a7a6ced6">
 <label>3.1</label>
 <title>Definitions</title>
-<p>For the purposes of this document, the following terms and definitions apply. The <italic>IEEE Standards Dictionary Online</italic> should be consulted for terms not defined in this clause.<xref rid="fn__78721ce4-bc9c-4e9b-93a2-9fd9cccb118a_1_8" ref-type="fn">
-<sup>_78721ce4-bc9c-4e9b-93a2-9fd9cccb118a_1</sup>
+<p>For the purposes of this document, the following terms and definitions apply. The <italic>IEEE Standards Dictionary Online</italic> should be consulted for terms not defined in this clause.<xref rid="fn__4e52d906-8870-47b8-9df0-85475fb0658e__ed16438c-9e20-4291-8cdb-9da9776967c0_1_8" ref-type="fn">
+<sup>_4e52d906-8870-47b8-9df0-85475fb0658e__ed16438c-9e20-4291-8cdb-9da9776967c0_1</sup>
 </xref>
-<fn id="fn__78721ce4-bc9c-4e9b-93a2-9fd9cccb118a_1_8">
+<fn id="fn__4e52d906-8870-47b8-9df0-85475fb0658e__ed16438c-9e20-4291-8cdb-9da9776967c0_1_8">
 <label>
-<sup>_78721ce4-bc9c-4e9b-93a2-9fd9cccb118a_1</sup>
+<sup>_4e52d906-8870-47b8-9df0-85475fb0658e__ed16438c-9e20-4291-8cdb-9da9776967c0_1</sup>
 </label>
 <p>
 <italic>IEEE Standards Dictionary Online</italic> is available at: . An IEEE Account is required for access to the dictionary, and one can be created at no charge on the dictionary sign-in page.</p>
@@ -1356,7 +1356,7 @@ Liquid-filled
 <p>Permissions have been granted as follows:</p>
 </ack>
 <app-group>
-<app id="_1cfd89b7-4b13-0a29-c3c3-49c3c31ce1bd" normative="no">
+<app id="_db8d50ab-beff-6e9e-07e9-c4d6855f7c09" normative="no">
 <label>Annex A</label>
 <annex-type>(informative)</annex-type>
 <title>Sample bibliography</title>
@@ -1369,13 +1369,13 @@ Liquid-filled
 Industry Needs.</source>
 </mixed-citation>
 </ref>
-<ref content-type="standard" id="_40a10604-4ff8-7ce8-bf58-9acaa5937dc3">
+<ref content-type="standard" id="_919b9214-1aa5-e7af-a39e-1fe1cae7b895">
 <label>[B2]</label>
 <mixed-citation publication-type="standard" publication-format="print">
 <std>
 <std-organization>ISO/IEC</std-organization> Std	
 				<pub-id>9945-1</pub-id>™-<year>2003</year>
-<source specific-use="IEEE">Information technologyPortable Operating System Interface (POSIX)Part 1: Base DefinitionsInformation technology — Portable Operating System Interface (POSIX) — Part 1: Base Definitions</source>
+<source specific-use="IEEE">Information technologyPortable Operating System Interface (POSIX)Part 1: Base DefinitionsInformation technology — Portable Operating System Interface (POSIX) — Part 1: Base DefinitionsTechnologies de l’informationInterface pour la portabilité des systèmes (POSIX)Partie 1: Définitions de baseTechnologies de l’information — Interface pour la portabilité des systèmes (POSIX) — Partie 1: Définitions de base</source>
 </std>.
 		</mixed-citation>
 </ref>
