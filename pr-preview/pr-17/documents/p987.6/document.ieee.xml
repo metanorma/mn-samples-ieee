@@ -697,21 +697,21 @@ Users are encouraged to periodically check for errata.</p>
 <label>1.3</label>
 <title>Word usage</title>
 
-<p>The word <italic>shall</italic> indicates mandatory requirements strictly to be followed in order to conform to the standard and from which no deviation is permitted (<italic>shall</italic> equals <italic>is required to</italic>).<xref rid="fn__3f06f467-bd5f-49a1-9861-f28360e0fe2a_6_6" ref-type="fn">
-<sup>_3f06f467-bd5f-49a1-9861-f28360e0fe2a_6</sup>
+<p>The word <italic>shall</italic> indicates mandatory requirements strictly to be followed in order to conform to the standard and from which no deviation is permitted (<italic>shall</italic> equals <italic>is required to</italic>).<xref rid="fn__ec514d49-eda7-4479-8347-b66b266ea624_6_6" ref-type="fn">
+<sup>_ec514d49-eda7-4479-8347-b66b266ea624_6</sup>
 </xref>
-<fn id="fn__3f06f467-bd5f-49a1-9861-f28360e0fe2a_6_6">
+<fn id="fn__ec514d49-eda7-4479-8347-b66b266ea624_6_6">
 <label>
-<sup>_3f06f467-bd5f-49a1-9861-f28360e0fe2a_6</sup>
+<sup>_ec514d49-eda7-4479-8347-b66b266ea624_6</sup>
 </label>
 <p>The use of the word <italic>must</italic> is deprecated and cannot be used when stating mandatory requirements; <italic>must</italic> is used only to describe unavoidable situations.</p>
 </fn>
-<xref rid="fn__cc6f769e-75d2-47fe-872e-d779bbeeeb97_7_7" ref-type="fn">
-<sup>_cc6f769e-75d2-47fe-872e-d779bbeeeb97_7</sup>
+<xref rid="fn__0bc947e7-daa6-49ae-8929-5a65116f6524_7_7" ref-type="fn">
+<sup>_0bc947e7-daa6-49ae-8929-5a65116f6524_7</sup>
 </xref>
-<fn id="fn__cc6f769e-75d2-47fe-872e-d779bbeeeb97_7_7">
+<fn id="fn__0bc947e7-daa6-49ae-8929-5a65116f6524_7_7">
 <label>
-<sup>_cc6f769e-75d2-47fe-872e-d779bbeeeb97_7</sup>
+<sup>_0bc947e7-daa6-49ae-8929-5a65116f6524_7</sup>
 </label>
 <p>The use of <italic>will</italic> is deprecated and cannot be used when stating mandatory requirements; <italic>will</italic> is only used in statements of fact.</p>
 </fn>
@@ -856,12 +856,12 @@ Users are encouraged to periodically check for errata.</p>
 <sec id="_04681df1-5ec4-a5bd-f094-c440a7a6ced6">
 <label>3.1</label>
 <title>Definitions</title>
-<p>For the purposes of this document, the following terms and definitions apply. The <italic>IEEE Standards Dictionary Online</italic> should be consulted for terms not defined in this clause.<xref rid="fn__0b8fae3c-80e4-45ab-b420-563fbe27496f__5856fcbd-dd5b-49df-9d48-5a885e813625_1_8" ref-type="fn">
-<sup>_0b8fae3c-80e4-45ab-b420-563fbe27496f__5856fcbd-dd5b-49df-9d48-5a885e813625_1</sup>
+<p>For the purposes of this document, the following terms and definitions apply. The <italic>IEEE Standards Dictionary Online</italic> should be consulted for terms not defined in this clause.<xref rid="fn__96ed570e-4b75-40aa-a12b-8d1a93a97344__1a986976-57e4-4cc3-a7bc-6b02ebbe7745_1_8" ref-type="fn">
+<sup>_96ed570e-4b75-40aa-a12b-8d1a93a97344__1a986976-57e4-4cc3-a7bc-6b02ebbe7745_1</sup>
 </xref>
-<fn id="fn__0b8fae3c-80e4-45ab-b420-563fbe27496f__5856fcbd-dd5b-49df-9d48-5a885e813625_1_8">
+<fn id="fn__96ed570e-4b75-40aa-a12b-8d1a93a97344__1a986976-57e4-4cc3-a7bc-6b02ebbe7745_1_8">
 <label>
-<sup>_0b8fae3c-80e4-45ab-b420-563fbe27496f__5856fcbd-dd5b-49df-9d48-5a885e813625_1</sup>
+<sup>_96ed570e-4b75-40aa-a12b-8d1a93a97344__1a986976-57e4-4cc3-a7bc-6b02ebbe7745_1</sup>
 </label>
 <p>
 <italic>IEEE Standards Dictionary Online</italic> is available at: . An IEEE Account is required for access to the dictionary, and one can be created at no charge on the dictionary sign-in page.</p>
