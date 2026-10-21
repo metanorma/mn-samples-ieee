@@ -697,21 +697,21 @@ Users are encouraged to periodically check for errata.</p>
 <label>1.3</label>
 <title>Word usage</title>
 
-<p>The word <italic>shall</italic> indicates mandatory requirements strictly to be followed in order to conform to the standard and from which no deviation is permitted (<italic>shall</italic> equals <italic>is required to</italic>).<xref rid="fn__1900cd25-b913-4ce6-9ee2-3702769938df_6_6" ref-type="fn">
-<sup>_1900cd25-b913-4ce6-9ee2-3702769938df_6</sup>
+<p>The word <italic>shall</italic> indicates mandatory requirements strictly to be followed in order to conform to the standard and from which no deviation is permitted (<italic>shall</italic> equals <italic>is required to</italic>).<xref rid="fn__1afb1dce-8554-4282-af42-4a0f9067fd0c_6_6" ref-type="fn">
+<sup>_1afb1dce-8554-4282-af42-4a0f9067fd0c_6</sup>
 </xref>
-<fn id="fn__1900cd25-b913-4ce6-9ee2-3702769938df_6_6">
+<fn id="fn__1afb1dce-8554-4282-af42-4a0f9067fd0c_6_6">
 <label>
-<sup>_1900cd25-b913-4ce6-9ee2-3702769938df_6</sup>
+<sup>_1afb1dce-8554-4282-af42-4a0f9067fd0c_6</sup>
 </label>
 <p>The use of the word <italic>must</italic> is deprecated and cannot be used when stating mandatory requirements; <italic>must</italic> is used only to describe unavoidable situations.</p>
 </fn>
-<xref rid="fn__f8f8dd5d-fd26-498c-8e87-ae3fd2597953_7_7" ref-type="fn">
-<sup>_f8f8dd5d-fd26-498c-8e87-ae3fd2597953_7</sup>
+<xref rid="fn__8a3b14c4-8f09-4758-be7c-3e760c27b5e3_7_7" ref-type="fn">
+<sup>_8a3b14c4-8f09-4758-be7c-3e760c27b5e3_7</sup>
 </xref>
-<fn id="fn__f8f8dd5d-fd26-498c-8e87-ae3fd2597953_7_7">
+<fn id="fn__8a3b14c4-8f09-4758-be7c-3e760c27b5e3_7_7">
 <label>
-<sup>_f8f8dd5d-fd26-498c-8e87-ae3fd2597953_7</sup>
+<sup>_8a3b14c4-8f09-4758-be7c-3e760c27b5e3_7</sup>
 </label>
 <p>The use of <italic>will</italic> is deprecated and cannot be used when stating mandatory requirements; <italic>will</italic> is only used in statements of fact.</p>
 </fn>
@@ -724,7 +724,7 @@ Users are encouraged to periodically check for errata.</p>
 <p>The word <italic>can</italic> is used for statements of possibility and capability, whether material, physical, or causal (<italic>can</italic> equals <italic>is able to</italic>).</p>
 </sec>
 </sec>
-<sec id="_107e8809-d7df-fd81-2337-5ff16e56f10f">
+<sec id="_a7d20648-e068-7107-f0d1-4d3ed45f4120">
 <label>2.</label>
 <title>Normative references</title>
 <p>The following referenced documents are indispensable for the application of this document (i.e., they must be understood and used, so each referenced document is cited in text and its relationship to this document is explained). For dated references, only the edition cited applies. For undated references, the latest edition of the referenced document (including any amendments or corrigenda) applies.</p>
@@ -773,7 +773,7 @@ Users are encouraged to periodically check for errata.</p>
 </fn>
 </p>
 </list-item>
-<list-item id="_0170403f-76ec-0a16-54df-58cac811f8e5">
+<list-item id="_9998dbb4-9cc8-6280-04b3-c80c071110f5">
 <p>
 <mixed-citation publication-type="standard" publication-format="print">
 <std>
@@ -783,7 +783,7 @@ Users are encouraged to periodically check for errata.</p>
 		</mixed-citation>
 </p>
 </list-item>
-<list-item id="_5f3f6e23-c2c7-c10f-e692-8178530789a4">
+<list-item id="_42e96e11-f1ab-a5db-f901-50922fad8d63">
 <p>
 <mixed-citation publication-type="standard" publication-format="print">
 <std>
@@ -794,7 +794,7 @@ Users are encouraged to periodically check for errata.</p>
 		</mixed-citation>
 </p>
 </list-item>
-<list-item id="_8612e844-5aa6-df8e-72f2-3a3084903815">
+<list-item id="_c9ec451b-01cc-c62e-b8b6-fd3977ea86bf">
 <p>
 <mixed-citation publication-type="standard" publication-format="print">
 <std>
@@ -804,7 +804,7 @@ Users are encouraged to periodically check for errata.</p>
 		</mixed-citation>
 </p>
 </list-item>
-<list-item id="_98a0ee42-38ae-1a98-3baa-9219b73c6dcc">
+<list-item id="_6a73e106-1fd8-4060-65eb-04b17e93b0a6">
 <p>
 <mixed-citation publication-type="standard" publication-format="print">
 <std>
@@ -856,12 +856,12 @@ Users are encouraged to periodically check for errata.</p>
 <sec id="_04681df1-5ec4-a5bd-f094-c440a7a6ced6">
 <label>3.1</label>
 <title>Definitions</title>
-<p>For the purposes of this document, the following terms and definitions apply. The <italic>IEEE Standards Dictionary Online</italic> should be consulted for terms not defined in this clause.<xref rid="fn__72178a0b-f2c9-4080-be47-b77ff7e01250__63ad2636-8e26-4cb8-965a-fe0ed4b26147_1_8" ref-type="fn">
-<sup>_72178a0b-f2c9-4080-be47-b77ff7e01250__63ad2636-8e26-4cb8-965a-fe0ed4b26147_1</sup>
+<p>For the purposes of this document, the following terms and definitions apply. The <italic>IEEE Standards Dictionary Online</italic> should be consulted for terms not defined in this clause.<xref rid="fn__0b08cc95-b689-4799-86f3-2d90cf2050f8__8e873855-4e80-4e6b-8ce5-99391e7e2fb2_1_8" ref-type="fn">
+<sup>_0b08cc95-b689-4799-86f3-2d90cf2050f8__8e873855-4e80-4e6b-8ce5-99391e7e2fb2_1</sup>
 </xref>
-<fn id="fn__72178a0b-f2c9-4080-be47-b77ff7e01250__63ad2636-8e26-4cb8-965a-fe0ed4b26147_1_8">
+<fn id="fn__0b08cc95-b689-4799-86f3-2d90cf2050f8__8e873855-4e80-4e6b-8ce5-99391e7e2fb2_1_8">
 <label>
-<sup>_72178a0b-f2c9-4080-be47-b77ff7e01250__63ad2636-8e26-4cb8-965a-fe0ed4b26147_1</sup>
+<sup>_0b08cc95-b689-4799-86f3-2d90cf2050f8__8e873855-4e80-4e6b-8ce5-99391e7e2fb2_1</sup>
 </label>
 <p>
 <italic>IEEE Standards Dictionary Online</italic> is available at: . An IEEE Account is required for access to the dictionary, and one can be created at no charge on the dictionary sign-in page.</p>
@@ -1355,7 +1355,7 @@ Liquid-filled
 <p>Permissions have been granted as follows:</p>
 </ack>
 <app-group>
-<app id="_8142a4ef-0603-ed94-f659-2f4663ace24b" normative="no">
+<app id="_aa79f581-b7ce-4d1b-859f-446124341082" normative="no">
 <label>Annex A</label>
 <annex-type>(informative)</annex-type>
 <title>Sample bibliography</title>
@@ -1368,7 +1368,7 @@ Liquid-filled
 Industry Needs.</source>
 </mixed-citation>
 </ref>
-<ref content-type="standard" id="_4260c23b-2123-a156-c615-2c5e2323b8e8">
+<ref content-type="standard" id="_f78dd715-417e-5977-4e03-51bb05ba210b">
 <label>[B2]</label>
 <mixed-citation publication-type="standard" publication-format="print">
 <std>
