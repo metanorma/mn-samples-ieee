@@ -7,8 +7,7 @@
   <uri type="doc">./documents/p987.6/document.doc</uri>
   <uri type="html">./documents/p987.6/document.html</uri>
   <uri type="rxl">./documents/p987.6/document.rxl</uri>
-  <docidentifier type="IEEE" primary="true">IEEE Draft Std 987.6-2020/D3</docidentifier>
-  <docidentifier type="IEEE-draft">P987.6/D3</docidentifier>
+  <docidentifier type="IEEE" primary="true">IEEE Draft 987.6/D3, 2020</docidentifier>
   <docidentifier type="IEEE" scope="PDF">STDXXXXX</docidentifier>
   <docidentifier type="IEEE" scope="print">STDPDXXXXX</docidentifier>
   <docidentifier type="ISBN" scope="PDF">978-0-XXXX-XXXX-X</docidentifier>
@@ -52,7 +51,7 @@
       <abbreviation>IEEE</abbreviation>
     </organization>
   </contributor>
-  <version>3</version>
+  <version>3 (2021-01-01)</version>
   <language>en</language>
   <script>Latn</script>
   <abstract><p>Key discussion points covered in the draft are stated here in a few complete sentences, using passive rather than active voice. The more specific the better since the abstract often populates search engines and catalog databases.</p>
@@ -116,7 +115,6 @@
       <agency>IEEE</agency>
       <class>standard</class>
       <docnumber>987.6</docnumber>
-      <version>3</version>
       <year>2020</year>
     </structuredidentifier>
   </ext>

@@ -2,10 +2,10 @@
 <front>
 <std-meta>
 <std-id std-id-type="doi"/>
-<std-designation content-type="full">IEEE Draft Std 987.6-2020/D3</std-designation>
-<std-designation content-type="full-tm">IEEE Draft Std 987.6-2020/D3</std-designation>
-<std-designation content-type="std-num">987.6-2020/D3</std-designation>
-<std-designation content-type="std-num-tm">987.6-2020/D3</std-designation>
+<std-designation content-type="full">IEEE Draft 987.6/D3, 2020</std-designation>
+<std-designation content-type="full-tm">IEEE Draft 987.6/D3, 2020</std-designation>
+<std-designation content-type="std-num">987.6/D3, 2020</std-designation>
+<std-designation content-type="std-num-tm">987.6/D3, 2020</std-designation>
 <std-designation content-type="norm"/>
 <xplore-article-id/>
 <xplore-pub-id/>
@@ -467,7 +467,7 @@ Users are encouraged to periodically check for errata.</p>
 
 
 </notes>
-<sec id="_e2ad8b2c-4b07-a130-a99e-82eb1b4d7b85">
+<sec id="_511bcb07-fa2f-7538-cefe-0679af7d12b8">
 <title>Participants</title>
 <participants-sec>
 <p>At the time this draft standard was completed, the Working Group Name had the following membership:</p>
@@ -539,6 +539,7 @@ Users are encouraged to periodically check for errata.</p>
 
 
 
+
 <participants-sec>
 <p>The following members of the individual Balloting Group Name Standards Association balloting group voted on this standard. Balloters may have voted for approval, disapproval, or abstention.</p>
 <list list-type="simple">
@@ -589,6 +590,7 @@ Users are encouraged to periodically check for errata.</p>
 </list-item>
 </list>
 </participants-sec>
+
 
 
 
@@ -666,11 +668,12 @@ Users are encouraged to periodically check for errata.</p>
 
 
 
+
 </sec>
-<sec id="_a2144578-2831-5823-1669-78f12c210883">
+<sec id="_25deaf68-0afb-4b62-c8c7-c55175627f95">
 <title>Introduction</title>
 <boxed-text position="anchor">
-<p>This introduction is not part of P987.6/D3, Draft Standard for Recommended Practice for Preparing an IEEE Standards Draft</p>
+<p>This introduction is not part of IEEE Draft 987.6/D3, 2020, Draft Standard for Recommended Practice for Preparing an IEEE Standards Draft</p>
 </boxed-text>
 <p>The introduction of the frontmatter is informative. It serves to give readers context, including background, key themes, history, etc.</p>
 </sec>
@@ -697,21 +700,21 @@ Users are encouraged to periodically check for errata.</p>
 <label>1.3</label>
 <title>Word usage</title>
 
-<p>The word <italic>shall</italic> indicates mandatory requirements strictly to be followed in order to conform to the standard and from which no deviation is permitted (<italic>shall</italic> equals <italic>is required to</italic>).<xref rid="fn__746e3b64-be36-4440-8cba-65d7ec371f9f_6_6" ref-type="fn">
-<sup>_746e3b64-be36-4440-8cba-65d7ec371f9f_6</sup>
+<p>The word <italic>shall</italic> indicates mandatory requirements strictly to be followed in order to conform to the standard and from which no deviation is permitted (<italic>shall</italic> equals <italic>is required to</italic>).<xref rid="fn__443f8e33-ce06-46ff-a003-3e3bbd004512_6_6" ref-type="fn">
+<sup>_443f8e33-ce06-46ff-a003-3e3bbd004512_6</sup>
 </xref>
-<fn id="fn__746e3b64-be36-4440-8cba-65d7ec371f9f_6_6">
+<fn id="fn__443f8e33-ce06-46ff-a003-3e3bbd004512_6_6">
 <label>
-<sup>_746e3b64-be36-4440-8cba-65d7ec371f9f_6</sup>
+<sup>_443f8e33-ce06-46ff-a003-3e3bbd004512_6</sup>
 </label>
 <p>The use of the word <italic>must</italic> is deprecated and cannot be used when stating mandatory requirements; <italic>must</italic> is used only to describe unavoidable situations.</p>
 </fn>
-<xref rid="fn__fac9086a-5b22-47e7-9a1f-c8e34c59a13f_7_7" ref-type="fn">
-<sup>_fac9086a-5b22-47e7-9a1f-c8e34c59a13f_7</sup>
+<xref rid="fn__dabcc94e-d0e4-4682-a302-1b5e927a9db5_7_7" ref-type="fn">
+<sup>_dabcc94e-d0e4-4682-a302-1b5e927a9db5_7</sup>
 </xref>
-<fn id="fn__fac9086a-5b22-47e7-9a1f-c8e34c59a13f_7_7">
+<fn id="fn__dabcc94e-d0e4-4682-a302-1b5e927a9db5_7_7">
 <label>
-<sup>_fac9086a-5b22-47e7-9a1f-c8e34c59a13f_7</sup>
+<sup>_dabcc94e-d0e4-4682-a302-1b5e927a9db5_7</sup>
 </label>
 <p>The use of <italic>will</italic> is deprecated and cannot be used when stating mandatory requirements; <italic>will</italic> is only used in statements of fact.</p>
 </fn>
@@ -724,7 +727,7 @@ Users are encouraged to periodically check for errata.</p>
 <p>The word <italic>can</italic> is used for statements of possibility and capability, whether material, physical, or causal (<italic>can</italic> equals <italic>is able to</italic>).</p>
 </sec>
 </sec>
-<sec id="_dd0d54e0-8514-6f82-3927-008a05aab35a">
+<sec id="_620d2f63-261d-763a-d3fa-a51daee96f40">
 <label>2.</label>
 <title>Normative references</title>
 <p>The following referenced documents are indispensable for the application of this document (i.e., they must be understood and used, so each referenced document is cited in text and its relationship to this document is explained). For dated references, only the edition cited applies. For undated references, the latest edition of the referenced document (including any amendments or corrigenda) applies.</p>
@@ -754,11 +757,42 @@ Users are encouraged to periodically check for errata.</p>
 </fn>
 </p>
 </list-item>
-<list-item id="_59c7ef9d-3cb9-1980-52a4-de86ef0f3948">
+<list-item id="_63688a3d-9c7f-20b7-e34a-8f53aac0a255">
+<p>
+<mixed-citation publication-type="standard" publication-format="print">
+<std>
+<std-organization>IEEE/ASTM SI 10-1997</std-organization> Std	
+				<pub-id/>™<source specific-use="IEEE">IEEE/ASTM Standard for Use of the International System of Units (SI): The Modern Metric System</source>
+</std>.
+		</mixed-citation>
+</p>
+</list-item>
+<list-item id="_180b1b79-f81c-105f-62db-52288bfe01af">
+<p>
+<mixed-citation publication-type="standard" publication-format="print">
+<std>
+<std-organization>IEEE</std-organization> Std	
+				<pub-id>Std 260.1</pub-id>™-<year>2004</year>
+<source specific-use="IEEE">IEEE Standard Letter Symbols for Units of Measurement (SI Customary Inch-Pound Units, and Certain Other Units)</source>
+</std>.
+		</mixed-citation>
+</p>
+</list-item>
+<list-item id="_db1e453a-6240-43f1-170c-c771c10078f0">
+<p>
+<mixed-citation publication-type="standard" publication-format="print">
+<std>
+<std-organization>IEEE</std-organization> Std	
+				<pub-id>Std 91-1973 (ANSI Y32.14-1973)</pub-id>™<source specific-use="IEEE">IEEE Graphic Symbols for Logic Diagrams (Two State Devices)</source>
+</std>.
+		</mixed-citation>
+</p>
+</list-item>
+<list-item id="_b09409aa-5dd6-c90e-03e8-ab82b4c7e629">
 <p>
 <mixed-citation publication-format="print" publication-type="standard">
 <std>
-<std-organization>IEEE</std-organization> Std <pub-id pub-id-type="std-designation">P802.21/D14</pub-id>™<source specific-use="IEEE">IEEE P802.21<sup>™</sup> (Draft 14, November
+<std-organization>IEEE</std-organization> Std <pub-id pub-id-type="std-designation">Unapproved Draft P802.21/D14</pub-id>™<source specific-use="IEEE">IEEE P802.21<sup>™</sup> (Draft 14, November
 2003), Draft Standard for Local and Metropolitan Area Networks — Media Independent Handover Services.</source>
 </std>
 </mixed-citation>
@@ -773,38 +807,7 @@ Users are encouraged to periodically check for errata.</p>
 </fn>
 </p>
 </list-item>
-<list-item id="_c6f1deb3-8f77-a1e8-9aa2-1ffacb7c326a">
-<p>
-<mixed-citation publication-type="standard" publication-format="print">
-<std>
-<std-organization>IEEE/ASTM SI 10-1997</std-organization> Std	
-				<pub-id/>™<source specific-use="IEEE">IEEE/ASTM Standard for Use of the International System of Units (SI): The Modern Metric System</source>
-</std>.
-		</mixed-citation>
-</p>
-</list-item>
-<list-item id="_dd8000b3-faa8-5ecb-c013-cf2bcb29cbe9">
-<p>
-<mixed-citation publication-type="standard" publication-format="print">
-<std>
-<std-organization>IEEE</std-organization> Std	
-				<pub-id>Std 260.1</pub-id>™-<year>2004</year>
-<source specific-use="IEEE">IEEE Standard Letter Symbols for Units of Measurement (SI Customary Inch-Pound Units, and Certain Other Units)</source>
-</std>.
-		</mixed-citation>
-</p>
-</list-item>
-<list-item id="_566fec54-8b65-2872-e6be-2161e3ee8a3c">
-<p>
-<mixed-citation publication-type="standard" publication-format="print">
-<std>
-<std-organization>IEEE</std-organization> Std	
-				<pub-id>Std 91-1973 (ANSI Y32.14-1973)</pub-id>™<source specific-use="IEEE">IEEE Graphic Symbols for Logic Diagrams (Two State Devices)</source>
-</std>.
-		</mixed-citation>
-</p>
-</list-item>
-<list-item id="_eedb32da-9e51-dba7-e699-a5d097818178">
+<list-item id="_5b71cea9-3437-4fb3-0225-601dfc1d0c6f">
 <p>
 <mixed-citation publication-type="standard" publication-format="print">
 <std>
@@ -856,12 +859,12 @@ Users are encouraged to periodically check for errata.</p>
 <sec id="_04681df1-5ec4-a5bd-f094-c440a7a6ced6">
 <label>3.1</label>
 <title>Definitions</title>
-<p>For the purposes of this document, the following terms and definitions apply. The <italic>IEEE Standards Dictionary Online</italic> should be consulted for terms not defined in this clause.<xref rid="fn__541b762d-4247-4b99-b3ac-7625d55ce7e4__d5f85cd9-4cb3-4bb6-afba-4e1d82d8da94_1_8" ref-type="fn">
-<sup>_541b762d-4247-4b99-b3ac-7625d55ce7e4__d5f85cd9-4cb3-4bb6-afba-4e1d82d8da94_1</sup>
+<p>For the purposes of this document, the following terms and definitions apply. The <italic>IEEE Standards Dictionary Online</italic> should be consulted for terms not defined in this clause.<xref rid="fn__2c9fd3d9-7ac0-4f27-9a65-5f220c591ebd__bdc9644e-e784-471a-acaa-06c3b43bba7b_1_8" ref-type="fn">
+<sup>_2c9fd3d9-7ac0-4f27-9a65-5f220c591ebd__bdc9644e-e784-471a-acaa-06c3b43bba7b_1</sup>
 </xref>
-<fn id="fn__541b762d-4247-4b99-b3ac-7625d55ce7e4__d5f85cd9-4cb3-4bb6-afba-4e1d82d8da94_1_8">
+<fn id="fn__2c9fd3d9-7ac0-4f27-9a65-5f220c591ebd__bdc9644e-e784-471a-acaa-06c3b43bba7b_1_8">
 <label>
-<sup>_541b762d-4247-4b99-b3ac-7625d55ce7e4__d5f85cd9-4cb3-4bb6-afba-4e1d82d8da94_1</sup>
+<sup>_2c9fd3d9-7ac0-4f27-9a65-5f220c591ebd__bdc9644e-e784-471a-acaa-06c3b43bba7b_1</sup>
 </label>
 <p>
 <italic>IEEE Standards Dictionary Online</italic> is available at: . An IEEE Account is required for access to the dictionary, and one can be created at no charge on the dictionary sign-in page.</p>
@@ -1355,7 +1358,7 @@ Liquid-filled
 <p>Permissions have been granted as follows:</p>
 </ack>
 <app-group>
-<app id="_d81e94d4-cead-f119-38a4-3bef82086db7" normative="no">
+<app id="_64ee1984-529f-4071-e0ad-e93ff5b5b2eb" normative="no">
 <label>Annex A</label>
 <annex-type>(informative)</annex-type>
 <title>Sample bibliography</title>
@@ -1368,7 +1371,7 @@ Liquid-filled
 Industry Needs.</source>
 </mixed-citation>
 </ref>
-<ref content-type="standard" id="_22c09505-a98a-d056-cf7e-aad3d6543689">
+<ref content-type="standard" id="_8eb010b7-3159-fe15-ce5f-eb2f81f5951d">
 <label>[B2]</label>
 <mixed-citation publication-type="standard" publication-format="print">
 <std>
